@@ -1,5 +1,7 @@
 # NovaCart Support Contact Categorisation
 
+[![Tests](https://github.com/AdriaRM96/support-contact-categorization/actions/workflows/tests.yml/badge.svg)](https://github.com/AdriaRM96/support-contact-categorization/actions/workflows/tests.yml)
+
 A simulated two-stage support-ticket categorisation pipeline for NovaCart, a fictional mid-sized e-commerce marketplace — built as a portfolio project to explore a real operational question: **how do you know what's driving your support volume, in near real time, without hand-tagging every ticket?**
 
 📖 **[See the wiki](../../wiki) for the extensive Q&A, the two-way implementation roadmap, and the full engineering log.**
