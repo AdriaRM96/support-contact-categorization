@@ -155,15 +155,12 @@ Actual cost for the full deploy → demo → teardown cycle in this project: **�
 | **Hybrid router** (recommended default) | 92.7% | 91.9% | 98.7% | **100%** |
 | Gemini 2.5 Flash (zero-shot) | **98.7%** | **98.3%** | **99.0%** | **100%** |
 
-<details>
-<summary><strong>What do these four columns mean?</strong></summary>
+**What do these four columns mean?**
 
 - **Final accuracy** — percent of tickets correctly classified using the *full conversation thread* (the "final" stage, run at ticket close). This is the authoritative number — it's what actually feeds trend reports.
 - **Final macro F1** — F1 score at the final stage, averaged equally across all 26 categories rather than weighted by how common each one is. This matters because the dataset is imbalanced by design (some issue types are far more common than others); a model could post a high plain accuracy just by nailing the frequent categories while quietly failing the rare ones, and macro F1 is the metric that catches that.
 - **Triage accuracy** — the same idea as final accuracy, but using only the ticket's first message (the "triage" stage, run at ticket creation, before the rest of the conversation exists).
 - **New-category accuracy** — percent correct specifically on tickets belonging to a category that had *zero* training examples when the classifier was built. This tests what happens the day after a new "kind of issue" is added to the taxonomy but no model has ever been retrained on it — see below for why this is the most important column in the table.
-
-</details>
 
 **The new-category test is the finding that matters most, not the accuracy column.** A trained classifier's prediction is always an argmax over the categories it saw during training — it structurally *cannot* output a category it's never seen, no matter how confident or uncertain it is. When a brand-new category ("Express shipping request") was introduced partway through the dataset with zero prior examples, both trained approaches scored exactly 0% on it — not "low," zero, because they always guessed the nearest known category instead. The centroid, the router, and Gemini all hit 100%, because none of them need training examples to recognise a category — they only need the taxonomy entry to exist.
 
