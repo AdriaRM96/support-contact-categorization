@@ -1,0 +1,14 @@
+faker
+pandas
+pyyaml
+python-dotenv
+jupyter
+scikit-learn
+sentence-transformers
+matplotlib
+seaborn
+numpy
+streamlit
+plotly
+google-genai
+requests

@@ -1,0 +1,8 @@
+flask
+gunicorn
+pandas
+scikit-learn
+sentence-transformers
+google-genai
+google-cloud-bigquery
+pyyaml

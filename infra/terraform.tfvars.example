@@ -1,0 +1,6 @@
+gcp_project_id      = "contacts-classification"
+gcp_region          = "europe-west1"
+vertex_ai_location  = "global"
+bq_dataset          = "novacart_support"
+use_llm_classifier  = false # set true only when ready to spend Vertex AI credit
+container_image     = "europe-west1-docker.pkg.dev/contacts-classification/novacart/classifier:latest"

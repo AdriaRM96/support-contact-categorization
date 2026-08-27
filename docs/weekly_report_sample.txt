@@ -1,0 +1,65 @@
+Weekly report — real output from a manual execution of the `weekly-report`
+Cloud Run Job (infra/service/report.py), triggered once during Stage 3
+capture on 2026-08-27, querying the actual BigQuery classified_tickets
+table populated by the live infra/simulate_tickets.py run against the
+deployed triage-classifier and final-classifier services.
+
+Weekly summary — 52 (stage, category) rows in the last 7 days
+stage    category     contacts  router/gemini disagreements
+final    PRD-001           103                            0
+final    ORD-002           102                            7
+final    RET-002            97                            4
+final    ORD-001            89                            2
+final    GEN-OTHER          35                            8
+final    PRD-004            35                            1
+final    ACC-001            34                            2
+final    PAY-002            34                            1
+final    ORD-003            32                            2
+final    ACC-002            32                            1
+final    RET-004            31                            2
+final    PAY-001            31                            4
+final    PRD-002            29                            1
+final    PAY-003            28                            1
+final    ORD-005            28                            0
+final    RET-003            28                            0
+final    PAY-004            27                            1
+final    GEN-001            27                            1
+final    PRD-005            26                            5
+final    PRD-003            24                            2
+final    RET-001            22                            3
+final    GEN-003            16                            3
+final    ORD-004            16                            0
+final    GEN-002            15                            3
+final    LOY-001            12                            0
+final    ACC-003            11                            1
+triage   PRD-001           144                            4
+triage   RET-002           143                            4
+triage   ORD-002           138                            6
+triage   ORD-001           118                            0
+triage   PAY-002            48                            2
+triage   ACC-001            41                            0
+triage   PRD-004            40                            0
+triage   PRD-002            39                            2
+triage   GEN-001            38                            0
+triage   ORD-003            38                            1
+triage   PAY-004            36                            0
+triage   PAY-001            36                            0
+triage   RET-001            35                            0
+triage   ACC-002            34                            0
+triage   PAY-003            33                            0
+triage   RET-004            33                            0
+triage   PRD-005            27                            3
+triage   GEN-002            10                            0
+triage   GEN-003            11                            0
+triage   ORD-004            24                            0
+triage   PRD-003            32                            1
+triage   RET-003            30                            0
+triage   ORD-005            30                            0
+triage   GEN-OTHER          32                            0
+triage   ACC-003             8                            0
+triage   LOY-001             8                            0
+
+Note: this job initially failed twice with a 403 (the runtime service
+account had bigquery.dataEditor but not bigquery.jobs.create, needed to run
+a query, not just write rows) -- fixed in infra/main.tf by adding
+roles/bigquery.jobUser. Logged in docs/engineering_log.md.

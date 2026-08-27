@@ -1,0 +1,372 @@
+taxonomy_version: 1
+
+categories:
+  # --- Order & shipping ---
+  - category_id: ORD-001
+    name: Order status / tracking
+    group: Order & shipping
+    description: The customer wants to know where their order is or asks for a tracking update.
+    example_phrases:
+      - "where is my order?"
+      - "can you give me a tracking update?"
+      - "my order status hasn't changed in days"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: ORD-002
+    name: Delivery delay
+    group: Order & shipping
+    description: The customer reports their order is taking longer than the promised delivery window.
+    example_phrases:
+      - "my package is late"
+      - "it was supposed to arrive yesterday"
+      - "still hasn't shipped after a week"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: ORD-003
+    name: Order never arrived / lost
+    group: Order & shipping
+    description: The customer states the order never arrived or the carrier marked it delivered but they never received it.
+    example_phrases:
+      - "my order never showed up"
+      - "tracking says delivered but I have nothing"
+      - "the courier lost my package"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: ORD-004
+    name: Incomplete order (missing items)
+    group: Order & shipping
+    description: The customer received their package but one or more items from the order are missing.
+    example_phrases:
+      - "one item is missing from my box"
+      - "I only got 2 of the 3 things I ordered"
+      - "the package was short one item"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: ORD-005
+    name: Wrong shipping address
+    group: Order & shipping
+    description: The customer needs to correct or update the shipping address on an order, usually before or during transit.
+    example_phrases:
+      - "I entered the wrong address, can you fix it?"
+      - "I need to change my delivery address"
+      - "sent to my old address by mistake"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  # --- Returns & refunds ---
+  - category_id: RET-001
+    name: How to return an item
+    group: Returns & refunds
+    description: The customer asks how the return process works or requests a return label.
+    example_phrases:
+      - "how do I return this?"
+      - "can you send me a return label?"
+      - "what's your return process?"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: RET-002
+    name: Refund status
+    group: Returns & refunds
+    description: The customer asks about the status or timeline of a refund already requested.
+    example_phrases:
+      - "when will I get my money back?"
+      - "still waiting on my refund after 10 days"
+      - "has my refund been processed yet?"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: RET-003
+    name: Incorrect / partial refund
+    group: Returns & refunds
+    description: The customer received a refund but the amount is wrong or lower than expected.
+    example_phrases:
+      - "I was only refunded half the price"
+      - "the refund amount doesn't match what I paid"
+      - "you refunded the wrong item"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: RET-004
+    name: Returns policy question
+    group: Returns & refunds
+    description: The customer asks general questions about the return window, eligibility, or conditions.
+    example_phrases:
+      - "how many days do I have to return this?"
+      - "can I return an opened item?"
+      - "what's your return policy for sale items?"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  # --- Product ---
+  - category_id: PRD-001
+    name: Defective product
+    group: Product
+    description: The product arrived broken, stopped working, or has a manufacturing defect.
+    example_phrases:
+      - "it stopped working after two days"
+      - "arrived broken"
+      - "the item is defective"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: PRD-002
+    name: Wrong item received
+    group: Product
+    description: The customer received a different product than the one they ordered.
+    example_phrases:
+      - "this isn't what I ordered"
+      - "you sent me the wrong item"
+      - "wrong color/size arrived"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: PRD-003
+    name: Pre-sale product question
+    group: Product
+    description: The customer asks a question about a product before purchasing, such as sizing, materials, or compatibility.
+    example_phrases:
+      - "does this come in a larger size?"
+      - "is this compatible with my phone?"
+      - "what material is this made of?"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: PRD-004
+    name: Stock availability
+    group: Product
+    description: The customer asks whether an item is in stock or when it will be restocked.
+    example_phrases:
+      - "when will this be back in stock?"
+      - "is this item still available?"
+      - "it shows out of stock, when will you get more?"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: PRD-005
+    name: Quality / doesn't match description
+    group: Product
+    description: The product works but the customer feels the quality or appearance doesn't match what was advertised.
+    example_phrases:
+      - "the material feels cheap compared to the photos"
+      - "it doesn't look like the pictures"
+      - "quality is worse than expected"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  # --- Payments & billing ---
+  - category_id: PAY-001
+    name: Payment failed / declined
+    group: Payments & billing
+    description: The customer's payment did not go through or was declined at checkout.
+    example_phrases:
+      - "my card was declined"
+      - "payment failed at checkout"
+      - "I can't complete my order, payment error"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: PAY-002
+    name: Duplicate or incorrect charge
+    group: Payments & billing
+    description: The customer was charged twice, or charged an amount that doesn't match their order.
+    example_phrases:
+      - "I was charged twice for the same order"
+      - "the amount charged doesn't match my total"
+      - "there's a charge I don't recognize"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: PAY-003
+    name: Invoice request
+    group: Payments & billing
+    description: The customer requests an invoice or receipt for their purchase.
+    example_phrases:
+      - "can you send me an invoice?"
+      - "I need a receipt for accounting"
+      - "where can I download my invoice?"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: PAY-004
+    name: Coupon / discount problem
+    group: Payments & billing
+    description: The customer's coupon or discount code didn't apply correctly at checkout.
+    example_phrases:
+      - "my discount code isn't working"
+      - "the coupon didn't apply to my order"
+      - "I was supposed to get 20% off"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  # --- Account ---
+  - category_id: ACC-001
+    name: Login / access issue
+    group: Account
+    description: The customer can't log in, reset their password, or access their account.
+    example_phrases:
+      - "I can't log into my account"
+      - "the password reset link isn't working"
+      - "I'm locked out of my account"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: ACC-002
+    name: Update personal details
+    group: Account
+    description: The customer wants to update their name, email, phone number, or saved address on their account.
+    example_phrases:
+      - "I need to update my email address"
+      - "can you change the phone number on my account?"
+      - "how do I edit my saved address?"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: ACC-003
+    name: Delete account / GDPR request
+    group: Account
+    description: The customer requests account deletion or exercises a data privacy right (access, export, erasure).
+    example_phrases:
+      - "please delete my account and my data"
+      - "I want a copy of all data you hold on me"
+      - "this is a GDPR erasure request"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  # --- Loyalty ---
+  - category_id: LOY-001
+    name: Loyalty points / membership question
+    group: Loyalty
+    description: The customer asks about their loyalty points balance, how to earn/redeem points, or membership tier benefits.
+    example_phrases:
+      - "how many points do I have?"
+      - "why didn't I get points for my last order?"
+      - "what do I get with the premium membership?"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  # --- General ---
+  - category_id: GEN-001
+    name: General complaint / bad experience
+    group: General
+    description: The customer expresses general dissatisfaction with their experience that isn't tied to one specific issue above.
+    example_phrases:
+      - "I'm really unhappy with the service I've received"
+      - "this has been a frustrating experience overall"
+      - "I want to file a complaint"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: GEN-002
+    name: Suggestion / feedback
+    group: General
+    description: The customer offers a suggestion or general feedback about the product range, website, or service.
+    example_phrases:
+      - "it would be great if you offered more sizes"
+      - "just some feedback about the website"
+      - "have you considered adding this feature?"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: GEN-003
+    name: Compliment / thank-you
+    group: General
+    description: The customer writes in purely to thank the team or compliment the product or service.
+    example_phrases:
+      - "just wanted to say thank you for the great service"
+      - "love this product, thank you!"
+      - "your support team was amazing"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1
+
+  - category_id: GEN-OTHER
+    name: Other / uncategorised
+    group: General
+    description: Catch-all for contacts that do not clearly fit any other category in the taxonomy.
+    example_phrases:
+      - "I'm not sure who to ask about this"
+      - "this doesn't really fit anywhere else"
+    status: active
+    created_at: "2025-01-10"
+    deprecated_at: null
+    replaced_by: null
+    taxonomy_version: 1

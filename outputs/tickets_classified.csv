@@ -1,0 +1,1201 @@
+id,subject,status,priority,type,via_channel,group_id,created_at,updated_at,predicted_category_triage,predicted_category_final,predicted_group_triage,predicted_group_final,category_disagreement,taxonomy_version
+10000,Package hasn't arrived yet,solved,low,task,web_widget,1,2025-06-26T00:48:15,2025-06-26T14:45:15,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10001,Package hasn't arrived yet,solved,normal,incident,web_widget,1,2025-07-12T19:37:34,2025-07-13T01:53:34,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10002,When will this be back in stock?,solved,normal,incident,web_widget,1,2025-08-24T05:32:40,2025-08-24T22:49:40,PRD-004,PRD-004,Product,Product,False,1
+10003,Package hasn't arrived yet,solved,normal,question,web_widget,2,2025-06-14T21:53:40,2025-06-15T16:24:40,ORD-002,GEN-003,Order & shipping,General,True,1
+10004,Address correction for #160738,solved,low,incident,web_widget,2,2025-08-15T16:48:51,2025-08-16T13:42:51,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10005,Update my account details,solved,low,problem,email,1,2025-06-21T20:07:04,2025-06-22T05:34:04,ACC-002,ACC-002,Account,Account,False,1
+10006,Still waiting on refund for #392075,closed,low,question,web_widget,1,2025-07-11T20:00:08,2025-07-12T12:31:08,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10007,Can't log in,solved,normal,problem,web_widget,1,2025-07-16T18:29:58,2025-07-17T05:43:58,ACC-001,ACC-001,Account,Account,False,1
+10008,Where is my order?,pending,normal,incident,web_widget,1,2025-07-22T05:52:06,2025-07-22T15:34:06,ORD-001,,Order & shipping,,False,1
+10009,Return policy question,solved,high,incident,web_widget,1,2025-06-25T00:40:32,2025-06-25T11:59:32,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10010,Tracking question,pending,low,question,web_widget,2,2025-08-12T11:09:55,2025-08-12T22:30:55,ORD-001,,Order & shipping,,False,1
+10011,Partial refund issue,solved,normal,incident,web_widget,1,2025-08-14T07:51:58,2025-08-14T21:08:58,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10012,Card not working at checkout,open,normal,incident,web_widget,1,2025-08-05T11:37:47,2025-08-06T01:05:47,PAY-001,,Payments & billing,,False,1
+10013,Incorrect charge amount,solved,urgent,question,web_widget,1,2025-06-20T03:09:27,2025-06-20T08:21:27,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10014,Delivery delay on #821024,closed,normal,problem,email,1,2025-07-07T09:03:15,2025-07-08T07:25:15,ORD-002,RET-004,Order & shipping,Returns & refunds,True,1
+10015,Incomplete package,solved,normal,task,email,1,2025-06-27T00:10:15,2025-06-27T21:11:15,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10016,Product arrived defective,solved,normal,question,email,1,2025-07-06T20:45:37,2025-07-07T06:22:37,PRD-001,PRD-001,Product,Product,False,1
+10017,Partial refund issue,solved,high,question,email,1,2025-06-22T17:06:08,2025-06-23T05:17:08,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10018,This isn't what I ordered,solved,low,task,web_widget,1,2025-06-07T06:38:32,2025-06-07T15:07:32,PRD-002,PRD-002,Product,Product,False,1
+10019,Package hasn't arrived yet,closed,normal,problem,web_widget,2,2025-06-17T13:14:31,2025-06-18T00:03:31,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10020,My order never arrived,solved,urgent,problem,email,1,2025-06-28T21:49:16,2025-06-29T04:54:16,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10021,Item stopped working,solved,low,task,web_widget,1,2025-08-19T10:29:00,2025-08-20T06:14:00,PRD-001,PRD-001,Product,Product,False,1
+10022,Tracking question,solved,low,incident,email,1,2025-06-25T02:07:42,2025-06-25T11:41:42,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10023,Still waiting on refund for #385470,closed,normal,task,email,1,2025-06-28T16:17:44,2025-06-28T23:48:44,RET-002,RET-004,Returns & refunds,Returns & refunds,True,1
+10024,Delivery delay on #531641,solved,high,task,web_widget,1,2025-06-10T12:30:54,2025-06-11T02:42:54,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10025,Where is my refund?,solved,low,problem,email,1,2025-06-02T05:52:35,2025-06-02T20:43:35,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10026,Card not working at checkout,open,normal,question,web_widget,1,2025-07-01T06:13:35,2025-07-01T19:04:35,PAY-001,,Payments & billing,,False,1
+10027,Tracking question,closed,normal,question,email,1,2025-08-22T20:53:29,2025-08-23T04:47:29,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10028,How do I return this?,pending,normal,problem,email,1,2025-06-03T15:14:02,2025-06-03T23:25:02,RET-001,,Returns & refunds,,False,1
+10029,Wrong address on order,pending,normal,question,email,2,2025-08-29T21:33:37,2025-08-30T03:28:37,ORD-005,,Order & shipping,,False,1
+10030,Package hasn't arrived yet,solved,normal,problem,email,1,2025-08-12T23:50:22,2025-08-13T06:42:22,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10031,Package hasn't arrived yet,solved,normal,question,web_widget,2,2025-07-01T19:56:51,2025-07-02T08:37:51,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10032,Defective bluetooth speaker,solved,low,problem,web_widget,1,2025-06-22T08:55:56,2025-06-22T19:23:56,PRD-001,PRD-001,Product,Product,False,1
+10033,Discount code not working,solved,urgent,problem,email,1,2025-06-12T02:51:54,2025-06-12T08:54:54,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10034,Charged twice,solved,normal,question,web_widget,1,2025-07-03T14:35:50,2025-07-04T01:41:50,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10035,Order #763829 missing an item,solved,normal,incident,email,1,2025-06-06T23:29:08,2025-06-07T08:12:08,ORD-004,GEN-002,Order & shipping,General,True,1
+10036,Card not working at checkout,closed,low,question,web_widget,1,2025-06-09T18:56:47,2025-06-10T02:02:47,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10037,Didn't get my discount,open,low,incident,web_widget,1,2025-08-13T11:24:27,2025-08-14T02:24:27,PAY-004,,Payments & billing,,False,1
+10038,Frustrated customer,closed,low,task,web_widget,1,2025-06-30T12:37:49,2025-07-01T00:20:49,GEN-001,GEN-001,General,General,False,1
+10039,My order is late,solved,normal,task,web_widget,2,2025-06-05T23:40:00,2025-06-06T03:06:00,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10040,Coupon issue at checkout,open,normal,incident,web_widget,2,2025-07-27T06:18:29,2025-07-27T15:48:29,PAY-004,,Payments & billing,,False,1
+10041,Card not working at checkout,solved,normal,problem,web_widget,1,2025-06-14T21:56:48,2025-06-15T09:12:48,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10042,Tracking question,open,normal,incident,web_widget,1,2025-08-15T16:52:18,2025-08-16T05:12:18,ORD-001,,Order & shipping,,False,1
+10043,Duplicate charge on my card,closed,normal,question,web_widget,1,2025-07-25T10:06:03,2025-07-26T00:44:03,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10044,Refund status,solved,normal,task,web_widget,1,2025-06-17T09:47:13,2025-06-17T22:45:13,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10045,Delivery delay on #811256,solved,high,question,web_widget,2,2025-08-22T06:45:53,2025-08-23T00:45:53,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10046,My order is late,solved,low,problem,web_widget,1,2025-06-08T10:16:23,2025-06-08T19:39:23,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10047,Refund doesn't match order #216242,solved,low,task,email,1,2025-08-12T06:17:39,2025-08-12T13:16:39,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10048,Question before buying,closed,low,incident,email,1,2025-06-22T22:44:46,2025-06-23T07:51:46,PRD-003,PRD-003,Product,Product,False,1
+10049,Lost order #889882,closed,normal,problem,web_widget,2,2025-07-20T10:16:30,2025-07-20T23:33:30,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10050,Out of stock item,closed,low,problem,web_widget,1,2025-07-09T18:51:10,2025-07-09T23:05:10,PRD-004,PRD-004,Product,Product,False,1
+10051,Card not working at checkout,closed,low,question,web_widget,2,2025-07-04T20:40:28,2025-07-05T09:10:28,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10052,Question before buying,pending,low,task,email,2,2025-08-29T19:12:20,2025-08-30T08:29:20,PRD-003,,Product,,False,1
+10053,Quick question,solved,high,problem,web_widget,2,2025-06-07T17:06:08,2025-06-08T01:40:08,GEN-OTHER,GEN-OTHER,General,General,False,1
+10054,Received wrong product,solved,low,task,web_widget,1,2025-06-09T12:05:32,2025-06-10T02:49:32,PRD-002,PRD-002,Product,Product,False,1
+10055,Return process question,pending,normal,question,email,1,2025-08-18T09:56:45,2025-08-18T20:21:45,RET-001,,Returns & refunds,,False,1
+10056,How long do I have to return an item?,closed,low,task,email,1,2025-06-05T14:24:18,2025-06-06T01:51:18,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10057,Refund status,closed,normal,task,email,1,2025-08-28T18:06:06,2025-08-29T03:41:06,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10058,Random query,closed,low,task,web_widget,1,2025-08-01T07:57:07,2025-08-01T15:48:07,GEN-OTHER,GEN-OTHER,General,General,False,1
+10059,Defective desk lamp,solved,normal,task,web_widget,1,2025-07-16T16:14:49,2025-07-17T06:58:49,PRD-001,PRD-001,Product,Product,False,1
+10060,Does this come in other sizes?,solved,normal,incident,web_widget,1,2025-06-12T02:14:36,2025-06-12T14:48:36,PRD-003,PRD-003,Product,Product,False,1
+10061,Stock availability question,closed,normal,task,email,1,2025-07-13T23:58:06,2025-07-14T12:08:06,PRD-004,GEN-OTHER,Product,General,True,1
+10062,Where is my order?,closed,low,problem,email,1,2025-06-18T13:12:51,2025-06-19T04:46:51,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10063,Stock availability question,pending,low,task,web_widget,1,2025-06-15T12:54:25,2025-06-16T03:56:25,PRD-004,,Product,,False,1
+10064,Return policy question,solved,normal,question,email,1,2025-07-20T20:21:57,2025-07-21T08:55:57,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10065,Not happy with my experience,open,normal,incident,email,2,2025-07-20T06:11:03,2025-07-20T11:51:03,GEN-001,,General,,False,1
+10066,Wrong refund amount,solved,low,question,web_widget,2,2025-08-29T01:32:19,2025-08-29T06:28:19,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10067,Package hasn't arrived yet,closed,normal,problem,web_widget,2,2025-08-10T15:20:03,2025-08-11T10:14:03,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10068,Invoice request for #160423,closed,high,problem,web_widget,1,2025-08-04T09:43:09,2025-08-04T21:58:09,PAY-003,PAY-001,Payments & billing,Payments & billing,True,1
+10069,Not sure who to ask,pending,normal,problem,email,2,2025-06-11T16:16:47,2025-06-12T01:48:47,GEN-OTHER,,General,,False,1
+10070,Delivery delay on #373441,closed,normal,task,web_widget,1,2025-06-21T03:22:47,2025-06-21T12:55:47,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10071,Incorrect charge amount,closed,high,incident,web_widget,2,2025-07-31T19:44:03,2025-08-01T05:56:03,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10072,Package marked delivered but I got nothing,closed,normal,question,web_widget,1,2025-07-27T09:55:33,2025-07-27T19:06:33,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10073,Lost order #825916,pending,normal,problem,web_widget,2,2025-08-23T15:55:02,2025-08-23T22:25:02,ORD-003,,Order & shipping,,False,1
+10074,Where is my refund?,solved,normal,problem,web_widget,2,2025-06-05T21:18:06,2025-06-06T07:02:06,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10075,Where is my order?,solved,low,problem,web_widget,1,2025-08-09T07:11:17,2025-08-09T22:12:17,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10076,Return policy question,closed,low,task,email,2,2025-08-05T14:49:40,2025-08-05T21:44:40,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10077,Receipt for accounting,solved,normal,task,web_widget,1,2025-07-05T05:30:17,2025-07-05T14:06:17,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10078,Refund status,solved,normal,problem,web_widget,2,2025-08-19T03:44:44,2025-08-19T16:27:44,RET-002,LOY-001,Returns & refunds,Loyalty,True,1
+10079,Partial refund issue,open,low,task,web_widget,1,2025-06-29T09:20:21,2025-06-29T22:59:21,RET-003,,Returns & refunds,,False,1
+10080,Defective phone case,solved,normal,problem,web_widget,1,2025-06-03T15:46:47,2025-06-04T01:38:47,PRD-001,PRD-001,Product,Product,False,1
+10081,Receipt for accounting,solved,normal,incident,web_widget,2,2025-07-27T04:38:11,2025-07-27T16:53:11,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10082,Package hasn't arrived yet,closed,normal,question,email,2,2025-07-15T02:38:08,2025-07-15T17:41:08,ORD-002,ORD-001,Order & shipping,Order & shipping,True,1
+10083,Can't complete checkout,solved,low,problem,email,1,2025-08-15T13:19:41,2025-08-16T00:51:41,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10084,Can't log in,solved,normal,task,web_widget,1,2025-06-06T09:30:17,2025-06-06T21:07:17,ACC-001,ACC-001,Account,Account,False,1
+10085,Didn't get my discount,pending,normal,question,email,1,2025-08-28T02:54:27,2025-08-28T06:44:27,PAY-004,,Payments & billing,,False,1
+10086,Locked out of my account,solved,low,problem,email,2,2025-06-28T11:26:10,2025-06-28T19:46:10,ACC-001,ACC-001,Account,Account,False,1
+10087,Need an invoice,solved,low,question,web_widget,1,2025-06-09T03:08:46,2025-06-09T14:53:46,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10088,Locked out of my account,solved,normal,question,web_widget,1,2025-08-17T02:27:42,2025-08-17T11:02:42,ACC-001,ACC-001,Account,Account,False,1
+10089,Complaint about recent order,closed,normal,incident,web_widget,1,2025-08-23T23:24:03,2025-08-24T13:08:03,GEN-001,GEN-001,General,General,False,1
+10090,Address correction for #877722,solved,low,question,web_widget,1,2025-07-26T10:00:03,2025-07-26T20:11:03,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10091,Charged twice,solved,normal,question,web_widget,1,2025-06-15T07:38:16,2025-06-15T18:58:16,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10092,Feedback about the website,closed,high,question,web_widget,2,2025-08-29T07:55:02,2025-08-29T19:49:02,GEN-002,GEN-002,General,General,False,1
+10093,Can't complete checkout,pending,normal,question,web_widget,2,2025-07-05T05:59:54,2025-07-05T12:23:54,PAY-001,,Payments & billing,,False,1
+10094,Just wanted to say thanks,solved,urgent,incident,web_widget,1,2025-07-10T14:14:42,2025-07-10T18:44:42,GEN-003,GEN-003,General,General,False,1
+10095,Need to change shipping address,pending,low,question,web_widget,1,2025-08-13T12:13:43,2025-08-13T14:47:43,ORD-005,,Order & shipping,,False,1
+10096,Wrong item received,solved,low,incident,web_widget,2,2025-07-04T21:10:43,2025-07-05T05:51:43,PRD-002,PRD-003,Product,Product,True,1
+10097,Wrong address on order,solved,normal,incident,web_widget,1,2025-06-23T08:55:41,2025-06-24T00:29:41,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10098,Random query,solved,normal,problem,email,1,2025-08-09T19:11:37,2025-08-10T04:51:37,GEN-OTHER,GEN-OTHER,General,General,False,1
+10099,Need to change shipping address,open,normal,question,web_widget,2,2025-07-15T19:17:34,2025-07-16T06:20:34,ORD-005,,Order & shipping,,False,1
+10100,A suggestion for you,open,low,question,web_widget,2,2025-08-12T01:48:40,2025-08-12T11:20:40,GEN-002,,General,,False,1
+10101,Disappointed with quality,solved,low,problem,web_widget,2,2025-07-31T23:41:40,2025-08-01T17:50:40,PRD-005,PRD-005,Product,Product,False,1
+10102,Disappointed with quality,solved,low,question,web_widget,1,2025-07-05T04:12:10,2025-07-05T15:32:10,PRD-005,PRD-005,Product,Product,False,1
+10103,Return policy question,solved,urgent,incident,web_widget,1,2025-07-07T04:16:30,2025-07-07T17:17:30,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10104,Defective backpack,open,normal,incident,email,1,2025-08-25T05:30:30,2025-08-25T08:36:30,PRD-001,,Product,,False,1
+10105,Still waiting on refund for #441968,solved,high,problem,email,1,2025-07-06T07:48:35,2025-07-06T20:22:35,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10106,Order #957091 status,pending,normal,problem,email,2,2025-08-21T15:35:23,2025-08-22T01:21:23,ORD-001,,Order & shipping,,False,1
+10107,Can't log in,solved,normal,problem,email,1,2025-06-13T08:19:49,2025-06-13T20:54:49,ACC-001,ACC-001,Account,Account,False,1
+10108,Duplicate charge on my card,pending,normal,problem,web_widget,1,2025-08-17T17:12:36,2025-08-17T23:00:36,PAY-002,,Payments & billing,,False,1
+10109,Defective phone case,solved,high,task,email,1,2025-06-28T12:02:43,2025-06-28T22:03:43,PRD-002,PRD-001,Product,Product,True,1
+10110,Where is my refund?,solved,normal,problem,web_widget,2,2025-06-24T14:43:58,2025-06-25T02:52:58,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10111,Defective laptop sleeve,closed,normal,incident,web_widget,1,2025-08-18T20:39:40,2025-08-19T03:44:40,PRD-001,PRD-001,Product,Product,False,1
+10112,My order is late,closed,normal,question,web_widget,1,2025-08-09T06:51:49,2025-08-09T14:18:49,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10113,Not as pictured,closed,normal,question,web_widget,1,2025-06-27T11:19:29,2025-06-27T18:46:29,PRD-005,PRD-005,Product,Product,False,1
+10114,Stock availability question,solved,high,incident,web_widget,1,2025-06-02T19:07:03,2025-06-03T01:43:03,PRD-004,PRD-004,Product,Product,False,1
+10115,When will this be back in stock?,solved,low,question,web_widget,1,2025-08-22T20:42:13,2025-08-23T11:12:13,PRD-004,PRD-004,Product,Product,False,1
+10116,Where is my refund?,solved,normal,incident,web_widget,1,2025-07-03T13:01:57,2025-07-04T06:05:57,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10117,Need a return label,solved,high,question,email,1,2025-06-24T19:30:41,2025-06-25T06:03:41,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10118,Wrong item received,closed,high,incident,email,1,2025-06-21T06:30:35,2025-06-21T15:48:35,PRD-002,PRD-002,Product,Product,False,1
+10119,Refund status,closed,low,incident,email,1,2025-08-05T05:33:42,2025-08-05T13:01:42,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10120,Does this come in other sizes?,closed,normal,incident,web_widget,1,2025-07-28T15:20:53,2025-07-29T05:50:53,PRD-003,PRD-003,Product,Product,False,1
+10121,Out of stock item,closed,high,question,web_widget,1,2025-07-08T13:39:38,2025-07-09T03:02:38,PRD-004,PRD-004,Product,Product,False,1
+10122,Charged twice,open,normal,problem,email,1,2025-06-25T07:13:48,2025-06-25T20:18:48,PAY-002,,Payments & billing,,False,1
+10123,Incorrect charge amount,solved,low,problem,web_widget,1,2025-07-27T11:38:55,2025-07-27T22:11:55,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10124,Incorrect charge amount,pending,normal,problem,web_widget,2,2025-07-25T07:54:03,2025-07-25T20:01:03,PAY-002,,Payments & billing,,False,1
+10125,Payment declined,solved,low,incident,web_widget,1,2025-07-22T02:15:52,2025-07-22T10:19:52,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10126,Defective smartwatch,solved,low,problem,web_widget,2,2025-08-10T09:20:34,2025-08-10T13:56:34,PRD-001,PRD-001,Product,Product,False,1
+10127,Need a return label,open,low,problem,email,1,2025-07-07T19:31:27,2025-07-08T04:12:27,RET-001,,Returns & refunds,,False,1
+10128,Defective sunglasses,closed,normal,question,web_widget,1,2025-06-04T19:15:00,2025-06-05T01:27:00,PRD-001,PRD-001,Product,Product,False,1
+10129,Complaint about recent order,solved,low,problem,web_widget,1,2025-07-23T20:19:31,2025-07-24T08:20:31,GEN-001,GEN-001,General,General,False,1
+10130,Defective running shoes,solved,normal,question,web_widget,1,2025-06-28T19:18:31,2025-06-29T09:10:31,PRD-001,ORD-003,Product,Order & shipping,True,1
+10131,Card not working at checkout,solved,high,question,web_widget,2,2025-08-02T06:34:10,2025-08-02T13:06:10,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10132,Can't complete checkout,solved,low,problem,web_widget,1,2025-06-25T21:27:53,2025-06-26T15:07:53,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10133,Does this come in other sizes?,solved,normal,question,email,1,2025-08-14T08:39:07,2025-08-14T16:30:07,PRD-003,PRD-003,Product,Product,False,1
+10134,Return eligibility,solved,normal,incident,web_widget,1,2025-07-13T21:49:55,2025-07-14T07:50:55,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10135,Order #791423 status,solved,low,task,web_widget,1,2025-08-08T11:36:07,2025-08-08T18:58:07,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10136,Delivery delay on #107543,solved,normal,task,email,2,2025-07-23T14:37:33,2025-07-24T06:52:33,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10137,My order is late,solved,high,task,web_widget,1,2025-06-15T17:26:06,2025-06-16T01:00:06,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10138,Package hasn't arrived yet,closed,low,incident,web_widget,1,2025-07-10T22:56:00,2025-07-11T07:33:00,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10139,Defective bluetooth speaker,solved,normal,incident,email,1,2025-07-17T01:53:06,2025-07-17T11:05:06,PRD-001,PRD-001,Product,Product,False,1
+10140,My order never arrived,pending,high,problem,web_widget,1,2025-08-15T17:55:16,2025-08-16T05:32:16,ORD-003,,Order & shipping,,False,1
+10141,Defective wireless headphones,closed,normal,question,web_widget,1,2025-07-31T09:16:31,2025-07-31T20:42:31,PRD-001,PRD-001,Product,Product,False,1
+10142,Stock availability question,solved,low,incident,web_widget,1,2025-07-12T21:02:20,2025-07-13T08:16:20,PRD-004,PRD-004,Product,Product,False,1
+10143,Can't log in,solved,normal,question,web_widget,2,2025-07-21T13:09:27,2025-07-22T06:25:27,ACC-001,ACC-001,Account,Account,False,1
+10144,Order #120798 missing an item,solved,normal,task,web_widget,1,2025-08-24T19:38:51,2025-08-25T05:32:51,ORD-004,ACC-003,Order & shipping,Account,True,1
+10145,Package hasn't arrived yet,solved,low,problem,web_widget,1,2025-07-11T23:40:26,2025-07-12T03:56:26,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10146,Product question about laptop sleeve,solved,normal,problem,web_widget,2,2025-06-03T14:24:02,2025-06-04T04:29:02,PRD-003,PRD-003,Product,Product,False,1
+10147,Coupon issue at checkout,solved,low,question,web_widget,1,2025-08-14T05:13:48,2025-08-14T12:29:48,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10148,Stock availability question,solved,low,incident,email,2,2025-07-26T19:35:51,2025-07-27T03:01:51,PRD-004,PRD-004,Product,Product,False,1
+10149,Where is my refund?,closed,low,question,web_widget,1,2025-06-20T18:27:21,2025-06-21T05:33:21,PAY-002,RET-002,Payments & billing,Returns & refunds,True,1
+10150,Return process question,solved,normal,incident,web_widget,1,2025-06-29T09:48:59,2025-06-29T19:52:59,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10151,Package hasn't arrived yet,closed,low,question,web_widget,1,2025-08-02T15:50:38,2025-08-03T02:04:38,ORD-002,LOY-001,Order & shipping,Loyalty,True,1
+10152,My order is late,closed,normal,incident,web_widget,1,2025-06-18T06:34:36,2025-06-18T17:24:36,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10153,Where is my order?,closed,normal,question,email,1,2025-07-18T14:56:42,2025-07-19T03:49:42,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10154,Not happy with my experience,closed,normal,problem,email,1,2025-06-28T15:53:04,2025-06-29T07:14:04,GEN-001,GEN-001,General,General,False,1
+10155,Still waiting on refund for #901305,solved,high,incident,web_widget,1,2025-06-30T13:13:54,2025-06-30T20:28:54,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10156,Lost order #368691,solved,normal,question,email,1,2025-08-20T23:24:37,2025-08-21T08:53:37,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10157,This isn't what I ordered,solved,normal,problem,web_widget,2,2025-08-24T12:40:00,2025-08-24T23:42:00,PRD-002,PRD-002,Product,Product,False,1
+10158,Refund status,closed,low,problem,web_widget,1,2025-06-19T00:46:31,2025-06-19T09:19:31,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10159,Delivery delay on #972881,pending,normal,problem,web_widget,1,2025-07-27T12:36:59,2025-07-27T20:09:59,ORD-002,,Order & shipping,,False,1
+10160,Question before buying,solved,low,problem,web_widget,1,2025-06-05T19:57:29,2025-06-06T06:28:29,PRD-003,PRD-003,Product,Product,False,1
+10161,Wrong address on order,solved,normal,incident,email,1,2025-07-03T08:20:40,2025-07-04T01:21:40,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10162,My order is late,solved,normal,problem,web_widget,2,2025-08-28T19:37:49,2025-08-29T06:05:49,ORD-003,ORD-002,Order & shipping,Order & shipping,True,1
+10163,Charged twice,open,urgent,task,email,1,2025-06-08T05:37:44,2025-06-08T11:20:44,PAY-002,,Payments & billing,,False,1
+10164,Didn't get my discount,solved,normal,task,web_widget,2,2025-07-26T08:02:47,2025-07-26T13:08:47,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10165,This isn't what I ordered,solved,normal,incident,web_widget,2,2025-07-13T04:42:53,2025-07-13T18:09:53,PRD-002,PRD-002,Product,Product,False,1
+10166,Does this come in other sizes?,closed,high,question,web_widget,2,2025-07-22T11:20:55,2025-07-22T18:11:55,PRD-003,PRD-003,Product,Product,False,1
+10167,Still waiting on refund for #730421,solved,normal,task,email,1,2025-07-12T07:12:26,2025-07-12T20:41:26,RET-002,ORD-002,Returns & refunds,Order & shipping,True,1
+10168,Password reset not working,open,normal,incident,web_widget,1,2025-06-12T02:33:44,2025-06-12T17:17:44,ACC-001,,Account,,False,1
+10169,Change email on file,closed,normal,problem,email,1,2025-08-13T13:03:11,2025-08-13T21:35:11,ACC-002,ACC-002,Account,Account,False,1
+10170,Defective smartwatch,solved,low,problem,email,1,2025-08-05T22:28:36,2025-08-06T17:02:36,PRD-001,PRD-001,Product,Product,False,1
+10171,Received wrong product,solved,normal,question,web_widget,2,2025-07-01T20:53:24,2025-07-02T09:05:24,PRD-002,PRD-002,Product,Product,False,1
+10172,Refund status,pending,low,problem,web_widget,2,2025-06-15T00:35:12,2025-06-15T04:52:12,RET-002,,Returns & refunds,,False,1
+10173,How do I return this?,pending,normal,question,web_widget,1,2025-06-26T04:21:34,2025-06-26T15:03:34,RET-001,,Returns & refunds,,False,1
+10174,Package hasn't arrived yet,closed,high,incident,email,1,2025-07-09T19:37:25,2025-07-10T06:11:25,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10175,Charged twice,solved,normal,task,web_widget,1,2025-07-31T13:06:21,2025-08-01T05:27:21,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10176,Still waiting on refund for #953452,open,low,question,email,2,2025-07-05T22:27:04,2025-07-06T07:11:04,RET-002,,Returns & refunds,,False,1
+10177,Invoice request for #708979,pending,high,question,web_widget,1,2025-06-09T05:46:13,2025-06-09T20:42:13,PAY-003,,Payments & billing,,False,1
+10178,Password reset not working,solved,low,task,email,2,2025-07-03T16:46:07,2025-07-04T05:06:07,ACC-001,ACC-001,Account,Account,False,1
+10179,Partial refund issue,solved,normal,question,web_widget,1,2025-07-08T20:27:55,2025-07-09T05:32:55,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10180,Charged twice,closed,urgent,problem,web_widget,1,2025-08-18T05:16:48,2025-08-18T18:13:48,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10181,Defective phone case,solved,normal,problem,email,2,2025-08-06T04:05:50,2025-08-06T10:29:50,PRD-001,PAY-004,Product,Payments & billing,True,1
+10182,Where is my refund?,solved,normal,task,web_widget,2,2025-08-18T11:05:02,2025-08-18T15:55:02,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10183,Still waiting on refund for #811451,closed,normal,incident,web_widget,1,2025-08-24T09:32:51,2025-08-24T21:25:51,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10184,Tracking question,solved,normal,problem,email,2,2025-06-02T02:07:26,2025-06-02T15:51:26,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10185,Where is my refund?,closed,low,task,web_widget,1,2025-08-10T17:36:03,2025-08-11T03:35:03,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10186,Change email on file,solved,normal,problem,web_widget,1,2025-08-03T17:17:21,2025-08-04T02:16:21,ACC-002,RET-003,Account,Returns & refunds,True,1
+10187,Does this come in other sizes?,closed,urgent,question,web_widget,1,2025-06-04T13:55:24,2025-06-04T19:59:24,PRD-003,PRD-003,Product,Product,False,1
+10188,Package hasn't arrived yet,solved,normal,incident,email,2,2025-07-07T21:50:07,2025-07-08T04:16:07,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10189,Item stopped working,solved,normal,task,web_widget,1,2025-07-25T03:44:51,2025-07-25T11:23:51,PRD-001,PRD-001,Product,Product,False,1
+10190,Charged twice,solved,normal,question,web_widget,2,2025-07-26T17:53:24,2025-07-27T02:19:24,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10191,Not sure who to ask,solved,normal,task,web_widget,1,2025-06-18T11:13:07,2025-06-18T22:51:07,GEN-OTHER,GEN-OTHER,General,General,False,1
+10192,Where is my order?,solved,high,task,web_widget,1,2025-07-17T20:49:07,2025-07-18T03:11:07,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10193,My order is late,solved,low,task,web_widget,1,2025-07-03T15:21:17,2025-07-04T12:13:17,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10194,Duplicate charge on my card,solved,urgent,task,email,1,2025-07-13T20:09:46,2025-07-14T07:43:46,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10195,Tracking question,solved,normal,incident,web_widget,1,2025-08-04T01:41:40,2025-08-04T16:20:40,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10196,Item stopped working,solved,low,task,email,1,2025-08-07T02:49:48,2025-08-07T11:48:48,PRD-001,PRD-004,Product,Product,True,1
+10197,Return eligibility,pending,high,problem,web_widget,1,2025-08-03T10:47:09,2025-08-03T17:21:09,RET-004,,Returns & refunds,,False,1
+10198,Product arrived defective,solved,low,question,web_widget,1,2025-07-19T06:09:53,2025-07-19T17:28:53,PRD-001,PRD-001,Product,Product,False,1
+10199,Defective bluetooth speaker,solved,normal,question,web_widget,1,2025-06-17T19:02:13,2025-06-18T16:48:13,PRD-001,PAY-003,Product,Payments & billing,True,1
+10200,Where is my refund?,solved,urgent,question,web_widget,1,2025-06-21T01:23:28,2025-06-21T13:39:28,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10201,Thank you!,closed,high,problem,web_widget,1,2025-08-13T08:01:46,2025-08-13T14:31:46,GEN-003,GEN-003,General,General,False,1
+10202,Item stopped working,solved,high,task,email,2,2025-06-28T15:54:31,2025-06-29T10:32:31,PRD-001,PRD-001,Product,Product,False,1
+10203,Incomplete package,closed,high,question,web_widget,2,2025-06-02T14:19:54,2025-06-02T22:42:54,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10204,Package hasn't arrived yet,solved,normal,incident,web_widget,1,2025-08-23T19:45:58,2025-08-24T11:18:58,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10205,Order #607778 status,solved,high,problem,web_widget,2,2025-06-11T04:03:04,2025-06-11T07:38:04,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10206,Card not working at checkout,solved,normal,question,web_widget,1,2025-08-14T14:24:37,2025-08-15T05:31:37,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10207,Stock availability question,solved,normal,question,email,1,2025-08-07T00:11:19,2025-08-07T03:29:19,PRD-004,PRD-004,Product,Product,False,1
+10208,Item stopped working,solved,normal,question,web_widget,2,2025-07-01T19:45:12,2025-07-02T07:27:12,PRD-001,PRD-001,Product,Product,False,1
+10209,Wrong address on order,solved,low,incident,web_widget,1,2025-06-30T18:14:09,2025-07-01T00:23:09,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10210,How long do I have to return an item?,closed,normal,question,email,1,2025-08-05T03:31:24,2025-08-05T13:38:24,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10211,Still waiting on refund for #793360,solved,low,incident,web_widget,1,2025-07-03T12:40:26,2025-07-04T02:12:26,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10212,How long do I have to return an item?,pending,normal,incident,web_widget,1,2025-07-10T16:26:12,2025-07-10T20:55:12,RET-004,,Returns & refunds,,False,1
+10213,Product question about winter coat,solved,low,incident,email,1,2025-06-28T07:09:27,2025-06-28T20:57:27,PRD-003,PRD-003,Product,Product,False,1
+10214,This isn't what I ordered,solved,normal,question,email,2,2025-08-22T22:24:04,2025-08-23T18:04:04,PRD-002,PRD-002,Product,Product,False,1
+10215,Tracking question,solved,low,incident,web_widget,1,2025-06-28T02:56:55,2025-06-28T18:17:55,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10216,Defective bluetooth speaker,closed,normal,problem,email,2,2025-06-06T02:10:31,2025-06-06T11:44:31,PRD-001,PRD-001,Product,Product,False,1
+10217,Complaint about recent order,open,normal,task,email,1,2025-08-22T19:27:25,2025-08-23T05:58:25,GEN-001,,General,,False,1
+10218,Refund status,pending,low,incident,email,1,2025-07-17T02:06:04,2025-07-17T12:40:04,RET-002,,Returns & refunds,,False,1
+10219,Can't log in,solved,low,task,web_widget,1,2025-06-17T13:20:25,2025-06-18T00:31:25,ACC-001,ACC-001,Account,Account,False,1
+10220,Does this come in other sizes?,solved,normal,task,email,2,2025-06-26T18:09:46,2025-06-27T03:18:46,PRD-003,PRD-003,Product,Product,False,1
+10221,My order never arrived,solved,normal,task,web_widget,1,2025-07-01T07:08:59,2025-07-01T18:46:59,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10222,Still waiting on refund for #272998,solved,low,incident,web_widget,2,2025-07-18T01:20:20,2025-07-18T09:23:20,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10223,Return eligibility,open,low,problem,web_widget,1,2025-06-16T07:38:47,2025-06-16T21:40:47,RET-004,,Returns & refunds,,False,1
+10224,Feedback about the website,solved,high,incident,web_widget,1,2025-07-12T07:53:40,2025-07-12T11:19:40,GEN-002,GEN-002,General,General,False,1
+10225,Address correction for #940014,solved,normal,task,email,2,2025-06-15T00:42:07,2025-06-15T16:53:07,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10226,Wrong refund amount,closed,normal,question,web_widget,1,2025-06-08T15:26:18,2025-06-09T04:28:18,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10227,Still waiting on refund for #838594,solved,high,task,web_widget,2,2025-06-05T02:52:05,2025-06-05T16:22:05,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10228,My order is late,solved,urgent,task,web_widget,1,2025-06-13T07:09:00,2025-06-13T16:55:00,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10229,Where is my refund?,solved,normal,problem,email,1,2025-08-15T11:57:53,2025-08-15T22:53:53,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10230,Where is my refund?,closed,low,task,web_widget,1,2025-07-29T19:36:22,2025-07-30T13:34:22,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10231,Refund status,solved,high,task,email,1,2025-06-05T06:46:01,2025-06-05T16:40:01,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10232,Frustrated customer,solved,normal,task,email,1,2025-08-11T04:38:54,2025-08-11T10:39:54,GEN-001,GEN-001,General,General,False,1
+10233,Package hasn't arrived yet,closed,normal,incident,web_widget,1,2025-06-27T02:25:32,2025-06-27T15:29:32,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10234,Random query,solved,low,problem,web_widget,1,2025-07-23T07:08:03,2025-07-24T01:53:03,GEN-OTHER,GEN-OTHER,General,General,False,1
+10235,Refund status,closed,high,incident,web_widget,1,2025-06-29T10:07:33,2025-06-29T20:56:33,RET-002,ORD-002,Returns & refunds,Order & shipping,True,1
+10236,Package marked delivered but I got nothing,closed,normal,task,email,2,2025-07-18T07:13:47,2025-07-18T18:33:47,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10237,Great service,solved,normal,task,web_widget,1,2025-07-12T15:53:08,2025-07-12T23:00:08,GEN-003,GEN-003,General,General,False,1
+10238,Update my account details,solved,normal,task,web_widget,1,2025-06-05T10:16:59,2025-06-05T23:28:59,ACC-002,ACC-002,Account,Account,False,1
+10239,Password reset not working,solved,low,problem,web_widget,2,2025-07-29T19:01:05,2025-07-30T07:19:05,ACC-001,ACC-003,Account,Account,True,1
+10240,Where is my order?,solved,low,question,web_widget,1,2025-06-17T10:19:26,2025-06-17T17:29:26,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10241,Card not working at checkout,solved,normal,incident,email,1,2025-07-15T20:55:32,2025-07-16T10:42:32,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10242,Item stopped working,solved,high,incident,web_widget,2,2025-08-27T11:35:53,2025-08-28T00:42:53,PRD-001,PRD-001,Product,Product,False,1
+10243,Item missing from my order,open,normal,problem,web_widget,2,2025-08-04T10:06:28,2025-08-04T22:13:28,ORD-004,,Order & shipping,,False,1
+10244,My order is late,pending,normal,problem,web_widget,2,2025-07-11T11:11:00,2025-07-11T16:00:00,ORD-002,,Order & shipping,,False,1
+10245,When will this be back in stock?,closed,normal,task,web_widget,1,2025-07-22T11:48:43,2025-07-23T02:27:43,PRD-004,PRD-004,Product,Product,False,1
+10246,Not as pictured,solved,normal,question,web_widget,1,2025-06-04T22:57:56,2025-06-05T02:45:56,PRD-005,PRD-005,Product,Product,False,1
+10247,Didn't get my discount,closed,normal,question,web_widget,1,2025-08-27T06:32:21,2025-08-27T14:24:21,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10248,Item stopped working,closed,normal,problem,web_widget,2,2025-06-22T05:14:55,2025-06-22T12:05:55,PRD-001,PRD-001,Product,Product,False,1
+10249,Tracking question,open,normal,incident,email,1,2025-08-12T13:07:02,2025-08-12T21:20:02,ORD-001,,Order & shipping,,False,1
+10250,Item stopped working,solved,low,question,web_widget,1,2025-08-29T09:02:29,2025-08-30T00:34:29,PRD-001,RET-003,Product,Returns & refunds,True,1
+10251,Charged twice,solved,low,problem,email,1,2025-07-24T07:27:58,2025-07-24T13:30:58,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10252,Membership benefits,solved,normal,task,web_widget,1,2025-06-14T03:31:56,2025-06-14T20:02:56,LOY-001,LOY-001,Loyalty,Loyalty,False,1
+10253,Wrong item received,closed,low,question,web_widget,1,2025-07-23T21:37:25,2025-07-24T09:21:25,PRD-002,PRD-002,Product,Product,False,1
+10254,How long do I have to return an item?,solved,urgent,problem,web_widget,1,2025-07-04T10:50:51,2025-07-04T19:09:51,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10255,Coupon issue at checkout,open,normal,task,web_widget,2,2025-07-07T18:08:25,2025-07-08T02:17:25,PAY-004,,Payments & billing,,False,1
+10256,Order #949767 status,solved,low,task,web_widget,2,2025-06-28T19:31:47,2025-06-29T06:27:47,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10257,Coupon issue at checkout,closed,low,incident,web_widget,1,2025-06-17T04:03:02,2025-06-17T22:28:02,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10258,How long do I have to return an item?,solved,normal,incident,email,2,2025-07-24T11:23:12,2025-07-25T01:22:12,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10259,Still waiting on refund for #145785,solved,low,task,web_widget,1,2025-07-22T18:09:06,2025-07-23T06:39:06,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10260,Missing points from order,solved,normal,question,email,1,2025-06-11T10:31:45,2025-06-11T14:51:45,LOY-001,LOY-001,Loyalty,Loyalty,False,1
+10261,Change email on file,solved,normal,problem,web_widget,1,2025-08-05T00:39:02,2025-08-05T13:36:02,ACC-002,ACC-002,Account,Account,False,1
+10262,My order is late,closed,low,question,web_widget,2,2025-06-11T23:54:14,2025-06-12T05:29:14,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10263,Return process question,solved,low,question,web_widget,1,2025-08-20T11:03:44,2025-08-20T22:56:44,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10264,Charged twice,solved,low,incident,web_widget,1,2025-06-29T21:40:41,2025-06-30T08:29:41,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10265,Coupon issue at checkout,open,normal,incident,web_widget,1,2025-07-24T22:37:35,2025-07-25T06:37:35,PAY-004,,Payments & billing,,False,1
+10266,Feedback about the website,solved,low,problem,web_widget,1,2025-06-15T04:31:52,2025-06-15T18:43:52,GEN-002,GEN-002,General,General,False,1
+10267,Not sure who to ask,solved,normal,question,email,1,2025-06-29T00:25:41,2025-06-29T17:11:41,GEN-OTHER,GEN-OTHER,General,General,False,1
+10268,Lost order #706435,solved,high,problem,email,2,2025-06-14T09:55:16,2025-06-14T23:19:16,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10269,Order #830140 status,closed,normal,question,email,2,2025-06-01T03:26:06,2025-06-01T10:40:06,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10270,Where is my order?,closed,urgent,incident,email,1,2025-06-12T08:22:17,2025-06-12T18:39:17,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10271,Need an invoice,solved,urgent,problem,email,2,2025-08-19T11:16:21,2025-08-20T01:58:21,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10272,Order #548702 status,solved,low,question,web_widget,1,2025-07-26T18:13:50,2025-07-27T10:12:50,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10273,Wrong refund amount,solved,normal,incident,email,1,2025-06-24T10:47:42,2025-06-24T22:39:42,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10274,Item stopped working,pending,normal,task,web_widget,1,2025-06-29T12:34:24,2025-06-29T19:05:24,PRD-001,,Product,,False,1
+10275,Order #435690 status,solved,normal,task,email,2,2025-08-15T08:15:44,2025-08-15T16:26:44,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10276,Missing points from order,solved,normal,incident,email,2,2025-06-26T16:50:44,2025-06-27T07:28:44,LOY-001,LOY-001,Loyalty,Loyalty,False,1
+10277,Quick question,solved,low,task,web_widget,1,2025-06-05T18:37:07,2025-06-06T12:31:07,GEN-OTHER,GEN-OTHER,General,General,False,1
+10278,Wrong address on order,solved,low,incident,email,2,2025-08-03T23:09:27,2025-08-04T03:28:27,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10279,Random query,solved,low,incident,web_widget,2,2025-06-04T04:28:05,2025-06-05T00:02:05,GEN-OTHER,GEN-OTHER,General,General,False,1
+10280,Incomplete package,open,normal,question,email,1,2025-07-24T20:46:22,2025-07-25T10:59:22,ORD-004,,Order & shipping,,False,1
+10281,Item stopped working,solved,normal,question,web_widget,1,2025-06-11T00:16:43,2025-06-11T07:55:43,PRD-001,PRD-005,Product,Product,True,1
+10282,Product arrived defective,solved,normal,question,email,2,2025-08-28T02:37:50,2025-08-28T16:03:50,PRD-001,PRD-001,Product,Product,False,1
+10283,Lost order #198181,pending,normal,task,email,1,2025-06-07T23:32:46,2025-06-08T12:52:46,ORD-003,,Order & shipping,,False,1
+10284,Frustrated customer,solved,high,question,web_widget,2,2025-08-14T22:39:56,2025-08-15T05:05:56,GEN-001,GEN-001,General,General,False,1
+10285,Refund status,solved,high,question,web_widget,1,2025-07-28T10:49:36,2025-07-28T19:17:36,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10286,Update my account details,open,urgent,problem,web_widget,1,2025-07-04T04:15:27,2025-07-04T14:44:27,ACC-002,,Account,,False,1
+10287,Payment declined,pending,normal,question,web_widget,1,2025-06-12T14:23:20,2025-06-12T20:17:20,PAY-001,,Payments & billing,,False,1
+10288,Delivery delay on #636073,solved,normal,incident,web_widget,2,2025-06-23T13:12:39,2025-06-23T18:05:39,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10289,Random query,solved,normal,question,web_widget,1,2025-08-03T17:31:40,2025-08-03T23:36:40,GEN-OTHER,GEN-OTHER,General,General,False,1
+10290,Order #678570 status,solved,low,problem,email,1,2025-06-09T19:39:42,2025-06-10T06:03:42,ORD-001,ORD-005,Order & shipping,Order & shipping,True,1
+10291,Where is my order?,closed,normal,problem,web_widget,2,2025-08-22T21:46:27,2025-08-23T06:51:27,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10292,Change email on file,closed,high,problem,email,1,2025-08-03T10:00:00,2025-08-03T20:25:00,ACC-002,RET-003,Account,Returns & refunds,True,1
+10293,Where is my order?,closed,low,task,web_widget,2,2025-07-27T23:25:52,2025-07-28T09:26:52,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10294,My order is late,solved,normal,question,web_widget,1,2025-08-14T05:42:55,2025-08-14T11:48:55,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10295,Charged twice,solved,low,question,web_widget,2,2025-06-13T00:44:15,2025-06-13T10:34:15,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10296,Where is my order?,open,low,question,web_widget,1,2025-08-23T00:39:14,2025-08-23T03:24:14,ORD-001,,Order & shipping,,False,1
+10297,Refund status,closed,low,task,email,1,2025-06-17T12:11:43,2025-06-17T19:08:43,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10298,Still waiting on refund for #434826,solved,low,question,web_widget,2,2025-06-17T13:18:49,2025-06-18T05:54:49,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10299,Tracking question,closed,normal,task,web_widget,1,2025-06-13T03:50:58,2025-06-13T09:14:58,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10300,Refund status,solved,normal,question,web_widget,2,2025-06-03T17:56:09,2025-06-04T03:01:09,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10301,Return eligibility,solved,low,problem,web_widget,2,2025-08-23T15:54:36,2025-08-24T05:32:36,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10302,Charged twice,solved,urgent,incident,web_widget,1,2025-07-04T00:20:38,2025-07-04T13:49:38,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10303,Update my account details,solved,normal,problem,web_widget,1,2025-07-01T03:46:26,2025-07-01T16:08:26,ACC-002,ACC-002,Account,Account,False,1
+10304,Quick question,open,low,problem,web_widget,1,2025-06-22T18:20:13,2025-06-23T06:16:13,GEN-OTHER,,General,,False,1
+10305,Quick question,closed,normal,question,email,2,2025-07-12T22:30:16,2025-07-13T09:52:16,GEN-OTHER,GEN-OTHER,General,General,False,1
+10306,Wrong address on order,open,normal,task,web_widget,1,2025-08-17T15:32:06,2025-08-18T03:11:06,ORD-005,,Order & shipping,,False,1
+10307,Delivery delay on #695807,solved,normal,problem,web_widget,2,2025-06-14T05:52:40,2025-06-14T14:01:40,ORD-002,GEN-OTHER,Order & shipping,General,True,1
+10308,Package hasn't arrived yet,pending,high,task,email,1,2025-08-08T13:20:19,2025-08-08T18:31:19,ORD-002,,Order & shipping,,False,1
+10309,Where is my order?,solved,normal,question,email,1,2025-07-18T09:28:46,2025-07-18T16:22:46,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10310,Item stopped working,closed,normal,question,web_widget,1,2025-07-20T09:02:27,2025-07-20T14:52:27,PRD-001,PRD-001,Product,Product,False,1
+10311,Charged twice,pending,normal,task,email,2,2025-06-20T06:50:14,2025-06-20T16:38:14,PAY-002,,Payments & billing,,False,1
+10312,Where is my refund?,solved,low,incident,web_widget,1,2025-06-14T23:03:50,2025-06-15T03:11:50,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10313,Product arrived defective,pending,low,incident,email,1,2025-06-24T16:28:53,2025-06-25T01:11:53,PRD-001,,Product,,False,1
+10314,Received wrong product,solved,normal,problem,web_widget,1,2025-08-25T02:29:09,2025-08-25T08:58:09,PRD-002,PAY-003,Product,Payments & billing,True,1
+10315,Defective running shoes,pending,low,incident,web_widget,1,2025-06-17T06:19:42,2025-06-17T18:16:42,PRD-001,,Product,,False,1
+10316,Not as pictured,closed,normal,question,web_widget,1,2025-06-09T08:54:22,2025-06-09T21:59:22,PRD-005,PRD-005,Product,Product,False,1
+10317,Discount code not working,closed,normal,problem,email,1,2025-06-27T17:06:38,2025-06-27T21:57:38,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10318,Defective graphic t-shirt,solved,normal,incident,web_widget,1,2025-06-20T19:03:06,2025-06-21T03:36:06,PRD-001,PRD-001,Product,Product,False,1
+10319,GDPR data request,solved,normal,question,email,2,2025-08-29T22:13:00,2025-08-30T06:59:00,ACC-003,ACC-003,Account,Account,False,1
+10320,Random query,solved,high,task,web_widget,2,2025-06-13T15:04:06,2025-06-14T00:37:06,GEN-OTHER,GEN-OTHER,General,General,False,1
+10321,Still waiting on refund for #568482,open,low,question,email,2,2025-08-27T21:54:57,2025-08-28T07:11:57,RET-002,,Returns & refunds,,False,1
+10322,Defective leather wallet,solved,low,problem,email,1,2025-06-19T23:49:52,2025-06-20T12:27:52,PRD-001,PRD-001,Product,Product,False,1
+10323,Change email on file,solved,normal,task,web_widget,2,2025-06-22T21:31:01,2025-06-23T05:52:01,ACC-002,ACC-002,Account,Account,False,1
+10324,Return policy question,solved,low,problem,web_widget,1,2025-07-19T04:50:38,2025-07-19T15:11:38,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10325,Defective running shoes,closed,urgent,question,web_widget,1,2025-06-27T05:07:45,2025-06-27T16:01:45,PRD-001,PRD-001,Product,Product,False,1
+10326,When will this be back in stock?,pending,normal,problem,email,1,2025-06-02T13:59:36,2025-06-02T23:58:36,PRD-004,,Product,,False,1
+10327,Where is my order?,solved,low,problem,email,1,2025-08-06T06:48:40,2025-08-06T21:47:40,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10328,Duplicate charge on my card,solved,normal,task,web_widget,1,2025-08-28T02:57:50,2025-08-28T06:17:50,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10329,Charged twice,closed,normal,problem,web_widget,1,2025-08-19T23:35:18,2025-08-20T15:51:18,PAY-002,PRD-003,Payments & billing,Product,True,1
+10330,Password reset not working,pending,high,question,email,1,2025-07-05T05:18:50,2025-07-05T11:49:50,ACC-001,,Account,,False,1
+10331,Locked out of my account,solved,high,incident,web_widget,1,2025-08-13T11:58:48,2025-08-14T02:04:48,ACC-001,ACC-001,Account,Account,False,1
+10332,Where is my order?,closed,normal,question,web_widget,1,2025-06-19T06:26:07,2025-06-19T17:22:07,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10333,Partial refund issue,closed,low,problem,email,1,2025-06-19T05:40:30,2025-06-19T14:22:30,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10334,Password reset not working,closed,normal,problem,web_widget,2,2025-07-03T13:30:32,2025-07-04T07:55:32,ACC-001,ACC-001,Account,Account,False,1
+10335,Where is my order?,solved,low,task,web_widget,2,2025-06-15T11:43:14,2025-06-15T15:30:14,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10336,My order is late,closed,normal,task,web_widget,1,2025-08-01T18:58:18,2025-08-02T05:38:18,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10337,Wrong item received,solved,normal,problem,email,2,2025-07-10T22:44:27,2025-07-11T12:32:27,PRD-002,PRD-001,Product,Product,True,1
+10338,Incorrect charge amount,solved,normal,incident,email,1,2025-07-01T10:48:56,2025-07-02T00:14:56,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10339,Order #158045 status,solved,normal,question,email,2,2025-08-28T10:11:14,2025-08-28T22:16:14,ORD-001,GEN-OTHER,Order & shipping,General,True,1
+10340,Order #559859 status,solved,low,task,email,1,2025-06-06T04:15:04,2025-06-06T20:52:04,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10341,My order never arrived,closed,normal,question,web_widget,2,2025-08-16T14:07:33,2025-08-16T17:39:33,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10342,Tracking question,closed,low,problem,web_widget,1,2025-07-31T02:40:19,2025-07-31T16:49:19,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10343,Where is my order?,solved,normal,question,web_widget,1,2025-07-22T23:32:25,2025-07-23T10:35:25,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10344,Order #618970 missing an item,solved,low,problem,web_widget,1,2025-08-09T17:18:50,2025-08-10T04:34:50,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10345,Return process question,solved,urgent,incident,web_widget,2,2025-06-14T00:33:01,2025-06-14T14:42:01,RET-001,ORD-005,Returns & refunds,Order & shipping,True,1
+10346,Invoice request for #736592,solved,normal,task,web_widget,1,2025-08-19T23:04:33,2025-08-20T10:48:33,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10347,Defective smartwatch,solved,normal,incident,email,2,2025-07-30T11:13:30,2025-07-30T18:37:30,PRD-001,PRD-001,Product,Product,False,1
+10348,Quality doesn't match description,pending,high,question,email,1,2025-08-09T16:16:35,2025-08-10T00:06:35,PRD-005,,Product,,False,1
+10349,GDPR data request,solved,low,task,web_widget,2,2025-08-26T11:07:28,2025-08-26T23:40:28,ACC-003,ACC-003,Account,Account,False,1
+10350,A suggestion for you,open,normal,incident,web_widget,1,2025-08-08T22:20:11,2025-08-09T08:17:11,GEN-002,,General,,False,1
+10351,Refund status,solved,normal,problem,email,1,2025-08-26T06:40:36,2025-08-26T12:58:36,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10352,Need a return label,closed,low,question,web_widget,2,2025-08-12T06:57:33,2025-08-12T19:53:33,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10353,This isn't what I ordered,solved,normal,task,web_widget,1,2025-07-26T19:56:24,2025-07-27T07:01:24,PRD-002,PRD-002,Product,Product,False,1
+10354,My order is late,pending,low,incident,web_widget,1,2025-07-07T05:38:45,2025-07-07T14:16:45,ORD-002,,Order & shipping,,False,1
+10355,Package hasn't arrived yet,pending,normal,incident,web_widget,1,2025-07-23T02:39:56,2025-07-23T12:54:56,ORD-002,,Order & shipping,,False,1
+10356,Lost order #114303,solved,normal,incident,web_widget,1,2025-07-21T07:56:46,2025-07-21T19:05:46,ORD-003,LOY-001,Order & shipping,Loyalty,True,1
+10357,Refund status,solved,normal,question,web_widget,2,2025-08-11T10:21:20,2025-08-12T00:13:20,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10358,Wrong address on order,closed,normal,task,email,1,2025-06-10T22:00:41,2025-06-11T04:47:41,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10359,Need a return label,pending,low,task,web_widget,2,2025-07-20T15:51:31,2025-07-20T22:16:31,RET-001,,Returns & refunds,,False,1
+10360,Order #223295 status,solved,normal,incident,web_widget,2,2025-07-09T01:27:25,2025-07-09T16:30:25,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10361,Partial refund issue,solved,normal,problem,email,1,2025-06-06T13:29:39,2025-06-07T05:55:39,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10362,Where is my order?,closed,high,problem,web_widget,1,2025-06-22T02:26:13,2025-06-22T13:02:13,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10363,Defective yoga mat,open,urgent,incident,web_widget,2,2025-08-16T10:44:27,2025-08-16T17:41:27,PRD-001,,Product,,False,1
+10364,Missing points from order,solved,low,incident,email,1,2025-08-22T22:11:23,2025-08-23T04:02:23,LOY-001,LOY-001,Loyalty,Loyalty,False,1
+10365,My order is late,closed,high,incident,email,1,2025-08-15T22:02:54,2025-08-16T07:13:54,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10366,Stock availability question,solved,normal,question,email,1,2025-07-26T09:21:12,2025-07-26T19:22:12,PRD-004,PRD-004,Product,Product,False,1
+10367,Disappointed with quality,solved,normal,problem,web_widget,1,2025-06-08T09:32:56,2025-06-08T15:38:56,PRD-005,PRD-005,Product,Product,False,1
+10368,Frustrated customer,open,normal,incident,web_widget,1,2025-06-16T12:24:02,2025-06-16T20:33:02,GEN-001,,General,,False,1
+10369,Update my account details,solved,normal,task,email,1,2025-07-30T22:05:37,2025-07-31T07:23:37,ACC-002,ACC-002,Account,Account,False,1
+10370,Order #345684 status,pending,normal,incident,web_widget,1,2025-07-07T12:19:19,2025-07-07T22:31:19,ORD-001,,Order & shipping,,False,1
+10371,Can't log in,solved,high,task,web_widget,1,2025-06-17T19:15:15,2025-06-18T03:22:15,ACC-001,ACC-001,Account,Account,False,1
+10372,Delivery delay on #738081,solved,normal,problem,web_widget,2,2025-07-24T09:04:01,2025-07-24T14:56:01,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10373,Defective sneakers,solved,normal,task,web_widget,1,2025-07-07T05:54:43,2025-07-07T12:05:43,PRD-001,PRD-001,Product,Product,False,1
+10374,My order is late,solved,low,problem,web_widget,2,2025-06-11T03:57:50,2025-06-11T16:32:50,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10375,Still waiting on refund for #118369,solved,low,problem,web_widget,1,2025-06-17T06:26:18,2025-06-17T12:26:18,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10376,Where is my refund?,closed,low,incident,web_widget,1,2025-08-20T06:50:06,2025-08-20T22:52:06,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10377,Delivery delay on #920039,closed,normal,task,web_widget,1,2025-06-01T11:02:26,2025-06-01T22:05:26,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10378,Refund status,closed,normal,question,web_widget,1,2025-07-06T12:06:16,2025-07-06T21:21:16,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10379,Delivery delay on #915293,open,low,incident,web_widget,1,2025-06-17T06:12:55,2025-06-17T17:33:55,ORD-002,,Order & shipping,,False,1
+10380,Stock availability question,closed,normal,task,web_widget,2,2025-07-30T17:28:11,2025-07-30T21:23:11,PRD-004,PRD-004,Product,Product,False,1
+10381,My order never arrived,closed,high,question,email,1,2025-08-05T19:32:55,2025-08-06T10:37:55,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10382,Not as pictured,solved,low,question,web_widget,2,2025-07-29T21:35:34,2025-07-30T05:59:34,PRD-005,PRD-005,Product,Product,False,1
+10383,Still waiting on refund for #822672,solved,high,problem,web_widget,2,2025-08-08T21:38:16,2025-08-09T14:26:16,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10384,Tracking question,pending,low,question,web_widget,1,2025-06-14T12:06:37,2025-06-14T22:03:37,ORD-001,,Order & shipping,,False,1
+10385,Incorrect charge amount,solved,normal,incident,web_widget,1,2025-08-10T19:35:46,2025-08-11T00:47:46,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10386,Payment declined,solved,normal,problem,web_widget,1,2025-06-26T06:09:05,2025-06-27T00:04:05,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10387,Receipt for accounting,solved,normal,question,email,2,2025-06-18T17:32:37,2025-06-19T03:42:37,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10388,Wrong refund amount,solved,high,incident,web_widget,1,2025-08-28T16:30:32,2025-08-28T23:50:32,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10389,Package hasn't arrived yet,solved,normal,task,email,1,2025-07-07T01:35:50,2025-07-07T12:26:50,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10390,Wrong item received,solved,high,task,email,1,2025-07-08T05:00:22,2025-07-08T12:35:22,PRD-002,PRD-002,Product,Product,False,1
+10391,When will this be back in stock?,solved,normal,problem,email,1,2025-08-27T08:33:58,2025-08-27T22:43:58,PRD-004,PRD-004,Product,Product,False,1
+10392,Quality doesn't match description,pending,normal,question,email,1,2025-08-11T12:49:44,2025-08-11T19:00:44,PRD-005,,Product,,False,1
+10393,Password reset not working,closed,normal,incident,email,2,2025-08-27T08:41:32,2025-08-27T22:17:32,ACC-001,ACC-001,Account,Account,False,1
+10394,Charged twice,solved,low,question,web_widget,1,2025-07-12T07:52:33,2025-07-12T20:01:33,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10395,How do I return this?,open,low,incident,web_widget,1,2025-08-26T21:29:04,2025-08-27T05:09:04,RET-001,,Returns & refunds,,False,1
+10396,Need an invoice,solved,normal,task,web_widget,1,2025-07-05T15:13:37,2025-07-06T03:46:37,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10397,Where is my refund?,closed,high,task,web_widget,2,2025-08-16T03:26:04,2025-08-16T17:22:04,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10398,My order is late,solved,urgent,question,email,2,2025-06-03T17:29:31,2025-06-03T23:52:31,ORD-003,ORD-002,Order & shipping,Order & shipping,True,1
+10399,Need an invoice,solved,normal,task,web_widget,1,2025-08-17T23:57:38,2025-08-18T09:16:38,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10400,How do I return this?,solved,low,task,web_widget,1,2025-07-31T00:24:19,2025-07-31T13:57:19,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10401,Can't complete checkout,solved,low,problem,web_widget,1,2025-07-11T00:53:07,2025-07-11T14:00:07,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10402,Thank you!,closed,normal,task,email,1,2025-08-25T12:28:05,2025-08-26T04:17:05,GEN-003,GEN-003,General,General,False,1
+10403,Update my account details,pending,normal,incident,web_widget,1,2025-07-18T11:46:26,2025-07-18T16:24:26,ACC-002,,Account,,False,1
+10404,Discount code not working,solved,low,problem,email,1,2025-06-18T14:25:15,2025-06-18T22:28:15,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10405,Product arrived defective,solved,low,task,web_widget,1,2025-07-13T11:08:27,2025-07-13T20:39:27,PRD-001,PRD-001,Product,Product,False,1
+10406,Didn't get my discount,pending,normal,question,email,1,2025-06-10T11:06:49,2025-06-10T20:11:49,PAY-004,,Payments & billing,,False,1
+10407,Tracking question,closed,high,problem,web_widget,1,2025-07-28T09:23:21,2025-07-28T22:03:21,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10408,Wrong item received,closed,normal,question,web_widget,1,2025-08-05T17:06:05,2025-08-05T22:18:05,PRD-002,PRD-002,Product,Product,False,1
+10409,Locked out of my account,solved,low,incident,email,2,2025-07-31T08:45:25,2025-07-31T17:01:25,ACC-001,ACC-001,Account,Account,False,1
+10410,Delivery delay on #411210,solved,low,incident,web_widget,1,2025-08-13T20:48:13,2025-08-14T05:42:13,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10411,Item stopped working,closed,low,problem,web_widget,2,2025-08-04T11:25:30,2025-08-04T21:00:30,PRD-001,PRD-001,Product,Product,False,1
+10412,Out of stock item,solved,low,incident,email,2,2025-07-15T16:11:27,2025-07-16T07:23:27,PRD-004,PRD-004,Product,Product,False,1
+10413,Tracking question,open,normal,problem,web_widget,2,2025-07-01T04:48:05,2025-07-01T12:05:05,ORD-001,,Order & shipping,,False,1
+10414,Quick question,open,low,incident,web_widget,1,2025-07-26T04:10:03,2025-07-26T11:11:03,GEN-OTHER,,General,,False,1
+10415,Invoice request for #131815,pending,normal,question,email,1,2025-06-14T13:10:52,2025-06-14T23:11:52,PAY-003,,Payments & billing,,False,1
+10416,Return eligibility,closed,low,question,web_widget,1,2025-06-22T19:05:52,2025-06-23T04:12:52,RET-004,LOY-001,Returns & refunds,Loyalty,True,1
+10417,Charged twice,solved,normal,question,email,1,2025-07-16T07:03:50,2025-07-17T00:44:50,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10418,Where is my order?,solved,high,task,email,2,2025-08-04T20:17:20,2025-08-05T05:49:20,ORD-001,RET-004,Order & shipping,Returns & refunds,True,1
+10419,Stock availability question,solved,urgent,task,web_widget,2,2025-06-25T19:32:26,2025-06-26T02:19:26,PRD-004,PRD-004,Product,Product,False,1
+10420,Refund status,closed,normal,question,web_widget,1,2025-08-09T06:24:07,2025-08-09T11:06:07,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10421,Package hasn't arrived yet,solved,normal,task,web_widget,2,2025-07-02T20:50:29,2025-07-03T02:38:29,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10422,Refund status,closed,normal,incident,web_widget,1,2025-08-24T21:44:20,2025-08-25T17:53:20,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10423,Quick question,solved,normal,problem,web_widget,1,2025-06-16T20:52:24,2025-06-17T03:47:24,GEN-OTHER,GEN-OTHER,General,General,False,1
+10424,Delivery delay on #304054,pending,normal,task,web_widget,1,2025-06-20T17:57:45,2025-06-20T21:55:45,ORD-002,,Order & shipping,,False,1
+10425,Order #882208 missing an item,open,normal,question,web_widget,1,2025-07-31T17:04:11,2025-08-01T02:30:11,ORD-004,,Order & shipping,,False,1
+10426,Need to change shipping address,solved,high,incident,web_widget,1,2025-08-04T01:02:11,2025-08-04T11:04:11,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10427,Random query,open,normal,task,email,1,2025-08-20T14:37:21,2025-08-20T21:19:21,GEN-OTHER,,General,,False,1
+10428,Missing points from order,pending,high,question,email,1,2025-07-18T08:54:57,2025-07-18T15:51:57,LOY-001,,Loyalty,,False,1
+10429,Still waiting on refund for #829062,solved,low,incident,email,1,2025-07-13T18:59:24,2025-07-14T14:04:24,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10430,Password reset not working,closed,normal,task,web_widget,1,2025-08-13T10:53:21,2025-08-13T17:20:21,ACC-001,ACC-001,Account,Account,False,1
+10431,Stock availability question,solved,normal,problem,web_widget,2,2025-07-16T02:00:38,2025-07-16T09:13:38,PRD-004,PRD-004,Product,Product,False,1
+10432,Product arrived defective,closed,normal,problem,web_widget,2,2025-08-06T22:36:15,2025-08-07T05:29:15,PRD-001,GEN-OTHER,Product,General,True,1
+10433,Not sure who to ask,solved,normal,incident,web_widget,2,2025-06-29T12:47:34,2025-06-29T23:54:34,GEN-OTHER,GEN-OTHER,General,General,False,1
+10434,My order is late,solved,low,problem,email,2,2025-08-22T09:47:11,2025-08-22T23:35:11,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10435,Still waiting on refund for #113597,solved,high,problem,web_widget,2,2025-08-13T03:32:13,2025-08-13T07:24:13,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10436,Package hasn't arrived yet,solved,normal,incident,email,1,2025-07-01T03:12:44,2025-07-01T11:10:44,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10437,This isn't what I ordered,solved,low,incident,web_widget,1,2025-06-23T10:40:14,2025-06-23T20:49:14,PRD-002,PRD-002,Product,Product,False,1
+10438,Still waiting on refund for #913482,pending,normal,problem,web_widget,1,2025-07-09T08:36:05,2025-07-09T14:11:05,RET-002,,Returns & refunds,,False,1
+10439,Need a return label,solved,normal,question,web_widget,1,2025-07-07T00:03:11,2025-07-07T04:43:11,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10440,Discount code not working,solved,normal,task,web_widget,1,2025-06-15T02:34:35,2025-06-15T21:38:35,PAY-004,LOY-001,Payments & billing,Loyalty,True,1
+10441,How long do I have to return an item?,pending,normal,problem,web_widget,1,2025-06-21T21:21:37,2025-06-22T08:03:37,RET-004,,Returns & refunds,,False,1
+10442,My order is late,pending,low,task,email,1,2025-07-07T22:14:13,2025-07-08T07:58:13,ORD-002,,Order & shipping,,False,1
+10443,Product arrived defective,solved,low,task,email,1,2025-07-15T18:05:30,2025-07-16T00:50:30,PRD-001,PRD-001,Product,Product,False,1
+10444,Complaint about recent order,solved,normal,task,web_widget,1,2025-07-12T14:10:59,2025-07-12T20:15:59,GEN-001,RET-003,General,Returns & refunds,True,1
+10445,Can't log in,closed,normal,problem,email,1,2025-08-27T07:54:49,2025-08-27T18:59:49,ACC-001,ACC-001,Account,Account,False,1
+10446,Refund status,pending,urgent,incident,web_widget,1,2025-07-29T04:36:22,2025-07-29T13:02:22,RET-002,,Returns & refunds,,False,1
+10447,Order #539328 status,closed,normal,question,web_widget,1,2025-08-03T02:21:25,2025-08-03T18:03:25,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10448,Where is my order?,solved,normal,question,web_widget,2,2025-06-18T03:24:45,2025-06-18T04:53:45,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10449,Still waiting on refund for #418543,solved,normal,problem,web_widget,1,2025-07-02T05:39:24,2025-07-02T16:21:24,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10450,Still waiting on refund for #743529,pending,low,incident,web_widget,1,2025-08-04T01:59:54,2025-08-04T14:20:54,RET-002,,Returns & refunds,,False,1
+10451,Delivery delay on #609867,solved,normal,task,web_widget,1,2025-08-16T05:16:04,2025-08-16T13:26:04,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10452,Stock availability question,solved,urgent,incident,web_widget,1,2025-07-10T17:05:35,2025-07-11T00:40:35,PRD-004,PRD-004,Product,Product,False,1
+10453,My order is late,solved,high,incident,email,1,2025-06-14T09:58:19,2025-06-14T23:09:19,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10454,Delivery delay on #757395,pending,normal,incident,web_widget,2,2025-06-07T14:34:36,2025-06-08T00:44:36,ORD-002,,Order & shipping,,False,1
+10455,Tracking question,closed,high,problem,web_widget,1,2025-06-03T19:31:26,2025-06-04T14:12:26,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10456,Where is my refund?,solved,low,problem,web_widget,2,2025-07-22T12:28:12,2025-07-23T04:34:12,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10457,Item stopped working,open,normal,problem,web_widget,1,2025-06-25T15:26:59,2025-06-25T21:40:59,PRD-001,,Product,,False,1
+10458,Product arrived defective,pending,normal,question,web_widget,2,2025-07-28T04:07:31,2025-07-28T13:59:31,PRD-001,,Product,,False,1
+10459,Product arrived defective,solved,high,incident,web_widget,1,2025-07-27T06:43:38,2025-07-27T16:57:38,PRD-001,PRD-001,Product,Product,False,1
+10460,Item stopped working,closed,normal,question,web_widget,1,2025-07-23T18:14:55,2025-07-24T10:12:55,PRD-001,PRD-001,Product,Product,False,1
+10461,Refund status,solved,high,problem,web_widget,1,2025-06-29T14:24:22,2025-06-29T23:48:22,RET-002,ACC-002,Returns & refunds,Account,True,1
+10462,Need an invoice,solved,normal,incident,web_widget,1,2025-07-25T12:45:33,2025-07-25T21:46:33,PAY-003,ORD-003,Payments & billing,Order & shipping,True,1
+10463,Defective sneakers,pending,normal,question,web_widget,1,2025-08-27T12:05:12,2025-08-27T23:07:12,PRD-001,,Product,,False,1
+10464,Can't log in,solved,normal,task,email,1,2025-06-13T00:59:15,2025-06-13T14:32:15,ACC-001,ACC-001,Account,Account,False,1
+10465,Tracking question,solved,low,task,web_widget,1,2025-06-04T07:33:13,2025-06-04T15:56:13,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10466,Package marked delivered but I got nothing,solved,normal,task,web_widget,1,2025-08-27T08:19:03,2025-08-27T17:04:03,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10467,Need to update my address,solved,normal,incident,web_widget,2,2025-07-24T07:18:07,2025-07-24T14:42:07,ACC-002,ACC-002,Account,Account,False,1
+10468,Where is my order?,solved,low,question,web_widget,1,2025-08-23T09:11:13,2025-08-23T21:15:13,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10469,Where is my order?,solved,high,question,email,1,2025-08-05T22:12:25,2025-08-06T10:07:25,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10470,Partial refund issue,closed,low,question,email,2,2025-06-15T00:31:26,2025-06-15T08:30:26,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10471,Not happy with my experience,solved,high,incident,email,1,2025-08-21T14:36:05,2025-08-21T21:26:05,GEN-001,GEN-001,General,General,False,1
+10472,Defective backpack,solved,normal,problem,email,1,2025-07-27T00:26:53,2025-07-27T10:20:53,PRD-001,PRD-001,Product,Product,False,1
+10473,Where is my order?,closed,low,question,web_widget,1,2025-06-15T03:04:02,2025-06-15T19:30:02,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10474,Incorrect charge amount,open,low,incident,web_widget,1,2025-08-27T23:27:25,2025-08-28T06:29:25,PAY-002,,Payments & billing,,False,1
+10475,Where is my order?,open,high,task,email,1,2025-06-04T11:59:49,2025-06-04T20:00:49,ORD-001,,Order & shipping,,False,1
+10476,Tracking question,open,normal,task,web_widget,1,2025-06-26T21:28:21,2025-06-27T05:35:21,ORD-001,,Order & shipping,,False,1
+10477,Need to update my address,closed,low,incident,email,2,2025-07-19T17:17:52,2025-07-20T01:22:52,ACC-002,ACC-002,Account,Account,False,1
+10478,My order is late,solved,normal,problem,email,2,2025-08-06T12:55:16,2025-08-06T23:53:16,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10479,Not happy with my experience,solved,low,incident,web_widget,1,2025-06-18T05:31:34,2025-06-18T14:02:34,GEN-001,GEN-001,General,General,False,1
+10480,Coupon issue at checkout,solved,normal,task,web_widget,1,2025-08-07T18:42:14,2025-08-08T05:46:14,PAY-004,PAY-001,Payments & billing,Payments & billing,True,1
+10481,How do I return this?,open,normal,question,email,1,2025-08-16T00:34:40,2025-08-16T10:30:40,RET-001,,Returns & refunds,,False,1
+10482,How do I return this?,solved,low,task,web_widget,1,2025-06-25T01:09:49,2025-06-25T15:48:49,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10483,Need to update my address,solved,low,problem,web_widget,1,2025-07-24T18:44:35,2025-07-25T03:53:35,ACC-002,ACC-002,Account,Account,False,1
+10484,Can't log in,solved,normal,task,web_widget,1,2025-06-23T16:00:39,2025-06-23T22:50:39,ACC-001,ACC-001,Account,Account,False,1
+10485,Not as pictured,solved,high,task,web_widget,1,2025-07-30T07:59:13,2025-07-30T16:08:13,PRD-005,PRD-005,Product,Product,False,1
+10486,Discount code not working,closed,urgent,problem,web_widget,1,2025-08-11T02:58:56,2025-08-11T13:00:56,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10487,How long do I have to return an item?,pending,normal,incident,web_widget,1,2025-06-22T08:06:41,2025-06-22T17:42:41,RET-004,,Returns & refunds,,False,1
+10488,Still waiting on refund for #457875,solved,normal,question,web_widget,2,2025-08-10T01:24:35,2025-08-10T14:07:35,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10489,Still waiting on refund for #874494,solved,normal,incident,web_widget,2,2025-06-19T15:44:29,2025-06-19T22:08:29,RET-002,ORD-001,Returns & refunds,Order & shipping,True,1
+10490,Discount code not working,solved,low,incident,web_widget,1,2025-06-01T13:53:59,2025-06-01T20:10:59,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10491,My order is late,solved,normal,task,web_widget,1,2025-06-20T00:43:12,2025-06-20T12:10:12,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10492,Package marked delivered but I got nothing,solved,normal,incident,email,1,2025-06-10T20:53:27,2025-06-11T00:50:27,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10493,Product arrived defective,solved,high,question,web_widget,1,2025-08-18T00:31:07,2025-08-18T16:01:07,PRD-001,PRD-001,Product,Product,False,1
+10494,Order #255002 status,solved,normal,question,web_widget,2,2025-08-03T14:29:40,2025-08-03T15:45:40,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10495,Not as pictured,closed,normal,task,web_widget,2,2025-07-26T01:21:01,2025-07-26T09:28:01,PRD-005,PRD-005,Product,Product,False,1
+10496,Lost order #462127,solved,normal,question,web_widget,1,2025-06-24T18:47:56,2025-06-25T04:04:56,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10497,Product arrived defective,open,normal,incident,web_widget,1,2025-07-25T19:18:54,2025-07-26T16:14:54,PRD-001,,Product,,False,1
+10498,Package hasn't arrived yet,pending,normal,question,web_widget,1,2025-06-25T09:01:15,2025-06-25T19:25:15,ORD-002,,Order & shipping,,False,1
+10499,Refund status,closed,normal,question,web_widget,2,2025-06-27T13:03:40,2025-06-27T23:19:40,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10500,Partial refund issue,pending,high,question,web_widget,1,2025-08-28T12:24:08,2025-08-28T21:53:08,RET-003,,Returns & refunds,,False,1
+10501,Not sure who to ask,closed,low,question,email,1,2025-06-05T09:34:38,2025-06-05T18:10:38,GEN-OTHER,GEN-OTHER,General,General,False,1
+10502,Item stopped working,closed,low,question,email,1,2025-07-08T18:37:07,2025-07-09T03:17:07,PRD-001,PRD-001,Product,Product,False,1
+10503,Product arrived defective,solved,high,problem,web_widget,1,2025-06-22T01:23:25,2025-06-22T09:06:25,PRD-001,PRD-001,Product,Product,False,1
+10504,Need a return label,closed,low,incident,email,1,2025-08-10T19:36:50,2025-08-11T02:15:50,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10505,Delivery delay on #699828,pending,low,question,web_widget,2,2025-07-17T08:05:35,2025-07-18T00:18:35,ORD-002,,Order & shipping,,False,1
+10506,Stock availability question,closed,low,problem,web_widget,1,2025-07-12T02:23:44,2025-07-12T15:27:44,PRD-004,PRD-004,Product,Product,False,1
+10507,Charged twice,solved,normal,task,email,1,2025-06-27T19:08:01,2025-06-28T12:47:01,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10508,Defective sunglasses,pending,normal,task,web_widget,1,2025-06-20T15:39:19,2025-06-21T07:15:19,PRD-001,,Product,,False,1
+10509,Charged twice,closed,normal,question,email,1,2025-06-25T05:10:05,2025-06-25T21:53:05,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10510,Can't log in,closed,normal,incident,email,1,2025-06-01T14:13:42,2025-06-01T22:32:42,ACC-001,ACC-001,Account,Account,False,1
+10511,Where is my refund?,open,high,incident,web_widget,1,2025-06-05T13:52:46,2025-06-06T07:39:46,RET-002,,Returns & refunds,,False,1
+10512,Item missing from my order,open,high,question,web_widget,2,2025-08-01T09:45:34,2025-08-01T15:04:34,ORD-004,,Order & shipping,,False,1
+10513,Package marked delivered but I got nothing,open,low,incident,email,1,2025-08-08T07:08:27,2025-08-08T17:22:27,ORD-003,,Order & shipping,,False,1
+10514,Update my account details,solved,low,task,email,1,2025-08-24T10:33:09,2025-08-24T20:57:09,ACC-002,ACC-002,Account,Account,False,1
+10515,Defective winter coat,solved,normal,incident,email,1,2025-06-11T11:11:54,2025-06-11T22:33:54,PRD-001,PRD-001,Product,Product,False,1
+10516,Tracking question,solved,urgent,question,web_widget,1,2025-07-20T05:00:09,2025-07-20T20:49:09,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10517,Product arrived defective,closed,low,task,web_widget,1,2025-06-27T06:54:50,2025-06-27T16:44:50,PRD-001,PRD-001,Product,Product,False,1
+10518,Package hasn't arrived yet,closed,normal,incident,email,1,2025-07-03T11:44:59,2025-07-04T00:28:59,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10519,Tracking question,solved,high,problem,web_widget,1,2025-07-15T22:57:47,2025-07-16T15:43:47,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10520,Receipt for accounting,closed,normal,task,web_widget,1,2025-07-03T03:11:52,2025-07-03T11:03:52,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10521,My order is late,closed,high,incident,web_widget,1,2025-08-26T02:42:37,2025-08-26T11:23:37,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10522,Where is my order?,solved,low,incident,web_widget,2,2025-08-15T00:46:36,2025-08-15T08:34:36,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10523,Where is my order?,closed,low,problem,web_widget,1,2025-08-16T23:50:33,2025-08-17T18:45:33,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10524,Item stopped working,open,high,question,email,2,2025-08-25T02:55:21,2025-08-25T19:49:21,PRD-001,,Product,,False,1
+10525,Where is my order?,solved,normal,task,web_widget,2,2025-06-01T13:40:56,2025-06-01T23:08:56,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10526,Product arrived defective,closed,high,question,web_widget,1,2025-06-26T21:12:54,2025-06-27T10:55:54,PRD-001,PRD-001,Product,Product,False,1
+10527,Package hasn't arrived yet,solved,normal,task,web_widget,2,2025-06-10T15:15:47,2025-06-11T04:13:47,ORD-003,ORD-002,Order & shipping,Order & shipping,True,1
+10528,Wrong refund amount,solved,urgent,task,web_widget,1,2025-07-02T20:46:30,2025-07-03T06:38:30,RET-003,ORD-005,Returns & refunds,Order & shipping,True,1
+10529,Not happy with my experience,closed,normal,problem,email,2,2025-08-06T07:00:13,2025-08-06T23:03:13,GEN-001,GEN-001,General,General,False,1
+10530,Need a return label,pending,high,task,web_widget,2,2025-07-20T04:00:13,2025-07-20T14:38:13,RET-001,,Returns & refunds,,False,1
+10531,Update my account details,solved,low,question,web_widget,1,2025-06-23T10:27:42,2025-06-23T17:57:42,ACC-002,ACC-002,Account,Account,False,1
+10532,Refund status,solved,low,incident,web_widget,1,2025-07-22T18:49:28,2025-07-23T05:13:28,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10533,Question before buying,solved,low,incident,web_widget,2,2025-08-08T04:49:22,2025-08-08T12:26:22,PRD-003,PRD-003,Product,Product,False,1
+10534,Product arrived defective,closed,normal,task,web_widget,1,2025-06-05T20:52:07,2025-06-06T04:22:07,PRD-001,PRD-001,Product,Product,False,1
+10535,Locked out of my account,solved,normal,problem,email,1,2025-07-12T10:42:41,2025-07-12T22:34:41,ACC-001,ACC-001,Account,Account,False,1
+10536,Question before buying,solved,high,incident,web_widget,1,2025-08-07T13:10:47,2025-08-07T22:56:47,PRD-003,PRD-003,Product,Product,False,1
+10537,Package marked delivered but I got nothing,closed,low,question,web_widget,1,2025-06-15T17:47:30,2025-06-15T22:31:30,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10538,Change email on file,solved,normal,question,web_widget,1,2025-07-04T13:08:27,2025-07-04T21:33:27,ACC-002,ACC-002,Account,Account,False,1
+10539,Tracking question,solved,normal,question,email,2,2025-07-21T09:53:14,2025-07-21T21:36:14,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10540,Refund status,open,high,incident,web_widget,1,2025-06-19T03:48:51,2025-06-19T08:13:51,RET-002,,Returns & refunds,,False,1
+10541,Package marked delivered but I got nothing,solved,low,problem,web_widget,2,2025-07-11T00:03:59,2025-07-11T09:22:59,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10542,Out of stock item,solved,low,task,email,1,2025-08-03T17:01:54,2025-08-04T12:53:54,PRD-004,PRD-004,Product,Product,False,1
+10543,Partial refund issue,solved,normal,incident,web_widget,1,2025-06-05T11:16:31,2025-06-05T20:39:31,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10544,Wrong item received,pending,high,task,email,1,2025-07-31T00:11:01,2025-07-31T09:04:01,PRD-002,,Product,,False,1
+10545,Need to update my address,solved,normal,question,web_widget,2,2025-07-12T01:51:56,2025-07-12T11:31:56,ACC-002,ACC-002,Account,Account,False,1
+10546,Defective backpack,pending,low,task,web_widget,1,2025-08-25T00:40:10,2025-08-25T09:11:10,PRD-001,,Product,,False,1
+10547,Wrong address on order,closed,normal,problem,web_widget,1,2025-06-17T02:43:31,2025-06-17T15:35:31,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10548,Delivery delay on #472843,closed,low,question,web_widget,1,2025-07-06T03:05:09,2025-07-06T18:14:09,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10549,Question before buying,solved,high,problem,email,2,2025-06-23T14:23:22,2025-06-23T21:19:22,PRD-003,PRD-003,Product,Product,False,1
+10550,Where is my refund?,solved,low,question,email,1,2025-07-27T02:17:06,2025-07-27T15:41:06,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10551,Defective phone case,solved,low,task,email,1,2025-08-26T05:09:16,2025-08-26T16:52:16,PRD-001,PRD-001,Product,Product,False,1
+10552,My order is late,solved,low,problem,web_widget,2,2025-06-05T01:11:22,2025-06-05T11:33:22,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10553,Payment declined,closed,low,problem,web_widget,2,2025-08-11T11:59:57,2025-08-12T00:09:57,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10554,Still waiting on refund for #834630,pending,normal,task,web_widget,2,2025-06-17T18:39:49,2025-06-18T00:36:49,PAY-002,,Payments & billing,,False,1
+10555,Order #285469 status,closed,high,problem,web_widget,1,2025-07-06T12:16:01,2025-07-07T00:28:01,ORD-001,GEN-OTHER,Order & shipping,General,True,1
+10556,My order is late,solved,normal,task,web_widget,1,2025-07-09T16:24:04,2025-07-10T09:27:04,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10557,Delivery delay on #180429,solved,high,task,web_widget,1,2025-06-14T06:09:55,2025-06-14T15:06:55,ORD-002,PAY-002,Order & shipping,Payments & billing,True,1
+10558,Defective leather wallet,solved,normal,task,web_widget,1,2025-08-17T01:51:04,2025-08-17T14:21:04,PRD-001,PRD-001,Product,Product,False,1
+10559,Lost order #802573,pending,normal,task,email,1,2025-06-16T16:17:17,2025-06-17T00:14:17,ORD-003,,Order & shipping,,False,1
+10560,How long do I have to return an item?,solved,normal,incident,web_widget,1,2025-06-28T20:37:20,2025-06-29T09:05:20,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10561,Random query,solved,high,question,web_widget,1,2025-08-28T19:38:07,2025-08-28T23:16:07,GEN-OTHER,GEN-OTHER,General,General,False,1
+10562,Return eligibility,closed,normal,question,web_widget,1,2025-08-22T20:00:01,2025-08-23T03:41:01,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10563,Incorrect charge amount,pending,low,problem,email,1,2025-08-11T06:34:48,2025-08-11T15:33:48,PAY-002,,Payments & billing,,False,1
+10564,Where is my order?,solved,normal,problem,web_widget,1,2025-08-22T04:30:44,2025-08-22T16:19:44,ORD-001,RET-004,Order & shipping,Returns & refunds,True,1
+10565,Still waiting on refund for #581415,pending,normal,task,web_widget,1,2025-07-07T21:17:10,2025-07-08T04:57:10,RET-002,,Returns & refunds,,False,1
+10566,Can't complete checkout,solved,normal,task,web_widget,1,2025-08-20T04:57:44,2025-08-20T12:17:44,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10567,Product arrived defective,pending,normal,problem,web_widget,1,2025-08-15T23:37:41,2025-08-16T10:12:41,PRD-001,,Product,,False,1
+10568,Discount code not working,solved,low,question,web_widget,2,2025-06-12T12:09:00,2025-06-13T01:13:00,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10569,Where is my order?,solved,low,task,web_widget,1,2025-07-12T04:46:15,2025-07-12T22:34:15,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10570,Defective wireless headphones,closed,normal,question,email,1,2025-08-13T16:44:27,2025-08-14T01:52:27,PRD-001,PRD-001,Product,Product,False,1
+10571,Where is my order?,solved,normal,question,web_widget,2,2025-08-13T19:31:34,2025-08-14T02:36:34,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10572,Defective graphic t-shirt,solved,high,question,web_widget,2,2025-07-11T18:14:12,2025-07-12T07:55:12,PRD-001,PRD-001,Product,Product,False,1
+10573,Package hasn't arrived yet,solved,normal,question,email,1,2025-08-27T11:09:25,2025-08-28T00:53:25,ORD-003,ORD-002,Order & shipping,Order & shipping,True,1
+10574,Still waiting on refund for #345165,pending,normal,problem,web_widget,1,2025-08-05T06:29:39,2025-08-05T20:01:39,RET-002,,Returns & refunds,,False,1
+10575,Tracking question,solved,high,incident,web_widget,1,2025-08-15T23:32:31,2025-08-16T10:34:31,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10576,Please erase my data,solved,normal,task,web_widget,1,2025-07-28T01:23:39,2025-07-28T10:10:39,ACC-003,ACC-003,Account,Account,False,1
+10577,Order #829234 status,solved,low,incident,web_widget,2,2025-07-14T11:06:16,2025-07-14T17:24:16,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10578,Item missing from my order,closed,low,incident,email,1,2025-07-05T12:59:20,2025-07-05T20:32:20,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10579,Delivery delay on #106810,open,low,incident,email,1,2025-06-21T00:28:50,2025-06-21T10:02:50,ORD-002,,Order & shipping,,False,1
+10580,Partial refund issue,closed,high,question,web_widget,1,2025-06-08T01:49:16,2025-06-08T08:27:16,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10581,Incorrect charge amount,solved,normal,incident,web_widget,1,2025-07-10T11:30:06,2025-07-10T23:28:06,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10582,Need to change shipping address,solved,normal,question,web_widget,1,2025-08-27T12:18:56,2025-08-27T18:45:56,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10583,My order is late,closed,normal,task,web_widget,1,2025-06-01T22:17:43,2025-06-02T08:51:43,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10584,Not sure who to ask,open,low,problem,web_widget,1,2025-06-01T06:18:43,2025-06-01T15:38:43,GEN-OTHER,,General,,False,1
+10585,Not happy with my experience,pending,urgent,task,email,2,2025-06-20T20:35:07,2025-06-21T04:46:07,GEN-001,,General,,False,1
+10586,Complaint about recent order,solved,normal,task,web_widget,1,2025-08-03T18:06:25,2025-08-04T05:21:25,GEN-001,GEN-001,General,General,False,1
+10587,Delivery delay on #241232,solved,high,question,email,1,2025-06-12T18:50:54,2025-06-13T19:03:54,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10588,Need to update my address,solved,normal,task,email,1,2025-08-13T06:32:15,2025-08-13T15:13:15,ACC-002,ACC-002,Account,Account,False,1
+10589,Update my account details,pending,low,incident,web_widget,1,2025-07-24T09:56:45,2025-07-24T15:19:45,ACC-002,,Account,,False,1
+10590,Not happy with my experience,pending,low,incident,web_widget,2,2025-07-23T03:03:21,2025-07-23T10:59:21,GEN-001,,General,,False,1
+10591,Need to change shipping address,closed,urgent,question,web_widget,1,2025-08-24T22:26:52,2025-08-25T06:01:52,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10592,Delivery delay on #486253,solved,normal,task,email,2,2025-06-13T22:23:59,2025-06-14T10:02:59,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10593,Refund status,solved,high,task,email,1,2025-07-23T13:08:27,2025-07-23T20:49:27,RET-002,GEN-OTHER,Returns & refunds,General,True,1
+10594,Wrong refund amount,solved,normal,task,web_widget,1,2025-06-17T22:59:20,2025-06-18T09:33:20,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10595,My order never arrived,solved,normal,question,web_widget,1,2025-07-15T02:42:50,2025-07-15T08:38:50,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10596,Feedback about the website,closed,normal,problem,email,1,2025-07-16T07:32:50,2025-07-17T00:51:50,GEN-002,GEN-002,General,General,False,1
+10597,Package hasn't arrived yet,solved,normal,task,web_widget,2,2025-06-12T22:13:09,2025-06-13T06:36:09,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10598,Refund status,solved,normal,problem,email,1,2025-06-06T01:04:17,2025-06-06T09:39:17,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10599,Tracking question,solved,normal,incident,web_widget,1,2025-07-04T06:10:24,2025-07-04T16:01:24,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10600,Need an invoice,closed,low,incident,web_widget,2,2025-06-06T11:30:30,2025-06-07T01:15:30,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10601,Delivery delay on #783707,solved,low,question,web_widget,1,2025-08-10T03:09:11,2025-08-10T09:56:11,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10602,Where is my refund?,solved,low,problem,web_widget,2,2025-07-15T06:18:51,2025-07-15T17:23:51,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10603,Tracking question,solved,normal,task,web_widget,1,2025-07-13T19:17:12,2025-07-14T07:25:12,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10604,Item stopped working,closed,high,problem,web_widget,1,2025-08-23T09:23:33,2025-08-23T21:17:33,PRD-001,PRD-001,Product,Product,False,1
+10605,Order #651366 missing an item,solved,low,task,web_widget,2,2025-08-19T19:59:26,2025-08-20T10:54:26,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10606,Where is my order?,solved,urgent,question,email,1,2025-06-23T05:58:00,2025-06-23T22:39:00,ORD-001,GEN-003,Order & shipping,General,True,1
+10607,Item missing from my order,solved,low,question,web_widget,1,2025-06-28T03:44:12,2025-06-28T09:02:12,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10608,Payment declined,solved,low,problem,web_widget,2,2025-07-08T20:04:32,2025-07-09T01:27:32,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10609,Delivery delay on #954659,open,low,question,web_widget,2,2025-07-04T08:52:03,2025-07-04T20:41:03,ORD-002,,Order & shipping,,False,1
+10610,Not as pictured,solved,high,incident,web_widget,1,2025-07-11T03:19:04,2025-07-11T12:45:04,PRD-005,PRD-005,Product,Product,False,1
+10611,Where is my order?,closed,normal,incident,email,2,2025-08-12T03:01:08,2025-08-12T12:33:08,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10612,Locked out of my account,solved,low,incident,web_widget,1,2025-06-21T16:44:34,2025-06-22T01:45:34,ACC-001,ACC-001,Account,Account,False,1
+10613,Random query,solved,normal,problem,email,1,2025-06-08T16:40:05,2025-06-09T02:21:05,GEN-OTHER,GEN-OTHER,General,General,False,1
+10614,Tracking question,closed,low,task,email,2,2025-08-21T16:23:48,2025-08-22T01:24:48,ORD-001,PRD-002,Order & shipping,Product,True,1
+10615,Product arrived defective,closed,normal,incident,web_widget,2,2025-07-16T10:17:32,2025-07-16T20:04:32,PRD-001,PRD-001,Product,Product,False,1
+10616,Wrong refund amount,solved,low,incident,web_widget,1,2025-08-23T20:34:31,2025-08-23T23:55:31,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10617,Disappointed with quality,solved,low,question,web_widget,1,2025-07-13T04:02:42,2025-07-13T14:37:42,PRD-005,PRD-005,Product,Product,False,1
+10618,Wrong address on order,solved,low,task,web_widget,2,2025-07-04T20:53:47,2025-07-05T09:29:47,ORD-005,GEN-OTHER,Order & shipping,General,True,1
+10619,Defective yoga mat,solved,low,problem,web_widget,1,2025-08-15T17:19:20,2025-08-16T01:14:20,PRD-001,PRD-001,Product,Product,False,1
+10620,Update my account details,solved,normal,question,web_widget,1,2025-07-17T12:28:58,2025-07-17T17:05:58,ACC-002,ACC-002,Account,Account,False,1
+10621,Refund status,solved,normal,incident,email,1,2025-06-18T14:28:34,2025-06-19T01:03:34,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10622,Can't log in,solved,low,question,web_widget,2,2025-06-19T19:46:56,2025-06-20T05:35:56,ACC-001,ACC-001,Account,Account,False,1
+10623,Does this come in other sizes?,pending,low,question,email,2,2025-06-14T20:49:06,2025-06-15T09:12:06,PRD-003,,Product,,False,1
+10624,Where is my refund?,solved,normal,question,web_widget,1,2025-07-13T12:22:38,2025-07-14T00:59:38,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10625,Frustrated customer,closed,normal,task,web_widget,1,2025-07-22T11:21:57,2025-07-22T22:59:57,GEN-001,GEN-001,General,General,False,1
+10626,Still waiting on refund for #747817,solved,normal,incident,email,1,2025-06-24T04:51:35,2025-06-24T15:23:35,RET-002,PAY-002,Returns & refunds,Payments & billing,True,1
+10627,Package hasn't arrived yet,closed,normal,task,email,1,2025-08-20T19:03:02,2025-08-21T12:44:02,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10628,Still waiting on refund for #113343,closed,urgent,problem,web_widget,2,2025-07-11T16:39:50,2025-07-12T03:38:50,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10629,Delivery delay on #773960,closed,high,problem,web_widget,1,2025-07-19T07:35:30,2025-07-19T15:01:30,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10630,How do I return this?,open,normal,problem,web_widget,2,2025-06-12T11:21:07,2025-06-12T19:16:07,RET-001,,Returns & refunds,,False,1
+10631,Wrong address on order,solved,normal,incident,email,1,2025-08-21T23:45:24,2025-08-22T03:55:24,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10632,Received wrong product,solved,normal,question,web_widget,1,2025-08-24T00:37:49,2025-08-24T08:48:49,PRD-002,PRD-002,Product,Product,False,1
+10633,Where is my refund?,closed,normal,task,web_widget,1,2025-07-28T22:57:03,2025-07-29T08:02:03,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10634,Product arrived defective,solved,normal,incident,web_widget,1,2025-07-15T10:46:32,2025-07-16T00:54:32,PRD-001,PRD-001,Product,Product,False,1
+10635,Return process question,solved,normal,task,web_widget,2,2025-07-10T13:49:11,2025-07-11T01:50:11,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10636,Not sure who to ask,solved,high,problem,web_widget,1,2025-08-24T20:17:04,2025-08-25T05:23:04,GEN-OTHER,GEN-OTHER,General,General,False,1
+10637,Received wrong product,solved,low,question,web_widget,1,2025-06-27T04:01:10,2025-06-27T17:02:10,PRD-002,PRD-002,Product,Product,False,1
+10638,This isn't what I ordered,solved,low,problem,email,1,2025-07-20T04:37:12,2025-07-20T17:29:12,PRD-002,PRD-002,Product,Product,False,1
+10639,Discount code not working,solved,urgent,question,email,1,2025-08-29T17:36:31,2025-08-30T03:54:31,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10640,My order is late,solved,high,question,web_widget,1,2025-08-07T21:56:47,2025-08-08T06:11:47,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10641,Refund status,solved,low,problem,email,1,2025-07-12T23:09:13,2025-07-13T12:58:13,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10642,Incorrect charge amount,pending,low,question,web_widget,1,2025-07-03T12:01:22,2025-07-03T21:35:22,PAY-002,,Payments & billing,,False,1
+10643,Change email on file,solved,high,question,web_widget,1,2025-06-07T23:12:02,2025-06-08T05:35:02,ACC-002,ACC-002,Account,Account,False,1
+10644,Defective graphic t-shirt,closed,low,incident,email,1,2025-07-23T16:52:14,2025-07-24T09:17:14,PRD-001,PRD-001,Product,Product,False,1
+10645,Wrong refund amount,solved,urgent,incident,email,1,2025-07-15T16:31:07,2025-07-16T07:01:07,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10646,Didn't get my discount,solved,normal,incident,email,2,2025-07-11T21:57:00,2025-07-12T04:52:00,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10647,Refund status,closed,low,problem,web_widget,1,2025-07-30T09:07:22,2025-07-30T23:27:22,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10648,Can't complete checkout,pending,normal,incident,web_widget,2,2025-07-14T04:55:09,2025-07-14T10:24:09,PAY-001,,Payments & billing,,False,1
+10649,My order is late,solved,urgent,question,web_widget,2,2025-06-05T16:45:02,2025-06-06T01:00:02,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10650,My order never arrived,solved,normal,incident,web_widget,1,2025-06-09T17:14:31,2025-06-10T04:15:31,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10651,Duplicate charge on my card,solved,normal,incident,email,2,2025-08-07T16:09:26,2025-08-07T20:58:26,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10652,Where is my order?,solved,normal,question,email,2,2025-07-31T11:13:46,2025-07-31T16:24:46,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10653,Tracking question,open,high,problem,web_widget,1,2025-07-20T03:45:22,2025-07-20T18:57:22,ORD-001,,Order & shipping,,False,1
+10654,Item stopped working,solved,high,question,web_widget,1,2025-08-14T17:12:42,2025-08-15T02:42:42,PRD-001,ACC-002,Product,Account,True,1
+10655,Item missing from my order,closed,normal,question,web_widget,2,2025-07-08T08:08:20,2025-07-08T19:53:20,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10656,Where is my order?,open,urgent,task,web_widget,1,2025-08-12T15:57:00,2025-08-12T22:28:00,ORD-001,,Order & shipping,,False,1
+10657,Invoice request for #718121,closed,low,problem,email,1,2025-08-23T20:44:38,2025-08-24T07:20:38,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10658,Where is my refund?,open,normal,task,web_widget,1,2025-06-22T18:28:17,2025-06-22T23:37:17,RET-002,,Returns & refunds,,False,1
+10659,How long do I have to return an item?,solved,low,question,email,1,2025-07-19T07:43:22,2025-07-19T14:11:22,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10660,Received wrong product,solved,normal,question,web_widget,1,2025-07-09T02:36:04,2025-07-09T08:16:04,PRD-002,PRD-002,Product,Product,False,1
+10661,Still waiting on refund for #467890,pending,low,question,web_widget,2,2025-08-24T05:11:40,2025-08-24T14:55:40,RET-002,,Returns & refunds,,False,1
+10662,Can't complete checkout,solved,high,task,email,1,2025-07-16T10:33:46,2025-07-17T00:56:46,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10663,Still waiting on refund for #528626,open,urgent,incident,web_widget,2,2025-07-27T13:28:56,2025-07-27T23:33:56,RET-002,,Returns & refunds,,False,1
+10664,Can't complete checkout,closed,normal,task,web_widget,1,2025-07-09T03:55:56,2025-07-09T14:14:56,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10665,Address correction for #627108,pending,normal,incident,email,1,2025-07-24T09:47:50,2025-07-24T12:39:50,ORD-005,,Order & shipping,,False,1
+10666,My order is late,closed,normal,question,web_widget,1,2025-08-18T13:40:01,2025-08-18T18:56:01,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10667,Receipt for accounting,solved,high,problem,email,1,2025-08-25T06:26:30,2025-08-25T19:44:30,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10668,Where is my refund?,open,low,question,web_widget,1,2025-08-27T05:13:28,2025-08-27T08:44:28,RET-002,,Returns & refunds,,False,1
+10669,Item stopped working,solved,normal,task,email,1,2025-06-19T11:01:43,2025-06-19T16:44:43,PRD-001,PRD-001,Product,Product,False,1
+10670,My order is late,closed,normal,incident,web_widget,1,2025-08-19T00:27:18,2025-08-19T14:13:18,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10671,Discount code not working,solved,low,question,web_widget,2,2025-08-21T10:23:19,2025-08-21T21:42:19,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10672,Need an invoice,pending,normal,problem,web_widget,1,2025-08-13T16:21:04,2025-08-14T00:45:04,PAY-003,,Payments & billing,,False,1
+10673,Card not working at checkout,pending,low,problem,email,1,2025-06-11T18:50:56,2025-06-12T05:08:56,PAY-001,,Payments & billing,,False,1
+10674,Can't log in,solved,low,task,web_widget,1,2025-06-15T02:05:24,2025-06-15T10:53:24,ACC-001,ACC-001,Account,Account,False,1
+10675,Package marked delivered but I got nothing,open,high,incident,web_widget,1,2025-07-29T08:45:48,2025-07-29T22:23:48,ORD-003,,Order & shipping,,False,1
+10676,Where is my refund?,solved,normal,incident,web_widget,1,2025-06-13T09:19:00,2025-06-13T21:53:00,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10677,Order #650320 status,solved,normal,problem,web_widget,1,2025-07-02T13:42:50,2025-07-02T19:53:50,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10678,Package marked delivered but I got nothing,closed,normal,task,web_widget,1,2025-08-18T12:29:01,2025-08-18T23:20:01,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10679,Address correction for #746749,pending,normal,question,web_widget,1,2025-06-06T04:58:49,2025-06-06T10:31:49,ORD-005,,Order & shipping,,False,1
+10680,Where is my order?,solved,low,problem,web_widget,1,2025-08-15T10:35:04,2025-08-15T18:27:04,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10681,Defective winter coat,solved,low,question,web_widget,2,2025-07-11T02:26:10,2025-07-11T19:05:10,PRD-001,PRD-001,Product,Product,False,1
+10682,Item stopped working,closed,normal,task,web_widget,1,2025-06-28T04:00:49,2025-06-28T14:28:49,PRD-001,PRD-001,Product,Product,False,1
+10683,Still waiting on refund for #122754,solved,low,question,web_widget,1,2025-07-04T01:49:48,2025-07-04T09:44:48,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10684,My order is late,solved,high,problem,email,1,2025-08-20T12:44:46,2025-08-21T01:20:46,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10685,Payment declined,solved,normal,problem,web_widget,1,2025-08-11T00:06:21,2025-08-11T06:59:21,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10686,Delivery delay on #514736,pending,low,question,email,2,2025-06-09T21:37:37,2025-06-10T08:05:37,ORD-002,,Order & shipping,,False,1
+10687,Item stopped working,closed,normal,task,web_widget,2,2025-06-03T09:46:00,2025-06-03T15:56:00,PRD-001,GEN-002,Product,General,True,1
+10688,Out of stock item,solved,urgent,incident,email,1,2025-06-12T13:06:23,2025-06-13T02:02:23,PRD-004,PRD-004,Product,Product,False,1
+10689,My order is late,solved,normal,incident,email,1,2025-07-27T04:58:03,2025-07-27T18:29:03,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10690,Delivery delay on #292483,open,normal,incident,email,1,2025-06-16T08:41:35,2025-06-16T13:05:35,ORD-002,,Order & shipping,,False,1
+10691,Charged twice,solved,low,incident,web_widget,1,2025-07-25T01:39:00,2025-07-25T11:45:00,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10692,Where is my refund?,closed,normal,task,email,1,2025-06-20T23:44:15,2025-06-21T06:19:15,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10693,My order is late,open,low,incident,email,2,2025-07-06T13:58:18,2025-07-07T00:53:18,ORD-002,,Order & shipping,,False,1
+10694,Partial refund issue,pending,low,task,web_widget,1,2025-08-08T03:55:12,2025-08-08T11:48:12,RET-003,,Returns & refunds,,False,1
+10695,Delivery delay on #831206,solved,normal,task,email,1,2025-07-22T09:27:12,2025-07-22T23:08:12,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10696,Wrong refund amount,solved,normal,question,email,1,2025-06-26T13:34:44,2025-06-26T20:29:44,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10697,Order #548099 missing an item,open,high,question,web_widget,1,2025-07-19T13:44:04,2025-07-20T05:40:04,ORD-004,,Order & shipping,,False,1
+10698,Defective laptop sleeve,solved,low,question,web_widget,2,2025-08-07T22:51:38,2025-08-08T08:52:38,PRD-001,PRD-001,Product,Product,False,1
+10699,My order never arrived,closed,normal,problem,email,2,2025-07-24T21:32:32,2025-07-25T07:55:32,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10700,Delivery delay on #812756,solved,normal,task,web_widget,2,2025-07-23T02:57:26,2025-07-23T10:41:26,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10701,Package hasn't arrived yet,solved,high,problem,web_widget,2,2025-07-07T14:39:48,2025-07-07T22:20:48,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10702,Disappointed with quality,solved,normal,problem,email,1,2025-06-03T17:59:13,2025-06-04T03:38:13,PRD-005,PRD-005,Product,Product,False,1
+10703,Stock availability question,solved,low,task,email,1,2025-08-11T06:04:55,2025-08-11T22:48:55,PRD-004,PRD-004,Product,Product,False,1
+10704,Still waiting on refund for #412836,solved,normal,task,web_widget,2,2025-08-28T23:00:09,2025-08-29T09:56:09,RET-002,RET-001,Returns & refunds,Returns & refunds,True,1
+10705,Product arrived defective,closed,normal,problem,web_widget,1,2025-07-09T12:01:59,2025-07-09T22:54:59,PRD-001,PRD-001,Product,Product,False,1
+10706,My order is late,closed,normal,incident,web_widget,1,2025-07-28T08:43:41,2025-07-28T18:03:41,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10707,This isn't what I ordered,pending,high,incident,web_widget,1,2025-07-26T12:39:24,2025-07-26T21:43:24,PRD-002,,Product,,False,1
+10708,Where is my refund?,open,low,task,web_widget,1,2025-06-26T03:54:45,2025-06-26T14:55:45,RET-002,,Returns & refunds,,False,1
+10709,Tracking question,closed,normal,task,email,1,2025-07-08T22:50:25,2025-07-09T11:10:25,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10710,Address correction for #359060,solved,high,incident,email,2,2025-07-10T11:42:00,2025-07-10T17:07:00,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10711,Can't log in,closed,high,task,web_widget,1,2025-08-17T15:12:02,2025-08-18T00:11:02,ACC-001,ACC-001,Account,Account,False,1
+10712,My order is late,solved,normal,task,web_widget,1,2025-08-04T13:45:41,2025-08-05T01:33:41,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10713,Great service,solved,low,question,email,1,2025-08-06T16:15:41,2025-08-07T06:26:41,GEN-003,GEN-003,General,General,False,1
+10714,Discount code not working,closed,normal,problem,email,1,2025-07-27T14:48:47,2025-07-28T03:16:47,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10715,Payment declined,open,low,question,web_widget,1,2025-06-07T22:29:49,2025-06-08T04:51:49,PAY-001,,Payments & billing,,False,1
+10716,Not as pictured,solved,normal,incident,web_widget,1,2025-08-07T12:53:05,2025-08-07T22:34:05,PRD-005,PRD-005,Product,Product,False,1
+10717,Frustrated customer,closed,low,task,email,1,2025-06-15T14:13:49,2025-06-15T22:57:49,GEN-001,GEN-001,General,General,False,1
+10718,Where is my refund?,open,normal,question,email,2,2025-07-02T04:18:46,2025-07-02T13:50:46,RET-002,,Returns & refunds,,False,1
+10719,Not sure who to ask,closed,low,task,email,2,2025-07-28T06:30:56,2025-07-28T16:01:56,GEN-OTHER,GEN-OTHER,General,General,False,1
+10720,Does this come in other sizes?,closed,normal,task,email,1,2025-08-22T08:58:30,2025-08-22T16:06:30,PRD-003,PRD-003,Product,Product,False,1
+10721,How do I return this?,solved,high,problem,web_widget,2,2025-06-17T08:47:15,2025-06-17T12:20:15,RET-001,PRD-004,Returns & refunds,Product,True,1
+10722,Received wrong product,closed,normal,incident,email,1,2025-08-16T05:22:00,2025-08-16T13:41:00,PRD-002,PRD-002,Product,Product,False,1
+10723,Package hasn't arrived yet,closed,normal,problem,email,2,2025-07-10T04:11:02,2025-07-10T15:20:02,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10724,Need an invoice,solved,normal,incident,email,1,2025-06-16T06:43:38,2025-06-16T10:17:38,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10725,Return policy question,solved,low,problem,web_widget,1,2025-06-06T17:22:23,2025-06-07T00:51:23,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10726,Where is my order?,solved,low,problem,email,1,2025-07-22T14:59:16,2025-07-23T02:26:16,ORD-001,GEN-003,Order & shipping,General,True,1
+10727,Feature request,solved,low,incident,email,1,2025-07-07T01:02:35,2025-07-07T07:55:35,GEN-002,GEN-002,General,General,False,1
+10728,Where is my refund?,pending,normal,question,web_widget,1,2025-07-22T11:24:55,2025-07-22T20:55:55,RET-002,,Returns & refunds,,False,1
+10729,Where is my refund?,solved,low,task,web_widget,1,2025-06-01T00:17:04,2025-06-01T04:04:04,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10730,Order #972769 status,closed,high,task,web_widget,2,2025-06-12T07:34:01,2025-06-12T14:22:01,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10731,Need an invoice,closed,normal,task,web_widget,1,2025-06-22T16:00:24,2025-06-23T02:58:24,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10732,Refund status,open,normal,task,email,2,2025-08-16T15:03:59,2025-08-17T03:06:59,RET-002,,Returns & refunds,,False,1
+10733,Where is my order?,solved,low,question,web_widget,2,2025-07-17T01:33:27,2025-07-17T10:51:27,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10734,Not happy with my experience,pending,high,incident,web_widget,1,2025-06-27T05:50:35,2025-06-27T18:52:35,GEN-001,,General,,False,1
+10735,Delete my account,solved,normal,problem,web_widget,2,2025-07-18T21:50:09,2025-07-19T10:53:09,ACC-003,ACC-003,Account,Account,False,1
+10736,Question before buying,solved,high,task,email,2,2025-06-18T13:10:56,2025-06-18T21:25:56,PRD-003,PRD-003,Product,Product,False,1
+10737,How do I return this?,solved,low,problem,email,1,2025-07-18T13:56:25,2025-07-18T20:21:25,RET-001,PRD-005,Returns & refunds,Product,True,1
+10738,Need to change shipping address,closed,normal,task,web_widget,1,2025-07-13T23:46:59,2025-07-14T06:14:59,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10739,Defective wireless headphones,solved,low,problem,web_widget,1,2025-06-05T09:58:34,2025-06-05T21:41:34,PRD-001,GEN-OTHER,Product,General,True,1
+10740,Package hasn't arrived yet,closed,high,question,web_widget,1,2025-06-04T20:16:29,2025-06-05T05:34:29,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10741,Order #300498 status,solved,low,task,web_widget,1,2025-08-16T14:21:55,2025-08-17T07:08:55,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10742,Item stopped working,solved,normal,incident,web_widget,2,2025-07-03T19:43:46,2025-07-04T09:36:46,PRD-001,PRD-001,Product,Product,False,1
+10743,Refund status,solved,high,task,web_widget,2,2025-07-22T06:10:19,2025-07-22T15:12:19,RET-002,ACC-003,Returns & refunds,Account,True,1
+10744,Return process question,pending,low,problem,web_widget,1,2025-07-16T04:24:20,2025-07-16T15:27:20,RET-001,,Returns & refunds,,False,1
+10745,Out of stock item,solved,high,question,web_widget,1,2025-06-15T03:48:01,2025-06-15T17:40:01,PRD-004,PRD-004,Product,Product,False,1
+10746,Package hasn't arrived yet,closed,normal,question,email,2,2025-07-24T15:44:35,2025-07-25T05:54:35,ORD-002,GEN-002,Order & shipping,General,True,1
+10747,Didn't get my discount,open,normal,question,email,1,2025-06-04T21:17:43,2025-06-05T05:37:43,PAY-004,,Payments & billing,,False,1
+10748,When will this be back in stock?,open,high,problem,web_widget,2,2025-07-30T07:00:58,2025-07-30T16:53:58,PRD-004,,Product,,False,1
+10749,Delete my account,open,normal,incident,web_widget,1,2025-06-27T17:02:01,2025-06-28T02:00:01,ACC-003,,Account,,False,1
+10750,Duplicate charge on my card,open,normal,problem,web_widget,1,2025-08-27T12:56:35,2025-08-27T16:34:35,PAY-002,,Payments & billing,,False,1
+10751,Frustrated customer,solved,low,question,web_widget,1,2025-07-06T09:55:01,2025-07-06T19:16:01,GEN-001,GEN-001,General,General,False,1
+10752,Order #602805 missing an item,closed,low,incident,web_widget,2,2025-06-28T07:02:53,2025-06-28T17:09:53,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10753,Refund status,closed,normal,problem,web_widget,2,2025-07-08T19:38:26,2025-07-09T08:37:26,RET-002,ORD-005,Returns & refunds,Order & shipping,True,1
+10754,Item stopped working,solved,low,problem,email,1,2025-06-27T17:44:01,2025-06-28T03:51:01,PRD-001,PRD-001,Product,Product,False,1
+10755,How long do I have to return an item?,solved,low,incident,web_widget,2,2025-07-29T04:42:11,2025-07-29T13:59:11,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10756,Complaint about recent order,closed,low,task,web_widget,2,2025-06-07T00:24:16,2025-06-07T08:54:16,GEN-001,GEN-001,General,General,False,1
+10757,Need an invoice,solved,low,task,web_widget,1,2025-08-03T13:36:33,2025-08-04T00:39:33,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10758,Tracking question,solved,high,question,email,1,2025-07-12T08:05:53,2025-07-12T11:15:53,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10759,Duplicate charge on my card,solved,high,question,email,2,2025-06-09T17:21:18,2025-06-10T03:37:18,PAY-002,PRD-004,Payments & billing,Product,True,1
+10760,My order never arrived,closed,low,question,email,1,2025-06-10T04:42:12,2025-06-10T13:21:12,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10761,Wrong item received,pending,normal,task,web_widget,1,2025-07-31T23:40:30,2025-08-01T10:28:30,PRD-002,,Product,,False,1
+10762,Package marked delivered but I got nothing,solved,low,task,email,2,2025-07-04T15:07:14,2025-07-05T08:26:14,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10763,Item missing from my order,closed,low,task,email,1,2025-06-21T10:39:20,2025-06-21T22:17:20,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10764,Coupon issue at checkout,solved,normal,incident,web_widget,1,2025-06-16T02:44:49,2025-06-16T14:50:49,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10765,Product arrived defective,solved,normal,incident,web_widget,1,2025-08-14T06:27:12,2025-08-14T20:59:12,PRD-001,PRD-001,Product,Product,False,1
+10766,Order #466901 status,solved,urgent,task,web_widget,1,2025-08-27T00:15:24,2025-08-27T15:20:24,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10767,Where is my order?,solved,normal,problem,email,2,2025-08-22T17:06:34,2025-08-23T07:26:34,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10768,When will this be back in stock?,closed,low,question,web_widget,1,2025-07-09T17:26:03,2025-07-10T10:51:03,PRD-004,PRD-004,Product,Product,False,1
+10769,Tracking question,closed,normal,question,web_widget,2,2025-08-25T00:06:44,2025-08-25T07:51:44,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10770,Delivery delay on #153895,closed,normal,problem,web_widget,1,2025-08-23T17:56:21,2025-08-24T04:38:21,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10771,Delivery delay on #161188,solved,low,task,email,1,2025-07-22T21:38:38,2025-07-23T11:16:38,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10772,Loyalty points question,closed,normal,incident,web_widget,1,2025-08-18T04:33:41,2025-08-18T13:43:41,LOY-001,LOY-001,Loyalty,Loyalty,False,1
+10773,Can't log in,solved,low,problem,web_widget,2,2025-06-12T01:53:22,2025-06-12T16:01:22,ACC-001,ACC-001,Account,Account,False,1
+10774,My order is late,solved,low,problem,email,2,2025-06-10T06:20:45,2025-06-10T20:36:45,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10775,Delivery delay on #899132,closed,normal,incident,web_widget,1,2025-08-19T08:00:48,2025-08-19T17:24:48,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10776,Need to update my address,solved,normal,question,email,2,2025-07-27T11:38:46,2025-07-27T22:28:46,ACC-002,ACC-002,Account,Account,False,1
+10777,Refund status,solved,low,task,web_widget,2,2025-07-10T01:29:00,2025-07-10T12:54:00,RET-002,PRD-005,Returns & refunds,Product,True,1
+10778,Address correction for #911463,closed,normal,task,web_widget,2,2025-06-27T22:05:17,2025-06-28T06:25:17,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10779,Not happy with my experience,pending,normal,incident,web_widget,1,2025-08-16T23:46:37,2025-08-17T07:55:37,GEN-001,,General,,False,1
+10780,Item stopped working,solved,normal,incident,web_widget,1,2025-08-15T09:05:08,2025-08-15T13:02:08,PRD-001,PRD-001,Product,Product,False,1
+10781,Refund status,solved,normal,task,web_widget,1,2025-08-15T22:21:00,2025-08-16T01:00:00,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10782,My order is late,solved,low,incident,web_widget,1,2025-07-29T19:29:01,2025-07-30T03:57:01,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10783,Return process question,closed,low,incident,web_widget,1,2025-06-07T20:51:18,2025-06-08T03:54:18,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10784,Not as pictured,solved,normal,question,email,1,2025-06-07T18:02:51,2025-06-08T01:17:51,PRD-005,PRD-005,Product,Product,False,1
+10785,Package hasn't arrived yet,solved,low,task,email,1,2025-07-04T11:06:26,2025-07-04T22:24:26,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10786,Return eligibility,solved,normal,incident,email,1,2025-08-12T22:47:43,2025-08-13T06:14:43,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10787,Complaint about recent order,closed,normal,task,web_widget,1,2025-06-26T10:54:20,2025-06-26T18:36:20,GEN-001,GEN-001,General,General,False,1
+10788,Package hasn't arrived yet,pending,low,incident,web_widget,1,2025-07-09T09:13:49,2025-07-09T18:36:49,ORD-002,,Order & shipping,,False,1
+10789,Quality doesn't match description,closed,low,incident,email,2,2025-08-03T15:30:42,2025-08-03T23:49:42,PRD-005,PRD-005,Product,Product,False,1
+10790,Incorrect charge amount,open,low,problem,web_widget,2,2025-07-15T10:34:25,2025-07-15T12:51:25,PAY-002,,Payments & billing,,False,1
+10791,My order is late,solved,normal,question,web_widget,2,2025-08-19T03:50:34,2025-08-19T15:01:34,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10792,Where is my order?,solved,normal,problem,web_widget,1,2025-08-09T12:06:55,2025-08-10T04:42:55,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10793,Tracking question,solved,normal,incident,web_widget,1,2025-07-28T17:39:41,2025-07-29T05:59:41,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10794,Where is my refund?,solved,normal,incident,web_widget,1,2025-07-17T23:07:59,2025-07-18T15:46:59,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10795,Item stopped working,closed,low,problem,web_widget,2,2025-07-23T15:45:41,2025-07-24T03:03:41,PRD-001,PRD-001,Product,Product,False,1
+10796,Receipt for accounting,solved,low,question,web_widget,1,2025-07-24T22:23:35,2025-07-25T06:49:35,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10797,Need an invoice,closed,low,question,email,2,2025-08-26T11:35:30,2025-08-26T22:07:30,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10798,Change email on file,closed,normal,task,web_widget,1,2025-07-15T11:55:13,2025-07-15T18:56:13,ACC-002,ACC-002,Account,Account,False,1
+10799,Password reset not working,closed,normal,task,email,2,2025-07-05T08:56:33,2025-07-05T21:52:33,ACC-001,ACC-001,Account,Account,False,1
+10800,Product arrived defective,closed,high,problem,web_widget,1,2025-08-11T18:42:40,2025-08-12T02:05:40,PRD-001,PRD-001,Product,Product,False,1
+10801,Where is my refund?,open,normal,incident,email,1,2025-08-04T23:10:13,2025-08-05T05:31:13,RET-002,,Returns & refunds,,False,1
+10802,Still waiting on refund for #449251,closed,high,task,email,2,2025-06-13T22:10:19,2025-06-14T06:22:19,RET-002,ORD-002,Returns & refunds,Order & shipping,True,1
+10803,Delivery delay on #345861,pending,normal,question,web_widget,2,2025-08-03T08:35:46,2025-08-03T21:17:46,ORD-003,,Order & shipping,,False,1
+10804,Not happy with my experience,closed,high,incident,web_widget,1,2025-07-20T11:51:56,2025-07-21T02:00:56,GEN-001,GEN-OTHER,General,General,True,1
+10805,Does this come in other sizes?,solved,normal,problem,web_widget,1,2025-08-26T04:29:13,2025-08-26T13:56:13,PRD-003,PRD-003,Product,Product,False,1
+10806,Order #619296 status,solved,normal,task,web_widget,1,2025-08-02T19:30:55,2025-08-03T09:35:55,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10807,Product question about phone case,solved,urgent,question,web_widget,1,2025-07-29T07:54:38,2025-07-29T19:20:38,PRD-003,PRD-003,Product,Product,False,1
+10808,Need to update my address,pending,normal,task,web_widget,1,2025-07-11T02:58:06,2025-07-11T12:21:06,ACC-002,,Account,,False,1
+10809,Item stopped working,solved,normal,incident,web_widget,1,2025-06-24T20:06:17,2025-06-25T03:43:17,PRD-001,PRD-001,Product,Product,False,1
+10810,Quick question,closed,normal,problem,email,1,2025-07-02T08:51:09,2025-07-02T16:36:09,GEN-OTHER,GEN-OTHER,General,General,False,1
+10811,Incomplete package,closed,normal,task,web_widget,1,2025-07-29T10:28:48,2025-07-30T01:05:48,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10812,Item stopped working,pending,normal,problem,email,2,2025-08-15T12:52:19,2025-08-15T19:56:19,PRD-001,,Product,,False,1
+10813,Need a return label,solved,low,problem,email,2,2025-08-11T22:45:19,2025-08-12T09:59:19,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10814,Defective bluetooth speaker,solved,normal,incident,email,1,2025-06-13T12:49:21,2025-06-13T22:32:21,PRD-001,PRD-001,Product,Product,False,1
+10815,Disappointed with quality,solved,normal,question,web_widget,1,2025-06-08T03:51:51,2025-06-08T19:50:51,PRD-005,PRD-005,Product,Product,False,1
+10816,Item stopped working,solved,urgent,incident,email,2,2025-07-27T23:06:05,2025-07-28T09:21:05,PRD-001,PRD-001,Product,Product,False,1
+10817,Payment declined,solved,normal,incident,email,2,2025-08-09T09:41:55,2025-08-09T14:25:55,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10818,How do I return this?,solved,normal,question,web_widget,1,2025-06-06T09:34:19,2025-06-06T17:24:19,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10819,Item stopped working,pending,low,problem,web_widget,1,2025-08-01T20:26:09,2025-08-02T03:30:09,PRD-001,,Product,,False,1
+10820,Locked out of my account,solved,normal,task,web_widget,2,2025-08-02T09:52:41,2025-08-02T18:30:41,ACC-001,ACC-001,Account,Account,False,1
+10821,Change email on file,closed,low,problem,web_widget,1,2025-07-07T03:24:36,2025-07-07T09:05:36,ACC-002,ACC-002,Account,Account,False,1
+10822,Refund status,closed,normal,task,email,1,2025-08-10T15:26:41,2025-08-10T22:05:41,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10823,Still waiting on refund for #629518,solved,low,incident,email,2,2025-06-22T20:29:50,2025-06-23T02:31:50,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10824,Incorrect charge amount,solved,low,problem,email,1,2025-06-12T01:32:46,2025-06-12T12:43:46,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10825,Refund doesn't match order #554769,pending,normal,task,web_widget,2,2025-08-23T03:11:00,2025-08-23T13:47:00,RET-003,,Returns & refunds,,False,1
+10826,Delivery delay on #891935,solved,normal,task,email,1,2025-08-02T06:59:51,2025-08-02T15:10:51,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10827,Complaint about recent order,solved,low,task,email,1,2025-08-02T13:37:41,2025-08-02T23:08:41,GEN-001,GEN-001,General,General,False,1
+10828,Refund status,solved,normal,incident,web_widget,1,2025-08-16T14:45:16,2025-08-17T02:52:16,RET-002,PRD-001,Returns & refunds,Product,True,1
+10829,Package hasn't arrived yet,solved,high,incident,web_widget,1,2025-08-25T06:07:43,2025-08-25T18:13:43,ORD-002,ORD-005,Order & shipping,Order & shipping,True,1
+10830,How do I return this?,pending,normal,task,web_widget,1,2025-07-08T05:57:50,2025-07-08T21:19:50,RET-001,,Returns & refunds,,False,1
+10831,Tracking question,solved,high,incident,web_widget,2,2025-07-17T03:48:04,2025-07-17T12:23:04,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10832,Address correction for #731296,solved,normal,question,web_widget,1,2025-08-17T04:13:02,2025-08-17T16:22:02,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10833,Where is my order?,solved,normal,task,email,2,2025-08-22T08:08:59,2025-08-22T20:32:59,ORD-001,RET-003,Order & shipping,Returns & refunds,True,1
+10834,Order #864810 missing an item,solved,low,incident,email,1,2025-06-13T08:14:40,2025-06-13T16:29:40,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10835,Wrong item received,closed,low,problem,web_widget,1,2025-07-30T04:56:10,2025-07-30T10:08:10,PRD-002,PRD-002,Product,Product,False,1
+10836,Out of stock item,closed,normal,problem,web_widget,1,2025-07-08T10:36:22,2025-07-08T20:32:22,PRD-004,PRD-004,Product,Product,False,1
+10837,Wrong item received,closed,normal,problem,web_widget,2,2025-08-02T07:02:40,2025-08-02T14:52:40,PRD-002,PRD-002,Product,Product,False,1
+10838,Coupon issue at checkout,pending,normal,incident,email,1,2025-06-06T22:55:40,2025-06-07T06:26:40,PAY-004,,Payments & billing,,False,1
+10839,Item stopped working,solved,normal,problem,web_widget,1,2025-08-27T02:44:47,2025-08-27T15:15:47,PRD-001,PRD-001,Product,Product,False,1
+10840,Coupon issue at checkout,solved,low,problem,email,2,2025-08-23T20:18:30,2025-08-24T12:39:30,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10841,Where is my refund?,open,low,problem,email,1,2025-07-10T11:17:27,2025-07-10T16:31:27,RET-002,,Returns & refunds,,False,1
+10842,Refund status,solved,normal,task,web_widget,1,2025-07-03T15:08:26,2025-07-04T04:15:26,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10843,Not as pictured,solved,normal,question,web_widget,1,2025-06-13T08:28:52,2025-06-13T18:27:52,PRD-005,PRD-005,Product,Product,False,1
+10844,Card not working at checkout,solved,normal,task,email,1,2025-06-23T06:06:48,2025-06-23T12:44:48,PAY-001,GEN-OTHER,Payments & billing,General,True,1
+10845,Not happy with my experience,solved,normal,question,web_widget,1,2025-06-14T08:25:03,2025-06-14T12:18:03,GEN-001,GEN-001,General,General,False,1
+10846,Can't log in,pending,normal,incident,web_widget,2,2025-06-28T10:32:17,2025-06-29T09:23:17,ACC-001,,Account,,False,1
+10847,Didn't get my discount,solved,normal,incident,web_widget,1,2025-06-24T02:19:56,2025-06-24T11:59:56,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10848,Payment declined,solved,high,task,email,1,2025-08-17T11:16:17,2025-08-17T22:41:17,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10849,Tracking question,closed,low,problem,web_widget,1,2025-07-22T22:32:47,2025-07-23T10:47:47,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10850,How long do I have to return an item?,closed,low,incident,email,2,2025-07-08T04:04:32,2025-07-08T12:19:32,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10851,Still waiting on refund for #399654,solved,normal,problem,web_widget,1,2025-06-17T22:10:31,2025-06-18T05:09:31,RET-002,ORD-002,Returns & refunds,Order & shipping,True,1
+10852,Need a return label,solved,normal,incident,web_widget,2,2025-06-01T05:49:12,2025-06-01T15:02:12,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10853,Incorrect charge amount,closed,high,question,web_widget,1,2025-08-25T23:40:26,2025-08-26T15:41:26,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10854,Duplicate charge on my card,open,low,problem,web_widget,1,2025-08-21T03:34:45,2025-08-21T16:23:45,PAY-002,,Payments & billing,,False,1
+10855,Where is my refund?,solved,normal,problem,web_widget,2,2025-06-27T22:00:46,2025-06-28T14:30:46,RET-002,ORD-002,Returns & refunds,Order & shipping,True,1
+10856,Defective wireless headphones,closed,low,question,web_widget,2,2025-08-18T01:38:57,2025-08-18T09:01:57,PRD-001,PRD-001,Product,Product,False,1
+10857,Order #949925 status,solved,normal,task,web_widget,2,2025-06-14T19:55:43,2025-06-15T05:31:43,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10858,Product question about sunglasses,pending,high,problem,email,1,2025-08-27T09:30:41,2025-08-27T15:56:41,PRD-003,,Product,,False,1
+10859,Tracking question,solved,urgent,problem,web_widget,1,2025-08-13T08:45:24,2025-08-13T15:10:24,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10860,Receipt for accounting,solved,high,question,email,1,2025-07-03T06:14:27,2025-07-03T13:27:27,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10861,Discount code not working,closed,high,question,email,1,2025-06-26T10:27:30,2025-06-26T17:17:30,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10862,Still waiting on refund for #197492,closed,high,incident,web_widget,1,2025-06-22T18:54:37,2025-06-23T11:07:37,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10863,Tracking question,pending,low,problem,email,2,2025-08-09T04:32:48,2025-08-09T14:38:48,ORD-001,,Order & shipping,,False,1
+10864,Package hasn't arrived yet,solved,normal,problem,web_widget,1,2025-07-03T12:46:40,2025-07-04T04:52:40,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10865,Need to change shipping address,solved,low,problem,email,1,2025-07-29T08:59:27,2025-07-29T20:04:27,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10866,Where is my refund?,solved,low,problem,web_widget,1,2025-07-14T15:41:24,2025-07-14T22:49:24,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10867,Still waiting on refund for #744931,closed,normal,incident,email,1,2025-06-15T00:56:57,2025-06-15T16:22:57,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10868,Defective laptop sleeve,solved,high,question,email,1,2025-07-30T17:50:13,2025-07-31T07:39:13,PRD-001,PRD-001,Product,Product,False,1
+10869,Refund status,solved,normal,problem,web_widget,1,2025-07-14T23:43:23,2025-07-15T11:09:23,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10870,Item stopped working,open,normal,problem,email,1,2025-06-28T13:53:46,2025-06-28T15:30:46,PRD-001,,Product,,False,1
+10871,Does this come in other sizes?,solved,normal,problem,email,1,2025-06-12T09:02:03,2025-06-13T00:37:03,PRD-003,PRD-003,Product,Product,False,1
+10872,Password reset not working,closed,low,problem,web_widget,1,2025-06-14T19:16:15,2025-06-15T10:21:15,ACC-001,ACC-001,Account,Account,False,1
+10873,Random query,closed,low,problem,web_widget,1,2025-08-13T10:37:37,2025-08-13T23:53:37,GEN-OTHER,GEN-OTHER,General,General,False,1
+10874,Order #501832 status,solved,normal,incident,email,2,2025-07-10T21:32:47,2025-07-11T10:23:47,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10875,Defective wireless headphones,solved,low,problem,email,2,2025-08-04T00:13:33,2025-08-04T06:54:33,PRD-001,PRD-001,Product,Product,False,1
+10876,Need a return label,solved,urgent,problem,web_widget,2,2025-08-24T00:04:14,2025-08-24T14:00:14,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10877,Stock availability question,solved,normal,incident,email,2,2025-08-26T02:30:16,2025-08-26T08:38:16,PRD-004,PRD-004,Product,Product,False,1
+10878,Wrong item received,solved,normal,problem,email,1,2025-08-27T17:22:16,2025-08-28T06:24:16,PRD-002,PAY-004,Product,Payments & billing,True,1
+10879,Complaint about recent order,closed,low,question,email,1,2025-06-16T02:13:01,2025-06-16T12:04:01,GEN-001,PAY-001,General,Payments & billing,True,1
+10880,Package hasn't arrived yet,solved,high,incident,web_widget,1,2025-07-13T07:52:24,2025-07-13T16:59:24,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10881,Address correction for #717424,solved,normal,question,web_widget,1,2025-07-10T02:02:29,2025-07-10T12:22:29,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10882,Refund status,closed,normal,problem,web_widget,2,2025-06-13T22:38:37,2025-06-14T06:25:37,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10883,Product arrived defective,closed,low,incident,web_widget,1,2025-08-10T07:59:23,2025-08-10T18:15:23,PRD-001,PRD-001,Product,Product,False,1
+10884,Product arrived defective,open,normal,problem,web_widget,1,2025-07-14T21:21:36,2025-07-15T04:36:36,PRD-001,,Product,,False,1
+10885,Product arrived defective,solved,high,task,email,1,2025-07-28T18:17:40,2025-07-29T02:19:40,PRD-001,PRD-001,Product,Product,False,1
+10886,Where is my refund?,pending,high,incident,web_widget,1,2025-07-23T19:20:50,2025-07-24T02:36:50,RET-002,,Returns & refunds,,False,1
+10887,Product arrived defective,solved,normal,incident,web_widget,2,2025-07-03T18:10:52,2025-07-04T02:21:52,PRD-001,PRD-001,Product,Product,False,1
+10888,Product arrived defective,solved,high,task,web_widget,2,2025-07-23T18:57:00,2025-07-24T03:16:00,PRD-001,PRD-001,Product,Product,False,1
+10889,Need to update my address,closed,low,incident,web_widget,1,2025-07-22T20:05:36,2025-07-23T07:49:36,ACC-002,ACC-002,Account,Account,False,1
+10890,Package marked delivered but I got nothing,solved,low,task,email,1,2025-07-24T15:32:59,2025-07-25T03:34:59,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10891,Duplicate charge on my card,pending,normal,task,web_widget,1,2025-07-19T09:32:30,2025-07-19T17:52:30,PAY-002,,Payments & billing,,False,1
+10892,Item stopped working,solved,high,problem,email,1,2025-06-21T19:34:46,2025-06-22T16:54:46,PRD-001,PRD-001,Product,Product,False,1
+10893,Refund status,solved,normal,problem,email,1,2025-07-31T16:03:36,2025-07-31T20:17:36,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10894,Does this come in other sizes?,pending,low,task,web_widget,1,2025-07-27T09:20:08,2025-07-27T18:25:08,PRD-003,,Product,,False,1
+10895,Package hasn't arrived yet,solved,normal,question,web_widget,2,2025-08-13T06:34:12,2025-08-13T16:10:12,ORD-003,ORD-002,Order & shipping,Order & shipping,True,1
+10896,Where is my refund?,solved,normal,problem,web_widget,1,2025-06-10T17:26:36,2025-06-11T04:07:36,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10897,Need an invoice,closed,normal,incident,web_widget,2,2025-08-23T05:43:20,2025-08-23T20:09:20,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+10898,Where is my order?,solved,low,question,email,2,2025-06-22T15:20:44,2025-06-23T05:47:44,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10899,Wrong item received,closed,low,incident,email,1,2025-08-24T11:27:34,2025-08-24T19:32:34,PRD-002,PRD-002,Product,Product,False,1
+10900,Payment declined,solved,normal,question,email,1,2025-06-05T19:53:38,2025-06-06T03:38:38,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10901,Product arrived defective,solved,normal,incident,email,2,2025-06-20T18:58:21,2025-06-21T09:09:21,PRD-001,PRD-001,Product,Product,False,1
+10902,Delivery delay on #690104,closed,low,incident,web_widget,1,2025-08-05T12:12:12,2025-08-05T22:07:12,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10903,Where is my refund?,solved,low,task,web_widget,2,2025-08-06T20:59:27,2025-08-07T06:27:27,PAY-002,RET-002,Payments & billing,Returns & refunds,True,1
+10904,Where is my refund?,solved,high,task,email,1,2025-06-17T10:56:14,2025-06-17T15:27:14,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10905,Item stopped working,closed,high,problem,email,2,2025-06-05T22:16:51,2025-06-06T07:55:51,PRD-001,PRD-001,Product,Product,False,1
+10906,Complaint about recent order,pending,low,problem,email,1,2025-08-27T11:19:16,2025-08-27T23:45:16,GEN-001,,General,,False,1
+10907,Partial refund issue,closed,low,problem,email,1,2025-08-10T21:58:00,2025-08-11T07:34:00,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+10908,Return policy question,solved,urgent,question,email,2,2025-07-25T14:29:09,2025-07-26T12:10:09,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10909,Still waiting on refund for #284651,solved,urgent,incident,web_widget,1,2025-08-09T01:19:10,2025-08-09T13:03:10,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10910,Random query,solved,low,problem,email,2,2025-07-24T03:44:40,2025-07-24T15:44:40,GEN-OTHER,GEN-OTHER,General,General,False,1
+10911,Refund status,closed,normal,task,email,1,2025-07-10T05:46:02,2025-07-10T10:36:02,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10912,Product arrived defective,open,normal,question,email,1,2025-07-16T01:37:44,2025-07-16T12:28:44,PRD-001,,Product,,False,1
+10913,Product arrived defective,closed,normal,problem,web_widget,1,2025-07-12T17:03:15,2025-07-12T22:31:15,PRD-001,PRD-001,Product,Product,False,1
+10914,Product arrived defective,solved,normal,task,web_widget,1,2025-07-06T06:28:09,2025-07-06T09:52:09,PRD-001,PRD-001,Product,Product,False,1
+10915,Defective running shoes,closed,normal,task,email,1,2025-07-04T14:00:33,2025-07-04T21:10:33,PRD-001,PRD-001,Product,Product,False,1
+10916,Discount code not working,solved,high,question,email,1,2025-07-26T15:50:20,2025-07-26T23:06:20,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10917,Duplicate charge on my card,closed,low,question,web_widget,2,2025-08-23T17:57:16,2025-08-24T10:20:16,PAY-002,PAY-004,Payments & billing,Payments & billing,True,1
+10918,Random query,solved,high,task,web_widget,1,2025-06-11T02:11:54,2025-06-11T13:47:54,GEN-OTHER,GEN-OTHER,General,General,False,1
+10919,Tracking question,solved,normal,problem,web_widget,1,2025-06-02T23:34:12,2025-06-03T11:46:12,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10920,Delivery delay on #895950,solved,low,problem,web_widget,2,2025-06-02T12:57:14,2025-06-02T19:57:14,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10921,Received wrong product,solved,high,question,web_widget,2,2025-07-05T11:00:49,2025-07-05T21:58:49,PRD-002,PRD-002,Product,Product,False,1
+10922,Payment declined,solved,urgent,problem,web_widget,1,2025-07-23T05:20:45,2025-07-23T17:21:45,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10923,When will this be back in stock?,solved,normal,incident,web_widget,2,2025-07-14T16:40:49,2025-07-15T06:37:49,PRD-004,PRD-004,Product,Product,False,1
+10924,Still waiting on refund for #651605,solved,high,task,web_widget,2,2025-07-21T23:40:52,2025-07-22T11:47:52,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10925,Where is my refund?,solved,low,incident,web_widget,1,2025-07-01T20:33:01,2025-07-02T04:10:01,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10926,Item stopped working,solved,high,task,web_widget,2,2025-07-07T04:25:47,2025-07-07T06:58:47,PRD-001,PRD-001,Product,Product,False,1
+10927,Package hasn't arrived yet,solved,normal,task,email,1,2025-07-17T19:26:05,2025-07-18T06:20:05,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10928,Thank you!,closed,normal,incident,web_widget,2,2025-08-25T10:35:23,2025-08-25T19:14:23,GEN-003,GEN-002,General,General,True,1
+10929,Lost order #336273,closed,normal,problem,email,1,2025-06-02T08:39:53,2025-06-02T19:10:53,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10930,Card not working at checkout,solved,normal,task,web_widget,1,2025-07-26T23:16:26,2025-07-27T04:02:26,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+10931,Out of stock item,solved,low,problem,web_widget,1,2025-07-31T01:37:50,2025-07-31T14:08:50,PRD-004,PRD-004,Product,Product,False,1
+10932,Defective sneakers,solved,low,task,web_widget,1,2025-07-30T21:11:39,2025-07-31T15:36:39,PRD-001,PRD-001,Product,Product,False,1
+10933,My order is late,open,high,incident,email,2,2025-06-10T11:21:06,2025-06-10T17:40:06,ORD-002,,Order & shipping,,False,1
+10934,Tracking question,closed,normal,incident,web_widget,2,2025-07-18T18:21:12,2025-07-19T05:01:12,ORD-001,PAY-002,Order & shipping,Payments & billing,True,1
+10935,How do I return this?,solved,low,question,web_widget,2,2025-06-30T18:51:22,2025-06-30T22:02:22,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10936,Out of stock item,pending,normal,task,email,2,2025-07-31T22:54:17,2025-08-01T04:51:17,PRD-004,,Product,,False,1
+10937,Where is my refund?,solved,normal,incident,web_widget,1,2025-06-01T03:08:16,2025-06-01T12:08:16,PAY-002,RET-002,Payments & billing,Returns & refunds,True,1
+10938,Product arrived defective,solved,normal,incident,web_widget,1,2025-06-02T15:40:41,2025-06-03T02:23:41,PRD-001,PRD-001,Product,Product,False,1
+10939,Not happy with my experience,closed,low,task,web_widget,1,2025-07-07T19:50:11,2025-07-08T04:55:11,GEN-001,GEN-001,General,General,False,1
+10940,Update my account details,closed,normal,question,web_widget,2,2025-07-03T15:41:51,2025-07-04T06:41:51,ACC-002,ACC-002,Account,Account,False,1
+10941,My order is late,closed,low,incident,web_widget,2,2025-08-12T14:07:35,2025-08-12T21:21:35,ORD-002,PRD-005,Order & shipping,Product,True,1
+10942,Item stopped working,pending,high,incident,web_widget,1,2025-07-23T14:09:56,2025-07-23T22:27:56,PRD-001,,Product,,False,1
+10943,Just wanted to say thanks,solved,normal,problem,email,1,2025-08-06T19:11:41,2025-08-07T05:18:41,GEN-003,GEN-003,General,General,False,1
+10944,Coupon issue at checkout,closed,urgent,question,web_widget,1,2025-07-23T22:22:57,2025-07-24T08:02:57,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+10945,Can't complete checkout,pending,normal,question,web_widget,2,2025-07-12T00:00:32,2025-07-12T15:03:32,PAY-001,,Payments & billing,,False,1
+10946,Delivery delay on #300013,open,low,task,web_widget,1,2025-07-06T07:23:37,2025-07-06T10:37:37,ORD-002,,Order & shipping,,False,1
+10947,Need a return label,solved,low,task,web_widget,1,2025-08-01T01:45:45,2025-08-01T09:18:45,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10948,Not happy with my experience,solved,high,incident,email,2,2025-06-25T03:55:59,2025-06-25T12:32:59,GEN-001,GEN-001,General,General,False,1
+10949,Where is my refund?,solved,normal,question,web_widget,1,2025-07-21T17:47:44,2025-07-22T09:14:44,PAY-002,RET-002,Payments & billing,Returns & refunds,True,1
+10950,Package marked delivered but I got nothing,solved,low,question,web_widget,1,2025-08-07T12:33:52,2025-08-08T02:39:52,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10951,Defective winter coat,pending,low,task,web_widget,1,2025-07-12T14:32:27,2025-07-12T20:02:27,PRD-001,,Product,,False,1
+10952,Package hasn't arrived yet,solved,urgent,incident,web_widget,2,2025-08-21T17:05:35,2025-08-22T02:16:35,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10953,Return policy question,closed,low,question,email,1,2025-07-09T03:30:23,2025-07-09T22:02:23,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10954,Can't log in,solved,low,task,web_widget,1,2025-07-12T16:50:49,2025-07-12T21:09:49,ACC-001,ACC-001,Account,Account,False,1
+10955,Out of stock item,open,normal,problem,web_widget,1,2025-06-19T07:40:04,2025-06-19T15:51:04,PRD-004,,Product,,False,1
+10956,Duplicate charge on my card,open,normal,task,web_widget,1,2025-08-03T00:00:32,2025-08-03T04:49:32,PAY-002,,Payments & billing,,False,1
+10957,How do I return this?,solved,low,incident,email,1,2025-07-31T22:57:03,2025-08-01T06:51:03,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+10958,Change email on file,closed,normal,problem,email,2,2025-06-16T16:03:39,2025-06-16T23:12:39,ACC-002,ACC-002,Account,Account,False,1
+10959,Refund status,solved,high,problem,web_widget,1,2025-06-26T20:52:07,2025-06-27T10:07:07,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+10960,Order #480811 status,solved,low,incident,web_widget,1,2025-07-25T11:54:42,2025-07-25T20:12:42,ORD-001,PRD-003,Order & shipping,Product,True,1
+10961,Just wanted to say thanks,solved,normal,question,email,2,2025-06-09T05:45:44,2025-06-09T18:32:44,GEN-003,GEN-003,General,General,False,1
+10962,Delivery delay on #746132,closed,normal,problem,web_widget,1,2025-07-09T02:25:16,2025-07-09T09:31:16,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10963,Package marked delivered but I got nothing,solved,low,problem,email,1,2025-07-20T20:20:58,2025-07-21T14:02:58,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+10964,Frustrated customer,pending,normal,problem,web_widget,1,2025-08-23T13:32:39,2025-08-23T20:27:39,GEN-001,,General,,False,1
+10965,My order is late,closed,low,task,email,2,2025-07-02T19:26:26,2025-07-03T06:31:26,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10966,Tracking question,closed,normal,problem,web_widget,2,2025-08-22T16:31:31,2025-08-23T11:01:31,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10967,Stock availability question,solved,low,incident,web_widget,1,2025-08-17T18:42:35,2025-08-18T10:48:35,PRD-004,PRD-004,Product,Product,False,1
+10968,Defective sneakers,pending,normal,question,email,2,2025-08-25T23:36:24,2025-08-26T11:32:24,PRD-001,,Product,,False,1
+10969,Delivery delay on #768704,solved,low,incident,email,1,2025-06-21T17:06:52,2025-06-22T03:28:52,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10970,Item stopped working,open,normal,question,web_widget,1,2025-06-12T12:28:10,2025-06-13T04:48:10,PRD-001,,Product,,False,1
+10971,Didn't get my discount,pending,normal,question,email,1,2025-07-19T00:39:25,2025-07-19T14:32:25,PAY-004,,Payments & billing,,False,1
+10972,Item stopped working,pending,normal,incident,web_widget,1,2025-08-25T13:29:20,2025-08-25T23:10:20,PRD-001,,Product,,False,1
+10973,Duplicate charge on my card,closed,normal,task,email,1,2025-08-20T19:01:35,2025-08-21T03:25:35,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10974,Feedback about the website,solved,normal,problem,email,1,2025-06-27T22:13:22,2025-06-28T08:27:22,GEN-002,GEN-002,General,General,False,1
+10975,Complaint about recent order,solved,normal,task,email,2,2025-06-14T01:17:51,2025-06-14T09:50:51,GEN-001,GEN-001,General,General,False,1
+10976,My order is late,pending,high,problem,email,1,2025-08-10T12:09:35,2025-08-10T15:56:35,ORD-002,,Order & shipping,,False,1
+10977,Out of stock item,solved,low,task,email,1,2025-07-22T17:12:03,2025-07-22T22:47:03,PRD-004,ACC-003,Product,Account,True,1
+10978,Need to change shipping address,closed,normal,task,web_widget,1,2025-07-15T22:13:15,2025-07-16T07:18:15,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+10979,Product arrived defective,open,urgent,question,email,2,2025-06-10T19:15:43,2025-06-11T02:56:43,PRD-001,,Product,,False,1
+10980,Item stopped working,solved,normal,problem,web_widget,1,2025-07-20T20:48:57,2025-07-21T03:55:57,PRD-001,GEN-003,Product,General,True,1
+10981,Password reset not working,pending,normal,question,email,2,2025-07-03T14:17:45,2025-07-03T22:16:45,ACC-001,,Account,,False,1
+10982,Locked out of my account,pending,low,question,web_widget,1,2025-07-09T15:23:25,2025-07-09T22:27:25,ACC-001,,Account,,False,1
+10983,Tracking question,solved,normal,problem,email,1,2025-06-20T14:45:54,2025-06-21T02:24:54,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10984,Update my account details,closed,normal,problem,web_widget,1,2025-08-10T00:33:07,2025-08-10T07:21:07,ACC-002,ACC-002,Account,Account,False,1
+10985,Tracking question,solved,low,question,web_widget,1,2025-08-04T18:45:17,2025-08-05T00:04:17,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+10986,When will this be back in stock?,closed,high,incident,email,2,2025-08-04T17:56:13,2025-08-05T04:10:13,PRD-004,PRD-004,Product,Product,False,1
+10987,Thank you!,open,high,question,web_widget,1,2025-08-17T07:18:49,2025-08-17T17:14:49,GEN-003,,General,,False,1
+10988,Just wanted to say thanks,solved,low,question,web_widget,2,2025-08-27T01:25:14,2025-08-27T19:02:14,GEN-003,GEN-003,General,General,False,1
+10989,Incomplete package,closed,low,question,email,2,2025-06-02T18:04:15,2025-06-03T04:06:15,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+10990,Return eligibility,solved,normal,incident,web_widget,1,2025-07-02T04:50:10,2025-07-02T14:53:10,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+10991,Where is my order?,pending,high,incident,web_widget,1,2025-08-02T05:09:54,2025-08-02T13:43:54,ORD-001,,Order & shipping,,False,1
+10992,Package hasn't arrived yet,solved,high,task,email,1,2025-06-20T09:53:30,2025-06-20T21:16:30,ORD-002,RET-001,Order & shipping,Returns & refunds,True,1
+10993,Item stopped working,solved,low,task,email,2,2025-07-15T09:16:46,2025-07-16T00:02:46,PRD-001,PRD-001,Product,Product,False,1
+10994,My order is late,solved,normal,incident,email,1,2025-07-22T00:27:56,2025-07-22T16:41:56,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+10995,Question before buying,closed,normal,incident,web_widget,1,2025-08-08T23:50:52,2025-08-09T11:14:52,PRD-003,PRD-003,Product,Product,False,1
+10996,Item stopped working,solved,normal,question,email,1,2025-07-16T22:19:17,2025-07-17T08:42:17,PRD-001,PRD-001,Product,Product,False,1
+10997,Refund status,open,normal,task,web_widget,1,2025-07-14T09:12:36,2025-07-14T14:34:36,RET-002,,Returns & refunds,,False,1
+10998,Charged twice,closed,low,problem,email,2,2025-07-13T00:02:48,2025-07-13T09:31:48,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+10999,Complaint about recent order,solved,low,incident,email,2,2025-07-08T03:42:38,2025-07-08T11:59:38,GEN-001,GEN-001,General,General,False,1
+11000,Does this come in other sizes?,closed,low,question,web_widget,1,2025-06-29T09:59:09,2025-06-29T16:49:09,PRD-003,PRD-003,Product,Product,False,1
+11001,Tracking question,solved,low,task,web_widget,1,2025-07-06T02:26:34,2025-07-06T14:53:34,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11002,Random query,solved,normal,question,web_widget,2,2025-06-13T02:04:33,2025-06-13T06:18:33,GEN-OTHER,GEN-OTHER,General,General,False,1
+11003,This isn't what I ordered,solved,normal,task,web_widget,1,2025-08-22T23:13:47,2025-08-23T12:03:47,PRD-002,PRD-002,Product,Product,False,1
+11004,Product arrived defective,solved,normal,question,web_widget,1,2025-07-08T17:46:14,2025-07-09T02:52:14,PRD-001,PRD-001,Product,Product,False,1
+11005,Still waiting on refund for #494309,solved,low,question,web_widget,2,2025-08-25T13:29:13,2025-08-26T02:17:13,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11006,Random query,solved,normal,question,web_widget,1,2025-07-11T06:21:13,2025-07-11T16:23:13,GEN-OTHER,GEN-OTHER,General,General,False,1
+11007,Feature request,solved,normal,problem,email,2,2025-07-09T02:09:27,2025-07-09T10:54:27,GEN-002,GEN-002,General,General,False,1
+11008,My order never arrived,pending,normal,task,web_widget,2,2025-07-20T03:05:32,2025-07-20T09:12:32,ORD-003,,Order & shipping,,False,1
+11009,My order never arrived,closed,normal,task,web_widget,2,2025-06-22T03:14:22,2025-06-22T15:16:22,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+11010,Order #286037 status,closed,low,task,email,2,2025-06-08T10:57:27,2025-06-08T22:15:27,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11011,Where is my order?,solved,normal,question,web_widget,1,2025-06-29T17:33:47,2025-06-30T04:42:47,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11012,Product question about smartwatch,solved,high,question,web_widget,1,2025-07-23T09:23:06,2025-07-23T18:49:06,PRD-003,PRD-003,Product,Product,False,1
+11013,Where is my order?,solved,low,incident,email,1,2025-08-13T23:32:08,2025-08-14T11:52:08,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11014,Quick question,solved,low,incident,web_widget,2,2025-07-06T08:19:37,2025-07-06T20:15:37,GEN-OTHER,GEN-OTHER,General,General,False,1
+11015,Out of stock item,closed,low,question,web_widget,1,2025-08-02T13:55:32,2025-08-02T21:18:32,PRD-004,PRD-004,Product,Product,False,1
+11016,Card not working at checkout,solved,low,problem,email,2,2025-06-24T01:03:16,2025-06-24T11:04:16,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+11017,Still waiting on refund for #553192,pending,normal,problem,web_widget,1,2025-07-12T13:44:16,2025-07-12T23:07:16,RET-002,,Returns & refunds,,False,1
+11018,Where is my order?,closed,normal,incident,web_widget,2,2025-06-18T18:31:02,2025-06-19T02:13:02,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11019,This isn't what I ordered,open,normal,problem,email,2,2025-07-25T02:41:58,2025-07-25T12:56:58,PRD-002,,Product,,False,1
+11020,Discount code not working,solved,low,incident,email,1,2025-08-16T04:16:33,2025-08-16T12:39:33,PAY-004,GEN-OTHER,Payments & billing,General,True,1
+11021,Defective desk lamp,open,normal,incident,web_widget,2,2025-08-23T20:44:56,2025-08-24T09:57:56,PRD-001,,Product,,False,1
+11022,Update my account details,solved,low,task,email,2,2025-08-18T18:42:43,2025-08-19T05:14:43,ACC-002,ACC-002,Account,Account,False,1
+11023,Received wrong product,solved,normal,task,web_widget,1,2025-06-17T21:37:08,2025-06-18T11:03:08,PRD-002,PRD-002,Product,Product,False,1
+11024,Discount code not working,open,low,question,web_widget,1,2025-06-07T13:50:43,2025-06-07T17:26:43,PAY-004,,Payments & billing,,False,1
+11025,Locked out of my account,pending,high,task,web_widget,1,2025-07-24T18:47:50,2025-07-25T01:42:50,ACC-001,,Account,,False,1
+11026,Can't complete checkout,solved,normal,problem,web_widget,1,2025-08-08T06:24:02,2025-08-08T21:46:02,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+11027,My order never arrived,solved,normal,problem,web_widget,1,2025-06-16T05:38:11,2025-06-16T18:19:11,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+11028,My order is late,closed,high,problem,web_widget,1,2025-08-05T06:24:08,2025-08-05T16:45:08,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11029,Refund status,pending,normal,task,web_widget,2,2025-08-21T22:22:25,2025-08-22T11:20:25,RET-002,,Returns & refunds,,False,1
+11030,Quality doesn't match description,solved,normal,task,web_widget,2,2025-06-28T22:29:35,2025-06-29T08:50:35,PRD-005,PRD-005,Product,Product,False,1
+11031,Product arrived defective,solved,normal,question,email,1,2025-07-15T10:18:23,2025-07-15T20:51:23,PRD-001,PRD-001,Product,Product,False,1
+11032,Tracking question,closed,normal,problem,email,2,2025-06-04T00:26:06,2025-06-04T04:45:06,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11033,Item stopped working,solved,normal,incident,email,2,2025-07-30T22:53:38,2025-07-31T03:34:38,PRD-001,PRD-001,Product,Product,False,1
+11034,Refund status,solved,low,task,web_widget,2,2025-07-22T15:58:36,2025-07-23T05:43:36,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11035,Defective wireless headphones,pending,low,task,web_widget,1,2025-07-29T07:57:43,2025-07-29T17:20:43,PRD-001,,Product,,False,1
+11036,Incorrect charge amount,closed,high,problem,web_widget,1,2025-08-20T13:21:51,2025-08-21T00:39:51,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+11037,Delivery delay on #778904,solved,low,question,web_widget,1,2025-07-11T07:03:31,2025-07-11T20:32:31,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11038,Invoice request for #130592,closed,normal,task,web_widget,1,2025-08-23T15:09:17,2025-08-23T18:23:17,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+11039,Wrong item received,solved,normal,question,email,2,2025-07-13T12:47:17,2025-07-13T21:13:17,PRD-002,PRD-002,Product,Product,False,1
+11040,Update my account details,closed,low,task,web_widget,2,2025-06-24T21:09:37,2025-06-25T10:20:37,ACC-002,ACC-002,Account,Account,False,1
+11041,Wrong refund amount,solved,normal,question,email,1,2025-07-13T19:42:03,2025-07-14T15:36:03,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+11042,How long do I have to return an item?,solved,normal,incident,web_widget,2,2025-06-25T07:59:02,2025-06-25T22:19:02,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+11043,Still waiting on refund for #368780,solved,normal,problem,web_widget,1,2025-07-31T08:49:50,2025-07-31T11:57:50,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11044,GDPR data request,pending,normal,incident,email,1,2025-06-19T19:35:53,2025-06-20T07:28:53,ACC-003,,Account,,False,1
+11045,Where is my refund?,closed,normal,task,web_widget,2,2025-07-28T03:47:38,2025-07-28T23:19:38,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11046,Order #851504 missing an item,solved,normal,question,web_widget,1,2025-08-08T03:03:09,2025-08-08T10:53:09,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+11047,Defective bluetooth speaker,solved,high,question,web_widget,1,2025-07-17T17:19:07,2025-07-18T12:27:07,PRD-001,PRD-001,Product,Product,False,1
+11048,Need an invoice,closed,high,question,web_widget,2,2025-07-25T17:38:44,2025-07-26T04:14:44,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+11049,My order never arrived,solved,normal,task,web_widget,2,2025-08-13T22:21:51,2025-08-14T08:31:51,ORD-003,ORD-003,Order & shipping,Order & shipping,False,1
+11050,Delivery delay on #572281,solved,low,problem,email,1,2025-06-03T17:15:59,2025-06-04T05:38:59,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11051,Thank you!,closed,normal,question,web_widget,1,2025-07-03T08:55:39,2025-07-03T22:01:39,GEN-003,GEN-003,General,General,False,1
+11052,Delete my account,closed,urgent,question,web_widget,1,2025-06-09T01:58:23,2025-06-09T13:16:23,ACC-003,ACC-003,Account,Account,False,1
+11053,Order #525614 status,open,low,incident,web_widget,1,2025-06-19T14:58:11,2025-06-20T01:31:11,ORD-001,,Order & shipping,,False,1
+11054,Still waiting on refund for #523814,pending,low,incident,email,2,2025-07-08T12:29:49,2025-07-08T20:54:49,RET-002,,Returns & refunds,,False,1
+11055,Package marked delivered but I got nothing,pending,normal,task,web_widget,1,2025-07-10T12:17:26,2025-07-10T20:58:26,ORD-003,,Order & shipping,,False,1
+11056,Where is my refund?,closed,normal,incident,web_widget,1,2025-06-14T21:21:40,2025-06-15T04:30:40,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11057,Product arrived defective,solved,normal,question,web_widget,1,2025-07-15T05:37:45,2025-07-15T23:19:45,PRD-001,PRD-001,Product,Product,False,1
+11058,Payment declined,open,normal,task,web_widget,1,2025-07-07T00:11:40,2025-07-07T07:14:40,PAY-001,,Payments & billing,,False,1
+11059,Item stopped working,open,low,task,email,1,2025-06-08T12:55:40,2025-06-09T02:59:40,PRD-001,,Product,,False,1
+11060,Refund status,closed,low,question,email,1,2025-06-09T17:15:00,2025-06-10T01:35:00,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11061,Not happy with my experience,open,high,question,web_widget,2,2025-06-05T01:45:19,2025-06-05T09:00:19,GEN-001,,General,,False,1
+11062,Item stopped working,solved,normal,problem,web_widget,1,2025-06-23T09:01:05,2025-06-23T14:40:05,PRD-001,PRD-001,Product,Product,False,1
+11063,Wrong refund amount,open,normal,incident,web_widget,1,2025-07-28T06:11:57,2025-07-28T14:53:57,RET-003,,Returns & refunds,,False,1
+11064,Quick question,solved,normal,problem,email,1,2025-08-13T17:53:11,2025-08-14T03:50:11,GEN-OTHER,GEN-OTHER,General,General,False,1
+11065,Does this come in other sizes?,solved,normal,incident,web_widget,1,2025-08-17T22:23:49,2025-08-18T08:51:49,PRD-003,PRD-003,Product,Product,False,1
+11066,Package hasn't arrived yet,pending,high,task,web_widget,2,2025-08-21T21:26:18,2025-08-22T07:11:18,ORD-002,,Order & shipping,,False,1
+11067,Still waiting on refund for #138598,open,normal,task,web_widget,1,2025-07-05T11:02:38,2025-07-05T20:37:38,RET-002,,Returns & refunds,,False,1
+11068,This isn't what I ordered,solved,normal,incident,email,1,2025-08-05T07:07:51,2025-08-05T22:10:51,PRD-002,PRD-002,Product,Product,False,1
+11069,Where is my order?,open,high,task,web_widget,1,2025-08-18T08:19:55,2025-08-18T23:45:55,ORD-001,,Order & shipping,,False,1
+11070,Wrong refund amount,closed,urgent,incident,web_widget,1,2025-08-01T01:52:37,2025-08-01T13:50:37,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+11071,Not as pictured,closed,high,problem,web_widget,1,2025-08-17T20:49:59,2025-08-18T14:07:59,PRD-005,PRD-005,Product,Product,False,1
+11072,Complaint about recent order,closed,low,incident,email,2,2025-07-31T16:21:43,2025-08-01T04:36:43,GEN-001,GEN-001,General,General,False,1
+11073,Defective yoga mat,solved,normal,incident,web_widget,1,2025-07-21T12:39:30,2025-07-21T23:37:30,PRD-001,PRD-001,Product,Product,False,1
+11074,Package hasn't arrived yet,solved,normal,question,web_widget,1,2025-06-16T00:53:51,2025-06-16T09:57:51,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11075,Wrong item received,closed,normal,problem,email,1,2025-06-20T06:25:19,2025-06-20T14:55:19,PRD-002,PRD-002,Product,Product,False,1
+11076,Where is my refund?,pending,normal,task,web_widget,1,2025-07-23T11:38:06,2025-07-23T17:11:06,RET-002,,Returns & refunds,,False,1
+11077,Missing points from order,closed,low,problem,web_widget,2,2025-06-14T16:14:07,2025-06-15T06:00:07,LOY-001,LOY-001,Loyalty,Loyalty,False,1
+11078,Discount code not working,solved,high,problem,web_widget,1,2025-06-18T01:19:19,2025-06-18T09:38:19,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+11079,Incorrect charge amount,closed,low,question,email,1,2025-06-05T14:48:50,2025-06-05T22:13:50,PAY-002,PAY-002,Payments & billing,Payments & billing,False,1
+11080,Feedback about the website,closed,normal,problem,web_widget,2,2025-07-19T03:08:46,2025-07-19T16:21:46,GEN-002,GEN-002,General,General,False,1
+11081,Package hasn't arrived yet,solved,high,incident,email,1,2025-07-24T05:43:55,2025-07-24T13:07:55,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11082,Tracking question,closed,low,question,web_widget,1,2025-06-04T21:50:09,2025-06-05T10:29:09,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11083,Defective backpack,solved,low,incident,web_widget,1,2025-08-15T10:35:56,2025-08-15T22:35:56,PRD-001,PRD-001,Product,Product,False,1
+11084,Receipt for accounting,open,normal,task,web_widget,1,2025-08-12T19:16:02,2025-08-13T05:50:02,PAY-003,,Payments & billing,,False,1
+11085,Receipt for accounting,solved,normal,task,email,1,2025-07-01T18:27:11,2025-07-02T02:19:11,PAY-003,GEN-002,Payments & billing,General,True,1
+11086,Item stopped working,solved,low,question,email,1,2025-06-17T20:45:14,2025-06-18T17:46:14,PRD-001,PRD-001,Product,Product,False,1
+11087,Need a return label,solved,normal,task,web_widget,1,2025-06-30T00:19:15,2025-06-30T13:24:15,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+11088,Please erase my data,solved,low,question,web_widget,2,2025-08-13T21:32:20,2025-08-14T11:09:20,ACC-003,ACC-003,Account,Account,False,1
+11089,Invoice request for #549721,closed,normal,incident,web_widget,1,2025-06-21T23:18:55,2025-06-22T15:32:55,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+11090,Package hasn't arrived yet,pending,normal,question,web_widget,2,2025-06-30T03:23:56,2025-06-30T13:57:56,ORD-002,,Order & shipping,,False,1
+11091,Disappointed with quality,closed,low,incident,email,1,2025-07-20T19:14:23,2025-07-21T05:32:23,PRD-005,PAY-004,Product,Payments & billing,True,1
+11092,Not as pictured,closed,normal,problem,web_widget,1,2025-06-24T06:49:13,2025-06-24T18:07:13,PRD-005,LOY-001,Product,Loyalty,True,1
+11093,Order #648126 status,closed,normal,incident,web_widget,1,2025-08-12T08:30:49,2025-08-12T18:59:49,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11094,Still waiting on refund for #634570,solved,normal,question,email,1,2025-08-07T06:56:32,2025-08-07T14:52:32,RET-002,ACC-002,Returns & refunds,Account,True,1
+11095,Need to update my address,solved,normal,problem,web_widget,2,2025-06-04T00:01:23,2025-06-04T15:08:23,ACC-002,ACC-002,Account,Account,False,1
+11096,Complaint about recent order,solved,normal,question,email,1,2025-06-25T07:13:18,2025-06-25T15:25:18,GEN-001,GEN-001,General,General,False,1
+11097,Product question about graphic t-shirt,solved,low,question,email,1,2025-07-11T09:02:23,2025-07-11T17:07:23,PRD-003,PAY-001,Product,Payments & billing,True,1
+11098,Partial refund issue,open,normal,question,email,1,2025-06-15T07:02:20,2025-06-15T13:24:20,RET-003,,Returns & refunds,,False,1
+11099,Delivery delay on #523565,closed,low,incident,email,1,2025-07-24T16:37:36,2025-07-25T07:31:36,ORD-002,PAY-001,Order & shipping,Payments & billing,True,1
+11100,Refund status,pending,high,incident,web_widget,2,2025-07-03T05:32:56,2025-07-03T08:13:56,RET-002,,Returns & refunds,,False,1
+11101,Product arrived defective,solved,high,question,email,1,2025-07-07T14:12:41,2025-07-08T01:37:41,PRD-001,PRD-001,Product,Product,False,1
+11102,Delivery delay on #930583,solved,normal,incident,web_widget,1,2025-06-25T14:07:47,2025-06-25T22:59:47,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11103,Complaint about recent order,solved,normal,task,web_widget,1,2025-08-03T03:19:13,2025-08-03T15:39:13,GEN-001,GEN-001,General,General,False,1
+11104,Address correction for #396025,pending,low,question,web_widget,2,2025-06-23T07:49:02,2025-06-23T21:06:02,ORD-005,,Order & shipping,,False,1
+11105,Refund status,solved,low,question,email,1,2025-06-15T07:19:55,2025-06-15T15:12:55,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11106,Package marked delivered but I got nothing,pending,normal,question,web_widget,1,2025-07-30T01:56:52,2025-07-30T15:25:52,ORD-003,,Order & shipping,,False,1
+11107,Can't log in,solved,normal,problem,email,2,2025-08-01T23:47:46,2025-08-02T05:02:46,ACC-001,ACC-001,Account,Account,False,1
+11108,Product arrived defective,closed,normal,problem,web_widget,1,2025-06-08T08:26:10,2025-06-08T18:47:10,PRD-001,PRD-001,Product,Product,False,1
+11109,Receipt for accounting,solved,low,problem,email,1,2025-08-08T10:47:14,2025-08-08T16:00:14,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+11110,Complaint about recent order,solved,urgent,problem,email,1,2025-07-05T19:55:50,2025-07-06T07:59:50,GEN-001,GEN-001,General,General,False,1
+11111,Product question about yoga mat,open,normal,task,email,1,2025-08-02T20:02:29,2025-08-03T08:37:29,PRD-003,,Product,,False,1
+11112,Product arrived defective,solved,normal,task,web_widget,1,2025-06-30T20:12:51,2025-07-01T10:16:51,PRD-001,PRD-001,Product,Product,False,1
+11113,Item stopped working,solved,normal,question,web_widget,1,2025-07-02T00:12:43,2025-07-02T09:20:43,PRD-001,PRD-001,Product,Product,False,1
+11114,Item stopped working,pending,high,task,web_widget,2,2025-06-21T13:37:41,2025-06-21T17:28:41,PRD-001,,Product,,False,1
+11115,Password reset not working,solved,urgent,problem,web_widget,2,2025-07-21T22:46:43,2025-07-22T18:55:43,ACC-001,ACC-001,Account,Account,False,1
+11116,Item stopped working,closed,normal,incident,email,1,2025-08-01T12:16:42,2025-08-01T23:40:42,PRD-001,PRD-001,Product,Product,False,1
+11117,Refund status,solved,high,incident,web_widget,2,2025-06-11T17:21:09,2025-06-12T06:07:09,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11118,Didn't get my discount,solved,normal,incident,email,2,2025-06-25T10:54:04,2025-06-25T20:07:04,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+11119,Disappointed with quality,open,high,task,web_widget,1,2025-07-24T19:36:05,2025-07-25T13:29:05,PRD-005,,Product,,False,1
+11120,Incomplete package,pending,low,incident,email,2,2025-06-28T23:58:04,2025-06-29T12:57:04,ORD-004,,Order & shipping,,False,1
+11121,Membership benefits,closed,high,task,email,1,2025-07-17T13:17:16,2025-07-17T19:21:16,LOY-001,LOY-001,Loyalty,Loyalty,False,1
+11122,Receipt for accounting,closed,normal,problem,web_widget,1,2025-08-23T19:08:50,2025-08-24T00:56:50,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+11123,Wrong item received,closed,normal,task,web_widget,1,2025-06-27T04:05:36,2025-06-27T16:48:36,PRD-002,ORD-003,Product,Order & shipping,True,1
+11124,Password reset not working,solved,normal,problem,web_widget,1,2025-06-15T18:23:51,2025-06-16T04:59:51,ACC-001,ORD-003,Account,Order & shipping,True,1
+11125,Partial refund issue,solved,normal,incident,web_widget,1,2025-07-08T12:10:38,2025-07-09T01:40:38,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+11126,Random query,closed,low,task,email,1,2025-08-08T06:20:37,2025-08-09T02:17:37,GEN-OTHER,GEN-OTHER,General,General,False,1
+11127,Discount code not working,solved,normal,incident,web_widget,2,2025-08-18T15:09:08,2025-08-19T02:43:08,PAY-004,PAY-004,Payments & billing,Payments & billing,False,1
+11128,Item stopped working,solved,low,problem,web_widget,2,2025-07-03T02:43:02,2025-07-03T16:15:02,PRD-001,PRD-001,Product,Product,False,1
+11129,Can't log in,solved,normal,incident,web_widget,2,2025-07-17T22:06:03,2025-07-18T04:31:03,ACC-001,ACC-001,Account,Account,False,1
+11130,Where is my refund?,pending,urgent,problem,web_widget,1,2025-07-10T19:53:08,2025-07-11T04:36:08,RET-002,,Returns & refunds,,False,1
+11131,Still waiting on refund for #595504,solved,normal,question,email,1,2025-07-22T19:51:03,2025-07-23T03:22:03,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11132,Package hasn't arrived yet,solved,normal,incident,web_widget,2,2025-07-09T08:36:43,2025-07-09T20:06:43,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11133,Return eligibility,solved,low,incident,web_widget,1,2025-06-15T07:25:29,2025-06-15T13:36:29,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+11134,Still waiting on refund for #602723,solved,normal,question,email,1,2025-07-04T15:34:35,2025-07-05T07:22:35,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11135,Defective desk lamp,pending,normal,problem,web_widget,2,2025-07-16T11:36:25,2025-07-16T20:08:25,PRD-001,,Product,,False,1
+11136,Package hasn't arrived yet,solved,low,task,web_widget,1,2025-08-28T08:39:56,2025-08-28T16:27:56,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11137,Wrong item received,solved,high,task,web_widget,1,2025-06-19T05:35:23,2025-06-19T09:09:23,PRD-002,PRD-002,Product,Product,False,1
+11138,Partial refund issue,solved,normal,problem,web_widget,1,2025-07-16T09:42:25,2025-07-17T02:36:25,RET-003,RET-003,Returns & refunds,Returns & refunds,False,1
+11139,Where is my refund?,solved,high,task,web_widget,1,2025-06-17T18:44:24,2025-06-18T03:57:24,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11140,Defective running shoes,open,normal,problem,web_widget,1,2025-08-27T01:19:19,2025-08-27T10:49:19,PRD-001,,Product,,False,1
+11141,Product question about leather wallet,open,low,question,web_widget,1,2025-06-08T21:21:14,2025-06-09T05:28:14,PRD-003,,Product,,False,1
+11142,Return policy question,solved,normal,incident,web_widget,1,2025-06-20T13:48:06,2025-06-20T19:13:06,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+11143,Defective graphic t-shirt,solved,low,question,web_widget,1,2025-06-11T05:32:11,2025-06-11T13:38:11,PRD-001,PRD-001,Product,Product,False,1
+11144,Where is my order?,solved,high,incident,web_widget,1,2025-07-13T08:14:40,2025-07-13T20:25:40,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11145,Quality doesn't match description,solved,urgent,task,email,2,2025-07-02T21:14:11,2025-07-03T09:53:11,PRD-005,PRD-005,Product,Product,False,1
+11146,How do I return this?,pending,low,question,web_widget,2,2025-06-01T15:25:11,2025-06-01T19:35:11,RET-001,,Returns & refunds,,False,1
+11147,Where is my order?,solved,normal,problem,email,1,2025-08-10T22:25:04,2025-08-11T07:02:04,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11148,Where is my order?,closed,low,task,email,1,2025-08-21T12:54:00,2025-08-21T23:11:00,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11149,Refund status,pending,normal,task,email,2,2025-07-25T07:09:02,2025-07-25T14:56:02,RET-002,,Returns & refunds,,False,1
+11150,Invoice request for #969750,closed,normal,question,web_widget,1,2025-08-21T09:29:50,2025-08-21T21:32:50,PAY-003,RET-003,Payments & billing,Returns & refunds,True,1
+11151,How long do I have to return an item?,solved,normal,problem,email,1,2025-06-03T15:19:06,2025-06-04T01:53:06,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+11152,Delivery delay on #380780,closed,low,problem,email,1,2025-07-29T15:33:44,2025-07-30T00:01:44,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11153,Product arrived defective,solved,high,question,email,1,2025-07-12T09:46:15,2025-07-12T19:37:15,PRD-001,PRD-001,Product,Product,False,1
+11154,Item missing from my order,solved,normal,question,email,1,2025-06-18T16:44:15,2025-06-19T06:06:15,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+11155,Order #456027 status,pending,low,task,web_widget,2,2025-06-08T15:36:04,2025-06-08T20:44:04,ORD-001,,Order & shipping,,False,1
+11156,Item stopped working,closed,normal,incident,email,1,2025-06-17T04:55:37,2025-06-17T17:23:37,PRD-001,PRD-001,Product,Product,False,1
+11157,Defective desk lamp,closed,low,task,email,2,2025-08-13T23:30:56,2025-08-14T07:34:56,PRD-001,PRD-001,Product,Product,False,1
+11158,Wrong item received,closed,normal,incident,email,1,2025-08-18T17:26:38,2025-08-19T00:11:38,PRD-002,PRD-002,Product,Product,False,1
+11159,Card not working at checkout,solved,normal,task,web_widget,1,2025-08-22T19:25:16,2025-08-23T00:40:16,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+11160,Item missing from my order,solved,normal,incident,web_widget,1,2025-06-27T00:35:05,2025-06-27T14:09:05,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+11161,Does this come in other sizes?,solved,normal,incident,web_widget,1,2025-07-23T07:37:30,2025-07-23T16:26:30,PRD-003,PRD-003,Product,Product,False,1
+11162,Wrong item received,closed,high,question,email,1,2025-08-09T20:37:35,2025-08-10T01:42:35,PRD-002,PAY-003,Product,Payments & billing,True,1
+11163,How long do I have to return an item?,solved,normal,problem,web_widget,1,2025-06-27T16:55:03,2025-06-28T04:25:03,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+11164,Not as pictured,closed,low,task,web_widget,1,2025-08-08T05:16:51,2025-08-08T20:47:51,PRD-005,PRD-005,Product,Product,False,1
+11165,How do I return this?,closed,normal,incident,web_widget,2,2025-07-31T12:13:33,2025-08-01T00:11:33,RET-001,RET-001,Returns & refunds,Returns & refunds,False,1
+11166,Delivery delay on #384289,open,low,question,email,1,2025-07-10T12:55:47,2025-07-11T07:05:47,ORD-003,,Order & shipping,,False,1
+11167,Question before buying,pending,normal,incident,email,2,2025-08-07T04:09:51,2025-08-07T05:39:51,PRD-003,,Product,,False,1
+11168,Not as pictured,closed,low,incident,web_widget,1,2025-07-08T19:40:31,2025-07-09T12:13:31,PRD-005,PRD-005,Product,Product,False,1
+11169,My order is late,pending,normal,task,web_widget,1,2025-08-06T14:10:48,2025-08-06T16:17:48,ORD-002,,Order & shipping,,False,1
+11170,Invoice request for #600707,closed,low,question,web_widget,2,2025-06-28T00:42:19,2025-06-28T09:02:19,PAY-003,PAY-003,Payments & billing,Payments & billing,False,1
+11171,Defective sunglasses,closed,low,question,email,2,2025-06-15T15:17:23,2025-06-16T02:04:23,PRD-001,PRD-001,Product,Product,False,1
+11172,Can't complete checkout,closed,normal,question,web_widget,2,2025-08-19T23:53:54,2025-08-20T13:09:54,PAY-001,PAY-001,Payments & billing,Payments & billing,False,1
+11173,Received wrong product,pending,normal,problem,web_widget,2,2025-06-03T22:53:53,2025-06-04T05:31:53,PRD-002,,Product,,False,1
+11174,How long do I have to return an item?,closed,normal,incident,web_widget,2,2025-08-08T16:06:25,2025-08-09T02:19:25,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+11175,Stock availability question,solved,normal,question,web_widget,2,2025-06-29T13:02:07,2025-06-30T10:25:07,PRD-004,ORD-005,Product,Order & shipping,True,1
+11176,Incomplete package,closed,low,task,web_widget,1,2025-07-28T01:38:03,2025-07-28T12:47:03,ORD-004,ORD-004,Order & shipping,Order & shipping,False,1
+11177,Still waiting on refund for #316095,solved,low,problem,web_widget,1,2025-06-18T03:55:22,2025-06-18T15:12:22,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11178,Out of stock item,pending,urgent,question,email,1,2025-07-21T16:19:32,2025-07-22T00:06:32,PRD-004,,Product,,False,1
+11179,How long do I have to return an item?,solved,normal,problem,web_widget,1,2025-06-08T03:42:29,2025-06-08T17:01:29,RET-004,RET-004,Returns & refunds,Returns & refunds,False,1
+11180,Delivery delay on #796276,solved,normal,task,email,1,2025-06-05T11:35:45,2025-06-06T01:11:45,ORD-002,ORD-002,Order & shipping,Order & shipping,False,1
+11181,Password reset not working,solved,normal,incident,web_widget,1,2025-06-14T19:31:18,2025-06-14T23:14:18,ACC-001,ACC-001,Account,Account,False,1
+11182,My order is late,pending,high,problem,web_widget,1,2025-08-16T09:08:22,2025-08-16T20:39:22,ORD-002,,Order & shipping,,False,1
+11183,Defective yoga mat,solved,normal,problem,email,2,2025-08-23T14:37:34,2025-08-24T06:25:34,PRD-001,PRD-001,Product,Product,False,1
+11184,Still waiting on refund for #100751,open,normal,task,web_widget,1,2025-06-04T18:51:59,2025-06-05T09:38:59,RET-002,,Returns & refunds,,False,1
+11185,Product question about sneakers,closed,low,task,email,1,2025-07-02T15:08:25,2025-07-02T22:43:25,PRD-003,PRD-003,Product,Product,False,1
+11186,Where is my refund?,closed,normal,task,email,2,2025-06-05T13:23:48,2025-06-06T06:04:48,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11187,Tracking question,closed,normal,incident,web_widget,1,2025-07-23T18:49:42,2025-07-24T02:12:42,ORD-001,ORD-001,Order & shipping,Order & shipping,False,1
+11188,Product arrived defective,solved,normal,incident,email,1,2025-08-24T21:06:42,2025-08-25T07:00:42,PRD-001,PRD-001,Product,Product,False,1
+11189,Refund status,closed,normal,task,web_widget,1,2025-07-11T17:55:43,2025-07-12T06:18:43,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11190,When will this be back in stock?,solved,normal,task,web_widget,2,2025-08-14T13:00:28,2025-08-14T22:30:28,PRD-004,PRD-004,Product,Product,False,1
+11191,Delivery delay on #565474,solved,high,problem,web_widget,2,2025-06-06T09:03:58,2025-06-06T14:11:58,ORD-002,PAY-002,Order & shipping,Payments & billing,True,1
+11192,Wrong address on order,solved,normal,problem,web_widget,1,2025-08-03T04:54:47,2025-08-03T13:03:47,ORD-005,ORD-005,Order & shipping,Order & shipping,False,1
+11193,Still waiting on refund for #793128,solved,low,problem,web_widget,1,2025-06-04T08:59:41,2025-06-05T02:50:41,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11194,Locked out of my account,solved,urgent,problem,web_widget,1,2025-08-18T14:30:56,2025-08-19T03:47:56,ACC-001,LOY-001,Account,Loyalty,True,1
+11195,Where is my refund?,solved,high,problem,web_widget,1,2025-08-02T07:22:35,2025-08-02T21:36:35,RET-002,RET-002,Returns & refunds,Returns & refunds,False,1
+11196,Update my account details,solved,low,task,email,1,2025-06-29T23:19:34,2025-06-30T05:20:34,ACC-002,ACC-002,Account,Account,False,1
+11197,Tracking question,closed,normal,question,web_widget,2,2025-08-12T05:59:23,2025-08-12T19:53:23,ORD-001,GEN-001,Order & shipping,General,True,1
+11198,Wrong refund amount,open,low,incident,email,1,2025-06-04T19:29:06,2025-06-05T03:06:06,RET-003,,Returns & refunds,,False,1
+11199,Still waiting on refund for #346277,pending,normal,problem,web_widget,2,2025-08-02T18:36:06,2025-08-03T01:53:06,RET-002,,Returns & refunds,,False,1

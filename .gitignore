@@ -1,0 +1,31 @@
+# Secrets & credentials — never commit
+.env
+.env.*
+!.env.example
+*-key.json
+*-credentials.json
+service-account*.json
+application_default_credentials.json
+*.pem
+
+# Terraform state & vars (can contain resource IDs/secrets)
+infra/**/.terraform/
+infra/**/*.tfstate
+infra/**/*.tfstate.*
+infra/**/*.tfvars
+!infra/**/*.tfvars.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Claude Code session-internal files
+.claude/scheduled_tasks.lock
