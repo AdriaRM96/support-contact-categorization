@@ -1,9 +1,11 @@
 # NovaCart Support Contact Categorisation
 
 [![Tests](https://github.com/AdriaRM96/support-contact-categorization/actions/workflows/tests.yml/badge.svg)](https://github.com/AdriaRM96/support-contact-categorization/actions/workflows/tests.yml)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://support-contact-categorization.streamlit.app/)
 
 A simulated two-stage support-ticket categorisation pipeline for NovaCart, a fictional mid-sized e-commerce marketplace — built as a portfolio project to explore a real operational question: **how do you know what's driving your support volume, in near real time, without hand-tagging every ticket?**
 
+🚀 **[Try the live dashboard](https://support-contact-categorization.streamlit.app/)** — no setup required.
 📖 **[See the wiki](../../wiki) for the extensive Q&A, the two-way implementation roadmap, and the full engineering log.**
 
 ---
@@ -107,7 +109,11 @@ flowchart TD
 
 ## How to run it
 
-### Just want to see it work — no GCP needed
+### Just want to look at the dashboard — no setup at all
+
+**[support-contact-categorization.streamlit.app](https://support-contact-categorization.streamlit.app/)** — the same dashboard described below, hosted on Streamlit Community Cloud, reading the committed `outputs/tickets_classified.csv`. Nothing to install.
+
+### Want to run it yourself — no GCP needed
 
 ```bash
 git clone <this-repo>
