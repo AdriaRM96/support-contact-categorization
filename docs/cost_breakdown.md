@@ -46,6 +46,30 @@ way the input rate was. Treat the output-cost line (and therefore the
 ~$1.39 Gemini total) as accurate to roughly ±15-20% until cross-checked
 against Billing Reports directly.
 
+## Cost per ticket
+
+Two different "per ticket" numbers matter here, and they're not the same
+thing:
+
+| Metric | Value | How it's derived |
+|---|---|---|
+| Average cost per Gemini classification call | **≈$0.00027** (≈$0.27 per 1,000 calls) | Total Gemini spend ($1.39) ÷ estimated total calls across the whole session (~5,100, including every debugging re-run — see below) |
+| **Cost per ticket, live production simulation only** | **≈$0.00049/ticket** (≈$0.49 per 1,000 tickets fully processed) | The actual deployed-pipeline run: 1,200 tickets, 2,158 real classification calls (every ticket gets a triage call; 958 of them also get a final call once closed), at the average per-call cost above |
+
+The second number is the more meaningful one if you're estimating what this
+would cost running for real: **roughly $0.50 to fully classify 1,000
+tickets through both pipeline stages with Gemini** at this pricing tier and
+prompt size. The router/hybrid classifier's equivalent cost is $0 per
+ticket — no API call at all — which is the concrete number behind the
+"Cost-aware model selection" reflection in the README.
+
+Both figures above use an *estimated* total call count (~5,100) since exact
+per-run call counts weren't individually logged for every debugging
+re-run — see the "why actual came in higher" note above for what made up
+that total. The $1.39 total Gemini spend itself is not an estimate (real
+token counts from Cloud Monitoring); only how that total is divided across
+calls to get a per-call/per-ticket figure involves an approximation.
+
 **To get the true, GCP-billed dollar figure** (not the token-rate
 calculation above): GCP Console → Billing → Reports, filtered to
 `contacts-classification` and the 2026-08-26–2026-08-27 window. This

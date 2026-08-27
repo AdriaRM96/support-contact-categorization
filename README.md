@@ -155,11 +155,23 @@ Actual cost for the full deploy → demo → teardown cycle in this project: **�
 | **Hybrid router** (recommended default) | 92.7% | 91.9% | 98.7% | **100%** |
 | Gemini 2.5 Flash (zero-shot) | **98.7%** | **98.3%** | **99.0%** | **100%** |
 
+<details>
+<summary><strong>What do these four columns mean?</strong></summary>
+
+- **Final accuracy** — percent of tickets correctly classified using the *full conversation thread* (the "final" stage, run at ticket close). This is the authoritative number — it's what actually feeds trend reports.
+- **Final macro F1** — F1 score at the final stage, averaged equally across all 26 categories rather than weighted by how common each one is. This matters because the dataset is imbalanced by design (some issue types are far more common than others); a model could post a high plain accuracy just by nailing the frequent categories while quietly failing the rare ones, and macro F1 is the metric that catches that.
+- **Triage accuracy** — the same idea as final accuracy, but using only the ticket's first message (the "triage" stage, run at ticket creation, before the rest of the conversation exists).
+- **New-category accuracy** — percent correct specifically on tickets belonging to a category that had *zero* training examples when the classifier was built. This tests what happens the day after a new "kind of issue" is added to the taxonomy but no model has ever been retrained on it — see below for why this is the most important column in the table.
+
+</details>
+
 **The new-category test is the finding that matters most, not the accuracy column.** A trained classifier's prediction is always an argmax over the categories it saw during training — it structurally *cannot* output a category it's never seen, no matter how confident or uncertain it is. When a brand-new category ("Express shipping request") was introduced partway through the dataset with zero prior examples, both trained approaches scored exactly 0% on it — not "low," zero, because they always guessed the nearest known category instead. The centroid, the router, and Gemini all hit 100%, because none of them need training examples to recognise a category — they only need the taxonomy entry to exist.
 
 **The headline accuracy numbers hide real variation.** Gemini's 98.3% on the full held-out set drops to 92.5% on tickets where the conversation drifts from what the subject implied, and 80.0% on deliberately ambiguous tickets — exactly the cases the dataset was built to stress-test. On inspection, several of the "wrong" predictions on those hard cases look like label noise in the synthetic drift generator rather than genuine model errors — worth knowing before trusting any single accuracy number at face value. Full detail in `outputs/gemini_holdout_detailed_predictions.csv`.
 
 **What the confusion matrix reveals:** the categories that get confused most are the ones that are semantically close by design — refund status vs. duplicate charge, defective product vs. wrong item received. These aren't classifier weaknesses so much as evidence that the taxonomy itself has categories that legitimately overlap for some real tickets (see the MECE discussion below).
+
+**What it costs, per ticket:** the hybrid router is $0 per classification — no API call at all. Gemini, measured from the actual live deployment (real Cloud Monitoring token counts, not estimated), costs **≈$0.0005 per ticket** classified through both pipeline stages — about $0.49 to fully process 1,000 tickets. Full derivation in `docs/cost_breakdown.md`.
 
 ---
 
