@@ -14,6 +14,8 @@ A simulated two-stage support-ticket categorisation pipeline for NovaCart, a fic
 
 NovaCart's support team had no reliable, real-time answer to "why are people contacting us right now" — only what an agent happened to tag, days later, inconsistently. This project simulates a two-stage classification pipeline (triage at ticket creation, final classification at ticket close) against a synthetic-but-realistic dataset, compares four classification approaches head-to-head, and deploys the best one as a live Cloud Run + BigQuery pipeline. The headline result: a lightweight self-hosted "hybrid router" gets 92.7% accuracy at zero marginal cost, while zero-shot Gemini gets 98.7% for about $1.40 total spend on this entire exercise — a genuine, measured build-vs-buy tradeoff, not a guess.
 
+**A note on what these numbers mean.** 92.7% and 98.7% are true of this synthetic dataset — they are not a prediction of real-world accuracy. Real support text has code-switching, sarcasm, and other messiness no template fully captures. More importantly, every classifier here assumes single-label classification: each ticket gets exactly one category. That's a different claim from the "ambiguous" stress test, which models a ticket with one true answer that's hard to identify — not a ticket that genuinely raises two separate issues at once (e.g. a wrong item and a billing dispute in the same message). That case isn't modelled here, and a real deployment would need to decide whether it's rare enough to ignore or common enough to need a different framing (e.g. multi-label, or splitting into separate tickets upstream).
+
 ---
 
 ## The problem, explained plainly
@@ -83,6 +85,10 @@ flowchart TD
 - **Four classifiers** (`src/classifiers.py`, `src/classifier_router.py`, `src/gemini_classifier.py`) — share a common `fit`/`predict` interface so they drop into the same evaluation harness.
 - **Cloud pipeline** (`infra/`) — two Cloud Run services (one per pipeline stage), each running the router and, when enabled, Gemini, writing both predictions per ticket to BigQuery. Deploy-once, demo, tear down — not meant to run continuously.
 - **Dashboard** (`dashboard/app.py`) — a local-first Streamlit app answering three questions at a glance: what's driving contacts, is anything spiking, is the pipeline healthy (i.e. is the triage/final disagreement rate normal).
+
+### What this deliberately doesn't solve
+
+The hardest part of a real deployment isn't the classification model — it's reliably getting tickets into the pipeline and the category back out to the agent: webhook retries when an endpoint is briefly down, what happens when a ticket gets reopened or reassigned mid-classification, guaranteeing the category actually lands where an agent sees it. `infra/simulate_tickets.py` deliberately replaces all of that with a simple replay script. That's a reasonable scope boundary for a portfolio project, but in a real rollout that plumbing is arguably higher-risk than model accuracy, not an afterthought to it.
 
 ---
 
